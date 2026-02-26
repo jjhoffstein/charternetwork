@@ -16,6 +16,7 @@ from charternetwork.arcs import generate_arcs
 from charternetwork.optimize import solve
 from charternetwork.baseline import compare
 from charternetwork.viz import exec_summary
+from charternetwork.analytics import per_conference, per_team, unit_economics, extract_chains, format_chain_narrative, schedule_df
 
 DATA = Path(__file__).parent.parent / 'data'
 DEFAULT_BASES = dict(IND=2, ORD=2, DFW=1, ATL=1)
@@ -117,10 +118,38 @@ def run(args):
     fig.savefig(out_path, dpi=150, bbox_inches='tight', facecolor=fig.get_facecolor())
     plt.close(fig)
     print(f"  -> Saved to {out_path}")
+
+    # 11. Analytics
+    print("Running analytics...")
+    ue = unit_economics(trips, sol)
+    print(f"  Total trips:      {ue['total_trips']}")
+    print(f"  Cost per trip:    ${ue['cost_per_trip']:,.0f}")
+    print(f"  Ferry ratio:      {ue['ferry_ratio']:.2%}")
+    print(f"  Revenue NM:       {ue['total_revenue_nm']:,.0f}")
+    print(f"  Ferry NM:         {ue['total_ferry_nm']:,.0f}\n")
+
+    conf = per_conference(trips, sol)
+    print("  Conference breakdown:")
+    for c, s in sorted(conf.items(), key=lambda x: x[1]['ferry_cost'], reverse=True):
+        print(f"    {c:12s}  {s['trips']:3d} trips  ${s['ferry_cost']:>10,.0f} ferry")
+
+    chains = extract_chains(sol, trips)
+    if chains:
+        print(f"\n  Top chains ({len(chains)} total):")
+        for ch in chains[:5]:
+            print(format_chain_narrative(ch))
+
+    # 12. Export schedule CSV
+    sched = schedule_df(sol, trips)
+    csv_path = str(DATA / 'results' / 'optimized_schedule.csv')
+    sched.to_csv(csv_path, index=False)
+    print(f"\n  -> Schedule exported to {csv_path}")
+
     print(f"\n=== Done ===")
 
     return dict(games=games, legs=legs, trips=trips, fleet=fleet,
-                arcs=arcs, sol=sol, comp=comp)
+                arcs=arcs, sol=sol, comp=comp,
+                unit_economics=ue, conf_breakdown=conf, chains=chains, schedule=sched)
 
 
 def main(argv=None):
