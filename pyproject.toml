@@ -1,0 +1,19 @@
+[project]
+name = "charternetwork"
+version = "0.1.0"
+description = "Charter network optimization for collegiate athletics"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "httpx",
+    "matplotlib",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "pulp"]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"

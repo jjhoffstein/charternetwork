@@ -1,0 +1,31 @@
+name: Run Optimization
+on:
+  workflow_dispatch:
+    inputs:
+      conferences:
+        description: 'Comma-separated conference list'
+        default: 'big_ten,sec,big_12,acc,big_east'
+      season_start:
+        description: 'Season start (YYYYMMDD)'
+        default: '20251101'
+      season_end:
+        description: 'Season end (YYYYMMDD)'
+        default: '20260315'
+  schedule:
+    - cron: '0 6 * * 1'
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -e ".[dev]"
+      - name: Run full pipeline
+        run: python -m charternetwork.pipeline --conferences ${{ github.event.inputs.conferences || 'big_ten,sec,big_12,acc,big_east' }} --start ${{ github.event.inputs.season_start || '20251101' }} --end ${{ github.event.inputs.season_end || '20260315' }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: optimization-results
+          path: data/results/
