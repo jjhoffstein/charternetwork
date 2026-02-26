@@ -28,6 +28,7 @@ class Tail:
     home_base: str
     hourly_rate: float
     cruise_kt: float = 250.0
+    fuel_burn_gal_hr: float = 120.0
     min_turnaround_min: int = 90
 
     @property
@@ -49,7 +50,7 @@ class Fleet:
         spec = AIRCRAFT[aircraft_type]
         tails = [Tail(id=f'{aircraft_type}_{i}', aircraft_type=aircraft_type, capacity=spec['capacity'],
             home_base=base, hourly_rate=spec['hourly_rate'], cruise_kt=spec['cruise_kt'],
-            min_turnaround_min=spec['min_turnaround_min'], **kw) for i in range(n)]
+            fuel_burn_gal_hr=spec['fuel_burn_gal_hr'], min_turnaround_min=spec['min_turnaround_min'], **kw) for i in range(n)]
         return cls(tails=tails)
 
     @classmethod
@@ -59,7 +60,7 @@ class Fleet:
         spec = AIRCRAFT[aircraft_type]
         tails = [Tail(id=f'{aircraft_type}_{base}_{i}', aircraft_type=aircraft_type, capacity=spec['capacity'],
             home_base=base, hourly_rate=spec['hourly_rate'], cruise_kt=spec['cruise_kt'],
-            min_turnaround_min=spec['min_turnaround_min']) for base, n in bases.items() for i in range(n)]
+            fuel_burn_gal_hr=spec['fuel_burn_gal_hr'], min_turnaround_min=spec['min_turnaround_min']) for base, n in bases.items() for i in range(n)]
         return cls(tails=tails)
 
 @dataclass
