@@ -14,46 +14,36 @@ Key guidance for the presentation LLM:
 
 ---
 
-<!-- SLIDE NOTE: Title slide. Clean, professional. Subtitle conveys that this is
-structural/systematic, not a one-off hack. -->
-
----
-
 ## 1. The Problem
 
-Every time an athletic program flies to an away game, an aircraft has to get into
-position first. That positioning flight — the **ferry** or **deadhead** — generates
-zero revenue but carries the full cost of fuel, crew, and aircraft time.
+Every away game requires an aircraft to get into position first. That positioning
+flight — the **ferry** or **deadhead** — generates zero revenue but carries the
+full cost of fuel, crew, and aircraft time.
 
 In a traditional brokerage model, each trip is booked independently. A broker finds
 an available tail, dispatches it to the team's home airport, and brings it back to
-base after the return leg. This works — but it means:
+base after the return leg. This means:
 
-- **No global visibility.** Each trip is optimized in isolation. A tail deadheading
-  back to Indianapolis after dropping off Purdue in Philadelphia has no awareness
-  that Penn State needs a pickup from the same region the next morning.
-- **Geographic mismatch.** Contracting with carriers whose bases are far from the
-  programs they service means every trip starts with a long, expensive ferry.
-- **Margin compression at scale.** As the number of programs and conferences grows,
-  the number of missed connections grows combinatorially — but human brokers can
-  only hold so many schedules in their heads.
+- **No global visibility.** Each trip is optimized in isolation.
+- **Geographic mismatch.** Contracting with distant carriers means every trip starts
+  with an expensive ferry.
+- **Margin compression at scale.** As programs and conferences grow, missed
+  connections grow combinatorially — but human brokers can only hold so many
+  schedules in their heads.
 
-The question this project answers: **What if we could see every trip across every
-conference simultaneously and route aircraft to minimize total ferry cost?**
+**What if we could see every trip across every conference simultaneously and route
+aircraft to minimize total ferry cost?**
 
-<!-- SLIDE NOTE: This slide sets up the pain point. Consider a simple illustration:
-two trips that share geography but are booked independently, each with redundant
-ferry flights forming an X pattern. Then show the optimized version where the
-tail chains from one to the other. -->
+<!-- SLIDE NOTE: Use a simple before/after diagram: two trips with redundant
+ferries forming an X pattern, then the optimized version where a tail chains
+from one to the other. -->
 
 ---
 
 ## 2. The Key Insight: The Trip as an Atomic Unit
 
-The core modeling decision that makes this tractable is treating each **away trip**
-as a single locked unit:
+The core modeling decision: treat each **away trip** as a single locked unit.
 
-```
 ┌──────────────────────────────────────────────────────┐
 │                    TRIP UNIT                         │
 │                                                      │
@@ -63,46 +53,41 @@ as a single locked unit:
 └──────────────────────────────────────────────────────┘
 ```
 
-We never propose splitting a trip across aircraft or swapping tails mid-window.
-This constraint is **operationally realistic** — it's how trips actually work — and
-it dramatically simplifies the optimization. Instead of routing thousands of
-individual flight legs, we route hundreds of trip units.
+We never split a trip across aircraft or swap tails mid-window. This is
+**operationally realistic** — it's how trips actually work — and it simplifies
+the optimization from routing thousands of legs to routing hundreds of trip units.
 
-The optimization happens in the **space between trips**: which tail, coming from
-where, should service each trip — and can it chain to another trip afterward
-instead of deadheading home?
+The optimization happens **between trips**: which tail, from where, should service
+each trip — and can it chain to another trip afterward instead of deadheading home?
 
-<!-- SLIDE NOTE: This is the conceptual core. Emphasize that the trip-unit
-constraint is not a simplification for convenience — it prevents operationally
+<!-- SLIDE NOTE: Emphasize that the trip-unit constraint prevents operationally
 infeasible solutions (crew swaps, repositioning mid-game, duty violations). -->
 
 ---
 
 ## 3. How It Works
 
-The system is a six-stage pipeline that runs end-to-end from live schedule data
-to an optimized routing plan.
+A six-stage pipeline runs end-to-end from live schedule data to an optimized
+routing plan.
 
 ### Stage 1: Schedule Ingestion
-We pull game schedules directly from ESPN's API for every conference and sport in
-scope. Each game gives us teams, date, venue city, and neutral-site status. Venue
+Game schedules pulled directly from ESPN's API for every conference and sport in
+scope. Each game provides teams, date, venue city, and neutral-site status. Venue
 cities are mapped to the nearest IATA airport.
 
 **Current scope:** Big Ten + SEC, Men's and Women's Basketball (Nov 2025 – Mar 2026).
 Extensible to any conference or sport ESPN covers.
 
 ### Stage 2: Leg Construction
-For each away game, we generate two legs:
+For each away game:
 - **Outbound:** Depart team's home airport 6 hours before game time
 - **Return:** Depart venue airport 4 hours after game time
 
-Each leg carries a haversine distance in nautical miles. Short trips (under 50nm)
-are filtered — those are bus trips, not charters.
+Short trips (under 50nm) are filtered — those are bus trips.
 
 ### Stage 3: Fleet & Arc Generation
-We define a fleet of aircraft at specified bases (e.g., 2 ERJ-145s at IND, 2 at ORD,
-1 at DFW, 1 at ATL). The system then generates every **feasible connection** between
-trips, subject to hard constraints:
+A fleet of aircraft at specified bases (2 ERJ-145s at IND, 2 at ORD, 1 at DFW,
+1 at ATL). The system generates every feasible connection between trips:
 
 | Constraint | Value | Rationale |
 |---|---|---|
@@ -118,191 +103,136 @@ An Integer Linear Program assigns every trip to a tail, minimizing total ferry c
 The solver (HiGHS, via scipy) finds the **provably optimal** assignment — not a
 heuristic or approximation.
 
-Three hard constraints ensure feasibility:
-1. **Coverage:** Every trip is served by exactly one tail.
-2. **Flow conservation:** A tail that arrives at a trip must also depart from it.
+Three hard constraints:
+1. **Coverage:** Every trip served by exactly one tail.
+2. **Flow conservation:** A tail that arrives must also depart.
 3. **Depot balance:** Every tail returns to its home base.
 
 ### Stage 5: Baseline Comparison
-To quantify the value, we compare the optimized solution against two baselines:
+Optimized solution compared against two baselines:
 - **Single Hub:** Every tail dispatched from one central base (IND).
 - **Nearest Base:** Each trip gets the closest available base.
 
-All three use the same cost model (hourly rate + fuel burn) for a fair comparison.
+Same cost model for a fair comparison.
 
 ### Stage 6: Visualization & Analytics
-The pipeline outputs a three-panel executive summary map, per-conference and per-team
-cost breakdowns, chain narratives, and a full optimized schedule CSV.
-
-<!-- SLIDE NOTE: Consider splitting this into 2-3 slides. Stage 1-2 on one
-(data in), Stage 3-4 on one (the optimization), Stage 5-6 on one (outputs).
-The constraint table is important — it shows operational realism. -->
+Three-panel executive summary map, per-conference and per-team cost breakdowns,
+chain narratives, chain distribution analysis, and a full optimized schedule CSV.
 
 ---
 
-## 4. Results
+## 4. Results (Feb 2026 — Big Ten + SEC, MBB + WBB)
 
 ### Cost Comparison
 
 | Strategy | Monthly Ferry Cost | Reduction |
 |---|---|---|
-| Status Quo (Single Hub, IND) | ~$4.0M | — |
-| Nearest Base (IND, ORD, DFW, ATL) | ~$2.1M | **-47%** |
-| **ILP Optimized (Multi-Base)** | **~$1.3M** | **-68%** |
+| Status Quo (Single Hub, IND) | $18.2M | — |
+| Nearest Base (IND, ORD, DFW, ATL) | $12.1M | **-34%** |
+| **ILP Optimized (Multi-Base)** | **$6.1M** | **-66%** |
 
-The jump from Single Hub to Nearest Base is intuitive — don't fly planes across
-the country when you have a closer option. The jump from Nearest Base to Optimized
-is where the system earns its keep: **chaining trips** that a human would never
-connect because they span different teams, conferences, and sports.
+### Key Metrics
 
-### Visual: Ferry Route Comparison
+| Metric | Value |
+|---|---|
+| Total trips optimized | 438 |
+| Teams served | 82 |
+| Tails used | 6 (ERJ-145) |
+| Trip-to-trip chain arcs | 556 |
+| Multi-trip chains | 56 |
+| Longest chain | 11 trips |
+| Chained trips | 173 (40% of all trips) |
 
-<!-- SLIDE NOTE: Insert exec_summary.png here. The three-panel map is the visual
-centerpiece. Left panel (red lines) = Single Hub, showing the spider-web of long
-ferries from IND. Middle (blue) = Nearest Base, shorter but still redundant.
-Right (green) = Optimized, showing dramatically fewer and shorter ferry legs.
+### Visual: Executive Summary
+
+![Executive Summary](../data/results/exec_summary.png)
+
+<!-- SLIDE NOTE: The three-panel map is the visual centerpiece.
+Left (red) = Single Hub spider-web from IND.
+Middle (blue) = Nearest Base, shorter but redundant.
+Right (green) = Optimized, dramatically fewer and shorter ferry legs.
 Below: savings bar chart. -->
 
-![Executive Summary](data/results/exec_summary.png)
+### Visual: Chain Distribution
+
+![Chain Distribution](../data/results/chain_distribution.png)
+
+<!-- SLIDE NOTE: Left panel shows 173 of 438 trips (40%) are chained. Right panel
+shows the distribution of multi-trip chain lengths, reaching up to 11 trips. -->
 
 ---
 
-## 5. Assumptions — Laid Bare
+## 5. The "Aha" — Daisy-Chains
 
-Every model makes assumptions. Here are ours, why we made them, and what changes
-if they're wrong.
+The optimizer's real value: discovering **multi-trip chains** that no human broker
+would think to look for.
 
-| # | Assumption | Current Value | Rationale | Sensitivity |
-|---|---|---|---|---|
-| 1 | **Outbound departure offset** | 6 hrs before game | Team arrives ~4hrs early + 2hr buffer | Tightening to 4hrs increases feasible arcs (more chaining). Loosening to 8hrs decreases them. |
-| 2 | **Return departure offset** | 4 hrs after game | ~2.5hr game + 1.5hr ground ops | Same-day return is standard for basketball. Football may differ. |
-| 3 | **Aircraft type** | ERJ-145 (37 seats) | Standard for basketball travel parties (~35 pax) | CRJ-200 (50 seats) is also modeled. Football requires larger aircraft not yet in scope. |
-| 4 | **Hourly rate** | $3,200/hr (ERJ-145) | Market rate for Part 135 charter | This is the lever David knows best — the model re-optimizes cleanly with different rates. |
-| 5 | **Fuel price** | $5.50/gal | Current Jet-A average | At 120 gal/hr burn, fuel adds ~$660/hr to ferry cost. A $1/gal swing is ~$120/hr. |
-| 6 | **Max ferry distance** | 500 nm | Beyond this, a local charter is likely cheaper | Raising to 750nm unlocks more chains but at diminishing returns. |
-| 7 | **Fleet size & basing** | 6 tails: IND(2), ORD(2), DFW(1), ATL(1) | Central/southeast coverage for Big Ten + SEC | Different base configs are a single CLI argument change. |
-| 8 | **Crew duty limit** | 14 hrs | FAR Part 135 | Hard regulatory constraint — not adjustable. |
-| 9 | **Schedule source** | ESPN public API | Free, real-time, covers all D-I | Neutral-site tournaments and rescheduled games may have lag. |
+A single tail (erj_145_IND_0) chains **20 trips** across the Midwest with only
+**$56,877 in total ferry cost**. Without chaining, these same trips would cost
+multiples of that in independent round-trip ferries.
 
-**Key takeaway:** Assumptions 1, 2, 6, and 7 are the most impactful tuning knobs.
-The system is designed to re-run in minutes with different values, making it a
-**scenario planning tool**, not a one-shot analysis.
-
-<!-- SLIDE NOTE: This is where David will spend the most time. Present the table,
-then be ready to discuss any row in depth. The message is: we know what we assumed,
-we know what happens if we're wrong, and we can re-run instantly. -->
-
----
-
-## 6. The "Aha" — Triangle Routes and Daisy-Chains
-
-The optimizer's real value isn't just picking the nearest base — it's discovering
-**multi-trip chains** that no human broker would think to look for.
-
-### What is a Triangle Route?
-
-A triangle route occurs when a tail, after completing Trip A, can reposition a short
-distance to service Trip B (a completely unrelated team/conference) instead of
-deadheading all the way back to base.
-
-```
-Without optimization:              With optimization:
-
-  Base ←──── Trip A ────→ Base     Base ──→ Trip A ──→ Trip B ──→ Base
-  Base ←──── Trip B ────→ Base          (short ferry)
-
-  4 ferry legs                      3 ferry legs (1 is shorter)
-```
-
-### Daisy-Chains
-
-When the schedule is dense (e.g., mid-conference play in January/February), the
-optimizer finds chains of 3, 4, or even 5+ trips that a single tail can service
-with minimal repositioning between each.
-
-The pipeline automatically extracts and narrates these chains. Example output:
-
-```
-Triangle Route (3 trips, tail erj_145_IND_0):
-   1. Iowa Hawkeyes → CMH (Jan 15)
-   2. Ohio State Buckeyes → LAN (Jan 17)
-   3. Michigan State Spartans → CID (Jan 19)
-   Ferry cost for chain connections: $4,200
-```
-
-Compare: servicing these three trips independently from IND would cost ~$19,200
-in ferry alone. The chain saves ~$15,000 on just three trips.
+![Top Chain](../data/results/top_chain.png)
 
 **These savings are invisible to a broker working trip-by-trip.** They only emerge
 when you optimize across the full network simultaneously.
 
-<!-- SLIDE NOTE: This is the emotional peak of the presentation. Use the before/after
-diagram. If real chain examples are available from the latest run, substitute them
-for the illustrative one above. The key message: this is money that's structurally
-invisible without the tool. -->
+<!-- SLIDE NOTE: This is the emotional peak. The key message: this is money that's
+structurally invisible without the tool. -->
+
+---
+
+## 6. Assumptions — Laid Bare
+
+| # | Assumption | Current Value | Rationale | Sensitivity |
+|---|---|---|---|---|
+| 1 | Outbound departure offset | 6 hrs before game | Team arrives ~4hrs early + 2hr buffer | Tightening to 4hrs increases feasible arcs |
+| 2 | Return departure offset | 4 hrs after game | ~2.5hr game + 1.5hr ground ops | Same-day return standard for basketball |
+| 3 | Aircraft type | ERJ-145 (37 seats) | Standard for basketball (~35 pax) | CRJ-200 (50 seats) also modeled |
+| 4 | Hourly rate | $3,200/hr (ERJ-145) | Market rate for Part 135 charter | Model re-optimizes cleanly with different rates |
+| 5 | Fuel price | $5.50/gal | Current Jet-A average | At 120 gal/hr, fuel adds ~$660/hr |
+| 6 | Max ferry distance | 500 nm | Beyond this, local charter is cheaper | Raising to 750nm unlocks more chains |
+| 7 | Fleet size & basing | 6 tails: IND(2), ORD(2), DFW(1), ATL(1) | Central/southeast coverage | Single CLI arg change |
+| 8 | Crew duty limit | 14 hrs | FAR Part 135 | Hard regulatory constraint |
+| 9 | Schedule source | ESPN public API | Free, real-time, covers all D-I | Neutral-site tournaments may have lag |
+
+**Key takeaway:** Assumptions 1, 2, 6, and 7 are the most impactful tuning knobs.
+The system re-runs in minutes with different values — it's a **scenario planning
+tool**, not a one-shot analysis.
 
 ---
 
 ## 7. Unit Economics
 
-Beyond the headline savings, the system tracks granular metrics that expose where
-value is created and where cost is concentrated.
-
-### Key Metrics
-
 | Metric | Definition | Why It Matters |
 |---|---|---|
-| **Cost per trip** | Total ferry cost / number of trips | Unit-level margin indicator |
-| **Ferry ratio** | Ferry NM / Revenue NM | Network efficiency — lower is better |
-| **Conference breakdown** | Ferry cost allocated by conference | Which contracts are most/least efficient |
-| **Team breakdown** | Ferry cost allocated by team | Which programs to prioritize for base proximity |
+| Cost per trip | Total ferry cost / number of trips | Unit-level margin indicator |
+| Ferry ratio | Ferry NM / Revenue NM | Network efficiency — lower is better |
+| Conference breakdown | Ferry cost by conference | Which contracts drive most overhead |
+| Team breakdown | Ferry cost by team | Which programs to prioritize for base proximity |
 
-### Conference View
-
-The system breaks down ferry cost by conference, showing which relationships drive
-the most ferry overhead. This directly informs **carrier procurement strategy** —
-if the SEC accounts for 60% of ferry cost, that's where base selection matters most.
-
-### Team View
-
-Individual team cost profiles reveal outliers — e.g., West Coast teams in eastern
-conferences (Oregon, UCLA in the Big Ten) will naturally have higher ferry costs.
-This data supports pricing decisions: charge appropriately for geography.
-
-<!-- SLIDE NOTE: If available, include a simple bar chart of per-conference ferry
-cost. The team view is best as a sorted table, top 10 most/least expensive. -->
+Conference-level breakdowns directly inform **carrier procurement strategy**.
+Team-level profiles reveal outliers — West Coast teams in eastern conferences
+(Oregon, UCLA in the Big Ten) naturally have higher ferry costs, supporting
+geography-aware pricing.
 
 ---
 
 ## 8. What's Next
 
-The current system is a working proof-of-concept for basketball. The architecture
-is designed to scale across several dimensions:
-
 ### Near-Term (Weeks)
 - **More conferences** — Add Big 12, ACC, Big East with a single CLI flag.
-- **Sensitivity dashboard** — Automated re-runs across fleet sizes and base configs
-  to find the optimal network topology.
-- **What-if mode** — Input a proposed new contract and see how it affects total
-  network cost before committing.
+- **Sensitivity dashboard** — Sweep fleet sizes and base configs to find optimal topology.
+- **What-if mode** — See how a proposed new contract affects total network cost.
 
 ### Medium-Term (Months)
-- **Football** — Requires larger aircraft types (capacity 120+). The model supports
-  mixed fleets; we need to add aircraft specs and validate timing assumptions.
-- **Rolling re-optimization** — Re-run weekly as ESPN schedules update, catching
-  rescheduled games and tournament bracket changes.
-- **Carrier affinity scoring** — Analytically match carriers to programs based on
-  base proximity and schedule overlap (the "Gravity Well" concept).
+- **Football** — Larger aircraft (120+ pax), different timing, different cadence.
+- **Rolling re-optimization** — Weekly re-runs as schedules update.
+- **Carrier affinity scoring** — Match carriers to programs by base proximity and
+  schedule overlap (the "Gravity Well" concept).
 
 ### Long-Term (Quarters)
-- **Historical backtest** — Run last season's schedules through the optimizer and
-  compare against actual costs paid. Validates the model and quantifies the
-  opportunity with real dollars.
-- **Interactive dashboard** — Web-based tool for exploring scenarios, viewing
-  optimized schedules, and exporting reports.
-
-<!-- SLIDE NOTE: Frame this as a roadmap, not a wishlist. Each item builds on the
-existing architecture. The message: the foundation is built, scaling is incremental. -->
+- **Historical backtest** — Last season through the optimizer vs actual costs paid.
+- **Interactive dashboard** — Web tool for scenarios, schedules, and reports.
 
 ---
 
@@ -313,20 +243,12 @@ existing architecture. The message: the foundation is built, scaling is incremen
 Let T = set of trips, K = set of tails, A_k = set of feasible arcs for tail k.
 
 **Minimize:**
-
     sum over k in K, a in A_k of: cost(a) * x(k,a)
 
 **Subject to:**
-
-    (Coverage)     For each trip t in T:
-                   sum of x(k,a) for all k, all arcs a entering t = 1
-
-    (Flow)         For each tail k, each trip t:
-                   sum of x(k,a) entering t = sum of x(k,a) leaving t
-
-    (Depot)        For each tail k:
-                   number of depot-out arcs used = number of depot-in arcs used
-
+    (Coverage)     For each trip t: sum of x entering t = 1
+    (Flow)         For each tail k, each trip t: flow in = flow out
+    (Depot)        For each tail k: depot-out arcs used = depot-in arcs used
     (Binary)       x(k,a) in {0, 1}
 
 **Cost function:** cost(a) = ferry_hours * (hourly_rate + fuel_burn_gal_hr * fuel_price_gal)
@@ -335,35 +257,66 @@ Let T = set of trips, K = set of tails, A_k = set of feasible arcs for tail k.
 
 | Source | Usage | Update Frequency |
 |---|---|---|
-| ESPN Hidden API | Game schedules, venues, teams | Daily (live scores endpoint) |
+| ESPN Hidden API | Game schedules, venues, teams | Daily |
 | OurAirports (GitHub) | IATA airport coordinates | Monthly |
 | OpenStreetMap Nominatim | Venue city geocoding | As needed (cached) |
 
-### Repository Structure
-
-```
-charternetwork/
-  config.py      — Conferences, aircraft, airports, cost parameters
-  ingest.py      — ESPN API, geocoding, haversine distances
-  legs.py        — Away game to outbound/return legs
-  model.py       — Trip, Tail, Fleet, Arc dataclasses
-  arcs.py        — Feasibility + arc generation (duty/fuel aware)
-  baseline.py    — Single-hub and nearest-base comparisons
-  optimize.py    — ILP solver (scipy/HiGHS)
-  analytics.py   — Breakdowns, chains, unit economics
-  viz.py         — Executive summary map rendering
-  pipeline.py    — End-to-end orchestrator
-```
-
-<!-- SLIDE NOTE: This appendix can be a backup slide or handout. Most CEOs won't
-need it during the presentation, but having it ready shows depth. -->
-
 ---
 
-<!-- PRESENTATION CLOSING NOTE:
-End the presentation by returning to the core number: 68% ferry cost reduction.
-Restate that this is provably optimal (not a heuristic), operationally feasible
-(duty limits, turnaround, capacity all enforced), and re-runnable in minutes
-with different assumptions. The tool doesn't replace David's judgment — it gives
-him a quantitative foundation to make faster, better-informed decisions about
-carrier contracts and network strategy. -->
+## Appendix: Presentation Assets Guide
+
+### Generated Visualization Files
+
+All assets are generated by the GitHub Actions pipeline and stored as workflow
+artifacts. They are also saved locally after download to `data/results/`.
+
+| File | Description | Slide Use |
+|---|---|---|
+| `exec_summary.png` | Three-panel US map (Single Hub / Nearest Base / Optimized) + savings bar chart | **Headline slide** — the single most important visual |
+| `single_hub.png` | Standalone map: red spider-web of ferries from IND, $18.2M/mo | "The Problem" slide |
+| `nearest_base.png` | Standalone map: blue shorter legs from 4 bases, $12.1M/mo | "The Obvious Fix" slide |
+| `optimized.png` | Standalone map: green chained routes, $6.1M/mo | "The Real Answer" slide |
+| `top_chain.png` | Detail map: 20-trip daisy chain on erj_145_IND_0, $56,877 ferry | "The Aha Moment" slide |
+| `chain_distribution.png` | Two-panel chart: standalone vs chained trips + chain length histogram | "How It Works at Scale" slide |
+| `exec_summary_v3.png` | Alternate executive summary layout | Backup / alternate |
+| `optimized_schedule.csv` | Full optimized schedule (1,258 rows) with all arc details | Data appendix / drill-down |
+
+### How to Access / Regenerate Assets
+
+**Option A: Download from GitHub Actions (recommended)**
+1. Go to https://github.com/jjhoffstein/charternetwork/actions
+2. Click the latest successful "Charter Network Optimization" run
+3. Scroll to "Artifacts" → download `optimization-results`
+4. Unzip to get all PNG files + CSV
+
+**Option B: Trigger a fresh run via GitHub API**
+```python
+from ghapi.all import GhApi
+api = GhApi(owner='jjhoffstein', repo='charternetwork', token=GITHUB_TOKEN)
+api.actions.create_workflow_dispatch('optimize.yml', ref='main',
+    inputs=dict(conferences='big_ten,sec', sports='MBB,WBB',
+                season_start='20251101', season_end='20260315'))
+```
+Then poll for completion and download the artifact (see solveit dialog for full code).
+
+**Option C: Run locally**
+```bash
+git clone https://github.com/jjhoffstein/charternetwork
+cd charternetwork
+pip install -e .
+python -m charternetwork --conferences big_ten,sec --sports MBB,WBB \
+    --start 20251101 --end 20260315 --bases IND:2,ORD:2,DFW:1,ATL:1
+```
+Results land in `data/results/`.
+
+**Option D: Generate supplementary charts (chain distribution, etc.)**
+These are generated in the solveit dialog after downloading the `optimized_schedule.csv`
+artifact. See the dialog cells for the matplotlib code that produces
+`chain_distribution.png`.
+
+### Regeneration Notes
+- **Always regenerate before a live presentation** — ESPN schedules update daily.
+  Stale results may include rescheduled or cancelled games.
+- The pipeline runs end-to-end in ~6 minutes on GitHub Actions.
+- The weekly Monday 6am UTC cron job keeps results reasonably fresh.
+- Different fleet configurations are a single `--bases` argument change.
