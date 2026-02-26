@@ -44,6 +44,7 @@ from one to the other. -->
 
 The core modeling decision: treat each **away trip** as a single locked unit.
 
+```
 ┌──────────────────────────────────────────────────────┐
 │                    TRIP UNIT                         │
 │                                                      │
