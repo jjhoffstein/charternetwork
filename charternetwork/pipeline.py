@@ -97,7 +97,9 @@ def run(args):
     # 9. Compute baselines
     bases_list = list(bases_dict.keys())
     comp = compare(trips, sol, args.hub, bases_list, apts,
-                   hourly_rate=fleet[0].hourly_rate)
+                   hourly_rate=fleet[0].hourly_rate,
+                   fuel_burn_gal_hr=fleet[0].fuel_burn_gal_hr,
+                   cruise_kt=fleet[0].cruise_kt)
     print(f"  Single hub ({args.hub}):  ${comp['single_hub']:,.0f}")
     print(f"  Nearest base:          ${comp['nearest_base']:,.0f}")
     print(f"  Optimized:             ${comp['optimized']:,.0f}")
