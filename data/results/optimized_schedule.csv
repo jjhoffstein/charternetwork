@@ -1,0 +1,1259 @@
+tail,arc_type,ferry_origin,ferry_dest,ferry_nm,ferry_hrs,ferry_cost,to_team,to_game_apt,to_game_dt,from_team,from_game_apt,from_game_dt
+erj_145_IND_0,depot_out,IND,FWA,90.9,0.36,1404.15,Purdue Fort Wayne Mastodons,MGW,2025-11-04 00:00:00+00:00,,,
+erj_145_IND_0,depot_in,FWA,IND,90.9,0.36,1404.15,,,,Purdue Fort Wayne Mastodons,MGW,2025-11-04 00:00:00+00:00
+erj_145_IND_0,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,SCE,2025-11-07 23:00:00+00:00,,,
+erj_145_IND_0,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,SCE,2025-11-07 23:00:00+00:00,,,
+erj_145_IND_0,depot_out,IND,FWA,90.9,0.36,1404.15,Purdue Fort Wayne Mastodons,CMH,2025-11-07 23:30:00+00:00,,,
+erj_145_IND_0,depot_in,FWA,IND,90.9,0.36,1404.15,,,,Purdue Fort Wayne Mastodons,CMH,2025-11-07 23:30:00+00:00
+erj_145_IND_0,depot_in,SCE,IND,392.6,1.57,6061.78,,,,Penn State Nittany Lions,HVN,2025-11-08 18:00:00+00:00
+erj_145_IND_0,depot_out,IND,MIE,52.0,0.21,802.63,Ball State Cardinals,MSN,2025-11-12 01:30:00+00:00,,,
+erj_145_IND_0,depot_out,IND,LAF,51.2,0.2,790.67,Purdue Boilermakers,FWA,2025-11-13 00:00:00+00:00,,,
+erj_145_IND_0,depot_out,IND,ARB,189.7,0.76,2928.57,Michigan Wolverines,AFW,2025-11-15 02:00:00+00:00,,,
+erj_145_IND_0,depot_in,CMH,IND,157.7,0.63,2435.08,,,,Ohio State Buckeyes,BDL,2025-11-16 17:00:00+00:00
+erj_145_IND_0,depot_out,IND,BMG,37.4,0.15,577.7,Indiana Hoosiers,RSW,2025-11-25 18:00:00+00:00,,,
+erj_145_IND_0,depot_in,CMH,IND,157.7,0.63,2435.08,,,,Ohio State Buckeyes,PIT,2025-11-29 00:00:00+00:00
+erj_145_IND_0,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,RSW,2025-11-30 18:30:00+00:00
+erj_145_IND_0,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,RSW,2025-11-30 18:30:00+00:00
+erj_145_IND_0,depot_out,IND,BDL,631.6,2.53,9752.62,UConn Huskies,LWC,2025-12-03 02:00:00+00:00,,,
+erj_145_IND_0,depot_in,BDL,IND,631.6,2.53,9752.62,,,,UConn Huskies,LWC,2025-12-03 02:00:00+00:00
+erj_145_IND_0,depot_out,IND,BMG,37.4,0.15,577.7,Indiana Hoosiers,MSP,2025-12-04 00:00:00+00:00,,,
+erj_145_IND_0,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,MSP,2025-12-04 00:00:00+00:00
+erj_145_IND_0,depot_out,IND,EWR,558.6,2.23,8624.17,Rutgers Scarlet Knights,ARB,2025-12-06 21:00:00+00:00,,,
+erj_145_IND_0,depot_in,EWR,IND,558.6,2.23,8624.17,,,,Rutgers Scarlet Knights,ARB,2025-12-06 21:00:00+00:00
+erj_145_IND_0,depot_out,IND,CMI,93.3,0.37,1441.21,Illinois Fighting Illini,BNA,2025-12-07 01:00:00+00:00,,,
+erj_145_IND_0,depot_in,LAF,IND,51.2,0.2,790.67,,,,Purdue Boilermakers,ARB,2025-12-07 17:00:00+00:00
+erj_145_IND_0,depot_in,SCE,IND,392.6,1.57,6061.78,,,,Penn State Nittany Lions,BMG,2025-12-10 01:30:00+00:00
+erj_145_IND_0,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,FTY,2025-12-13 19:00:00+00:00,,,
+erj_145_IND_0,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,FTY,2025-12-13 19:00:00+00:00
+erj_145_IND_0,depot_out,IND,BDL,631.6,2.53,9752.62,UConn Huskies,LAX,2025-12-13 22:30:00+00:00,,,
+erj_145_IND_0,depot_out,IND,BMG,37.4,0.15,577.7,Indiana Hoosiers,LEX,2025-12-14 00:45:00+00:00,,,
+erj_145_IND_0,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,LEX,2025-12-14 00:45:00+00:00
+erj_145_IND_0,depot_out,IND,MGW,294.6,1.18,4549.13,West Virginia Mountaineers,BKL,2025-12-14 01:00:00+00:00,,,
+erj_145_IND_0,depot_in,MGW,IND,294.6,1.18,4549.13,,,,West Virginia Mountaineers,BKL,2025-12-14 01:00:00+00:00
+erj_145_IND_0,depot_in,SCE,IND,392.6,1.57,6061.78,,,,Penn State Lady Lions,CUB,2025-12-14 20:30:00+00:00
+erj_145_IND_0,depot_out,IND,BWI,447.3,1.79,6905.95,Maryland Terrapins,CHO,2025-12-20 23:00:00+00:00,,,
+erj_145_IND_0,depot_in,LAN,IND,199.3,0.8,3076.61,,,,Michigan State Spartans,AVL,2025-12-23 00:30:00+00:00
+erj_145_IND_0,depot_out,IND,EWR,558.6,2.23,8624.17,Rutgers Scarlet Knights,LAN,2025-12-28 19:00:00+00:00,,,
+erj_145_IND_0,depot_out,IND,SCE,392.6,1.57,6061.78,Penn State Lady Lions,CID,2025-12-28 21:00:00+00:00,,,
+erj_145_IND_0,depot_in,SCE,IND,392.6,1.57,6061.78,,,,Penn State Lady Lions,CID,2025-12-28 21:00:00+00:00
+erj_145_IND_0,depot_out,IND,CMH,157.7,0.63,2435.08,Ohio State Buckeyes,LAF,2025-12-31 17:30:00+00:00,,,
+erj_145_IND_0,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,MHK,2025-12-31 19:00:00+00:00,,,
+erj_145_IND_0,depot_out,IND,CMI,93.3,0.37,1441.21,Illinois Fighting Illini,PHL,2026-01-04 00:00:00+00:00,,,
+erj_145_IND_0,depot_in,CMI,IND,93.3,0.37,1441.21,,,,Illinois Fighting Illini,LAN,2026-01-04 17:00:00+00:00
+erj_145_IND_0,depot_in,EWR,IND,558.6,2.23,8624.17,,,,Rutgers Scarlet Knights,CMH,2026-01-04 19:00:00+00:00
+erj_145_IND_0,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,BWI,2026-01-04 23:00:00+00:00
+erj_145_IND_0,depot_out,IND,BMG,37.4,0.15,577.7,Indiana Hoosiers,BWI,2026-01-07 23:30:00+00:00,,,
+erj_145_IND_0,depot_out,IND,CMH,157.7,0.63,2435.08,Ohio State Buckeyes,CMI,2026-01-08 00:00:00+00:00,,,
+erj_145_IND_0,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,LNK,2026-01-09 01:00:00+00:00
+erj_145_IND_0,depot_out,IND,EWR,558.6,2.23,8624.17,Rutgers Scarlet Knights,CMI,2026-01-09 01:30:00+00:00,,,
+erj_145_IND_0,depot_out,IND,CMH,157.7,0.63,2435.08,Ohio State Buckeyes,BWI,2026-01-11 21:00:00+00:00,,,
+erj_145_IND_0,depot_in,CMH,IND,157.7,0.63,2435.08,,,,Ohio State Buckeyes,BWI,2026-01-11 21:00:00+00:00
+erj_145_IND_0,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,ORL,2026-01-11 22:00:00+00:00,,,
+erj_145_IND_0,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,ORL,2026-01-11 22:00:00+00:00
+erj_145_IND_0,depot_in,CMH,IND,157.7,0.63,2435.08,,,,Ohio State Buckeyes,SEA,2026-01-11 23:00:00+00:00
+erj_145_IND_0,depot_out,IND,MGW,294.6,1.18,4549.13,West Virginia Mountaineers,LUK,2026-01-18 19:00:00+00:00,,,
+erj_145_IND_0,depot_in,MGW,IND,294.6,1.18,4549.13,,,,West Virginia Mountaineers,LUK,2026-01-18 19:00:00+00:00
+erj_145_IND_0,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,DSM,2026-01-22 00:30:00+00:00,,,
+erj_145_IND_0,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,DSM,2026-01-22 00:30:00+00:00
+erj_145_IND_0,depot_out,IND,MGW,294.6,1.18,4549.13,West Virginia Mountaineers,PHX,2026-01-22 02:00:00+00:00,,,
+erj_145_IND_0,depot_in,BWI,IND,447.3,1.79,6905.95,,,,Maryland Terrapins,LAN,2026-01-24 17:00:00+00:00
+erj_145_IND_0,depot_in,MGW,IND,294.6,1.18,4549.13,,,,West Virginia Mountaineers,PVU,2026-01-25 02:30:00+00:00
+erj_145_IND_0,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,PHX,2026-01-25 03:00:00+00:00,,,
+erj_145_IND_0,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,PHX,2026-01-25 03:00:00+00:00
+erj_145_IND_0,depot_out,IND,LAF,51.2,0.2,790.67,Purdue Boilermakers,BWI,2026-02-01 18:00:00+00:00,,,
+erj_145_IND_0,depot_in,LAF,IND,51.2,0.2,790.67,,,,Purdue Boilermakers,BWI,2026-02-01 18:00:00+00:00
+erj_145_IND_0,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,HOU,2026-02-01 20:00:00+00:00
+erj_145_IND_0,depot_out,IND,CMI,93.3,0.37,1441.21,Illinois Fighting Illini,EUG,2026-02-05 02:00:00+00:00,,,
+erj_145_IND_0,depot_out,IND,SCE,392.6,1.57,6061.78,Penn State Nittany Lions,SEA,2026-02-12 03:30:00+00:00,,,
+erj_145_IND_0,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,SLC,2026-02-15 00:00:00+00:00,,,
+erj_145_IND_0,depot_out,IND,CHO,378.2,1.51,5839.13,Virginia Cavaliers,BNA,2026-02-15 01:00:00+00:00,,,
+erj_145_IND_0,depot_in,CHO,IND,378.2,1.51,5839.13,,,,Virginia Cavaliers,BNA,2026-02-15 01:00:00+00:00
+erj_145_IND_0,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,LAX,2026-02-15 20:00:00+00:00
+erj_145_IND_0,depot_in,EWR,IND,558.6,2.23,8624.17,,,,Rutgers Scarlet Knights,SCE,2026-02-18 23:00:00+00:00
+erj_145_IND_0,depot_out,IND,EWR,558.6,2.23,8624.17,Rutgers Scarlet Knights,MSP,2026-02-21 17:00:00+00:00,,,
+erj_145_IND_0,depot_out,IND,SCE,392.6,1.57,6061.78,Penn State Nittany Lions,LNK,2026-02-21 19:00:00+00:00,,,
+erj_145_IND_0,depot_out,IND,SCE,392.6,1.57,6061.78,Penn State Lady Lions,EWR,2026-02-21 21:00:00+00:00,,,
+erj_145_IND_0,depot_in,LAF,IND,51.2,0.2,790.67,,,,Purdue Boilermakers,BWI,2026-02-22 18:00:00+00:00
+erj_145_IND_0,depot_in,MGW,IND,294.6,1.18,4549.13,,,,West Virginia Mountaineers,ORL,2026-02-26 00:00:00+00:00
+erj_145_IND_0,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,MGW,2026-03-01 19:00:00+00:00,,,
+erj_145_IND_0,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,MGW,2026-03-01 19:00:00+00:00
+erj_145_IND_0,depot_out,IND,LAF,51.2,0.2,790.67,Purdue Boilermakers,ORD,2026-03-01 20:00:00+00:00,,,
+erj_145_IND_0,depot_in,LAF,IND,51.2,0.2,790.67,,,,Purdue Boilermakers,ORD,2026-03-01 20:00:00+00:00
+erj_145_IND_0,depot_out,IND,CMH,157.7,0.63,2435.08,Ohio State Buckeyes,SCE,2026-03-05 00:30:00+00:00,,,
+erj_145_IND_0,depot_in,LAF,IND,51.2,0.2,790.67,,,,Purdue Boilermakers,ORD,2026-03-05 01:30:00+00:00
+erj_145_IND_0,depot_in,SCE,IND,392.6,1.57,6061.78,,,,Penn State Nittany Lions,EWR,2026-03-08 16:00:00+00:00
+erj_145_IND_0,depot_in,CMI,IND,93.3,0.37,1441.21,,,,Illinois Fighting Illini,BWI,2026-03-08 19:00:00+00:00
+erj_145_IND_0,trip,LUK,SCE,319.9,1.28,4939.04,Penn State Nittany Lions,HVN,2025-11-08 18:00:00+00:00,Cincinnati Bearcats,SCE,2025-11-07 23:00:00+00:00
+erj_145_IND_0,trip,LUK,BMG,102.4,0.41,1581.03,Indiana Hoosiers,MDW,2025-11-09 18:00:00+00:00,Cincinnati Bearcats,SCE,2025-11-07 23:00:00+00:00
+erj_145_IND_0,trip,BMG,LUK,102.4,0.41,1581.03,Cincinnati Bearcats,PHL,2025-11-12 00:00:00+00:00,Indiana Hoosiers,MDW,2025-11-09 18:00:00+00:00
+erj_145_IND_0,trip,LUK,RDU,330.7,1.32,5106.11,North Carolina Tar Heels,LAS,2025-11-14 02:00:00+00:00,Cincinnati Bearcats,PHL,2025-11-12 00:00:00+00:00
+erj_145_IND_0,trip,MIE,PIT,236.6,0.95,3653.47,Pittsburgh Panthers,MGW,2025-11-13 23:00:00+00:00,Ball State Cardinals,MSN,2025-11-12 01:30:00+00:00
+erj_145_IND_0,trip,LAF,LAF,0.0,0.0,0.0,Purdue Boilermakers,TCL,2025-11-14 00:00:00+00:00,Purdue Boilermakers,FWA,2025-11-13 00:00:00+00:00
+erj_145_IND_0,trip,PIT,SCE,110.7,0.44,1708.96,Penn State Nittany Lions,PHL,2025-11-15 18:00:00+00:00,Pittsburgh Panthers,MGW,2025-11-13 23:00:00+00:00
+erj_145_IND_0,trip,LAF,CMI,65.2,0.26,1007.43,Illinois Fighting Illini,EUG,2025-11-15 02:00:00+00:00,Purdue Boilermakers,TCL,2025-11-14 00:00:00+00:00
+erj_145_IND_0,trip,RDU,BWI,222.2,0.89,3430.03,Maryland Terrapins,MKE,2025-11-15 19:00:00+00:00,North Carolina Tar Heels,LAS,2025-11-14 02:00:00+00:00
+erj_145_IND_0,trip,ARB,TTN,419.6,1.68,6478.06,Princeton Tigers,LWC,2025-11-15 19:00:00+00:00,Michigan Wolverines,AFW,2025-11-15 02:00:00+00:00
+erj_145_IND_0,trip,CMI,CID,191.1,0.76,2950.13,Iowa Hawkeyes,ALO,2025-11-16 20:00:00+00:00,Illinois Fighting Illini,EUG,2025-11-15 02:00:00+00:00
+erj_145_IND_0,trip,SCE,SCE,0.0,0.0,0.0,Penn State Lady Lions,PHL,2025-11-16 19:00:00+00:00,Penn State Nittany Lions,PHL,2025-11-15 18:00:00+00:00
+erj_145_IND_0,trip,BWI,CMH,292.1,1.17,4510.21,Ohio State Buckeyes,BDL,2025-11-16 17:00:00+00:00,Maryland Terrapins,MKE,2025-11-15 19:00:00+00:00
+erj_145_IND_0,trip,TTN,TTN,0.0,0.0,0.0,Princeton Tigers,BWI,2025-11-16 18:00:00+00:00,Princeton Tigers,LWC,2025-11-15 19:00:00+00:00
+erj_145_IND_0,trip,TTN,LAN,463.9,1.86,7162.2,Michigan State Spartans,TEB,2025-11-18 23:30:00+00:00,Princeton Tigers,BWI,2025-11-16 18:00:00+00:00
+erj_145_IND_0,trip,SCE,FWA,333.3,1.33,5146.05,Purdue Fort Wayne Mastodons,SLC,2025-11-19 02:00:00+00:00,Penn State Lady Lions,PHL,2025-11-16 19:00:00+00:00
+erj_145_IND_0,trip,CID,LWC,235.4,0.94,3634.24,Kansas Jayhawks,TEB,2025-11-19 02:00:00+00:00,Iowa Hawkeyes,ALO,2025-11-16 20:00:00+00:00
+erj_145_IND_0,trip,LAN,EWR,482.8,1.93,7455.09,Rutgers Scarlet Knights,MGM,2025-11-21 00:00:00+00:00,Michigan State Spartans,TEB,2025-11-18 23:30:00+00:00
+erj_145_IND_0,trip,LWC,LNK,131.1,0.52,2023.81,Nebraska Cornhuskers,MCI,2025-11-21 00:00:00+00:00,Kansas Jayhawks,TEB,2025-11-19 02:00:00+00:00
+erj_145_IND_0,trip,FWA,PIT,227.6,0.91,3513.86,Pittsburgh Panthers,DAB,2025-11-21 00:00:00+00:00,Purdue Fort Wayne Mastodons,SLC,2025-11-19 02:00:00+00:00
+erj_145_IND_0,trip,LNK,MHK,102.4,0.41,1580.86,Kansas State Wildcats,MCI,2025-11-22 02:30:00+00:00,Nebraska Cornhuskers,MCI,2025-11-21 00:00:00+00:00
+erj_145_IND_0,trip,EWR,SCE,167.5,0.67,2586.28,Penn State Lady Lions,NAS,2025-11-22 18:00:00+00:00,Rutgers Scarlet Knights,MGM,2025-11-21 00:00:00+00:00
+erj_145_IND_0,trip,PIT,MGW,52.9,0.21,817.5,West Virginia Mountaineers,CHS,2025-11-21 23:30:00+00:00,Pittsburgh Panthers,DAB,2025-11-21 00:00:00+00:00
+erj_145_IND_0,trip,MGW,MGW,0.0,0.0,0.0,West Virginia Mountaineers,CHS,2025-11-23 20:30:00+00:00,West Virginia Mountaineers,CHS,2025-11-21 23:30:00+00:00
+erj_145_IND_0,trip,MHK,MHK,0.0,0.0,0.0,Kansas State Wildcats,GRB,2025-11-22 19:00:00+00:00,Kansas State Wildcats,MCI,2025-11-22 02:30:00+00:00
+erj_145_IND_0,trip,SCE,SCE,0.0,0.0,0.0,Penn State Lady Lions,NAS,2025-11-24 17:00:00+00:00,Penn State Lady Lions,NAS,2025-11-22 18:00:00+00:00
+erj_145_IND_0,trip,MHK,LNK,102.4,0.41,1580.86,Nebraska Cornhuskers,VPS,2025-11-24 23:00:00+00:00,Kansas State Wildcats,GRB,2025-11-22 19:00:00+00:00
+erj_145_IND_0,trip,MGW,EWR,271.0,1.08,4184.3,Rutgers Scarlet Knights,LAS,2025-11-24 18:00:00+00:00,West Virginia Mountaineers,CHS,2025-11-23 20:30:00+00:00
+erj_145_IND_0,trip,SCE,LGA,180.7,0.72,2790.12,St. John's Red Storm,LAS,2025-11-25 21:30:00+00:00,Penn State Lady Lions,NAS,2025-11-24 17:00:00+00:00
+erj_145_IND_0,trip,EWR,EWR,0.0,0.0,0.0,Rutgers Scarlet Knights,LAS,2025-11-25 18:00:00+00:00,Rutgers Scarlet Knights,LAS,2025-11-24 18:00:00+00:00
+erj_145_IND_0,trip,LNK,LNK,0.0,0.0,0.0,Nebraska Cornhuskers,VPS,2025-11-26 01:30:00+00:00,Nebraska Cornhuskers,VPS,2025-11-24 23:00:00+00:00
+erj_145_IND_0,trip,EWR,MGW,271.0,1.08,4184.3,West Virginia Mountaineers,NAS,2025-11-26 18:30:00+00:00,Rutgers Scarlet Knights,LAS,2025-11-25 18:00:00+00:00
+erj_145_IND_0,trip,BMG,LEX,115.5,0.46,1783.65,Kentucky Wildcats,SJU,2025-11-26 22:30:00+00:00,Indiana Hoosiers,RSW,2025-11-25 18:00:00+00:00
+erj_145_IND_0,trip,LGA,MGW,285.3,1.14,4405.75,West Virginia Mountaineers,NAS,2025-11-26 18:30:00+00:00,St. John's Red Storm,LAS,2025-11-25 21:30:00+00:00
+erj_145_IND_0,trip,LNK,LWC,131.1,0.52,2023.81,Kansas Jayhawks,LAS,2025-11-27 00:00:00+00:00,Nebraska Cornhuskers,VPS,2025-11-26 01:30:00+00:00
+erj_145_IND_0,trip,MGW,CMH,138.8,0.56,2142.98,Ohio State Buckeyes,PIT,2025-11-29 00:00:00+00:00,West Virginia Mountaineers,NAS,2025-11-26 18:30:00+00:00
+erj_145_IND_0,trip,MGW,CMI,385.9,1.54,5958.72,Illinois Fighting Illini,TEB,2025-11-28 17:30:00+00:00,West Virginia Mountaineers,NAS,2025-11-26 18:30:00+00:00
+erj_145_IND_0,trip,LEX,BMG,115.5,0.46,1783.65,Indiana Hoosiers,RSW,2025-11-28 18:30:00+00:00,Kentucky Wildcats,SJU,2025-11-26 22:30:00+00:00
+erj_145_IND_0,trip,LWC,MHK,68.2,0.27,1053.41,Kansas State Wildcats,CUN,2025-11-28 16:00:00+00:00,Kansas Jayhawks,LAS,2025-11-27 00:00:00+00:00
+erj_145_IND_0,trip,MHK,LWC,68.2,0.27,1053.41,Kansas Jayhawks,RSW,2025-11-30 00:30:00+00:00,Kansas State Wildcats,CUN,2025-11-28 16:00:00+00:00
+erj_145_IND_0,trip,CMI,LAF,65.2,0.26,1007.43,Purdue Boilermakers,MBS,2025-11-30 18:00:00+00:00,Illinois Fighting Illini,TEB,2025-11-28 17:30:00+00:00
+erj_145_IND_0,trip,BMG,BMG,0.0,0.0,0.0,Indiana Hoosiers,RSW,2025-11-30 18:30:00+00:00,Indiana Hoosiers,RSW,2025-11-28 18:30:00+00:00
+erj_145_IND_0,trip,LWC,BMG,400.8,1.6,6187.71,Indiana Hoosiers,RSW,2025-11-30 18:30:00+00:00,Kansas Jayhawks,RSW,2025-11-30 00:30:00+00:00
+erj_145_IND_0,trip,LAF,LAF,0.0,0.0,0.0,Purdue Boilermakers,EWR,2025-12-03 01:00:00+00:00,Purdue Boilermakers,MBS,2025-11-30 18:00:00+00:00
+erj_145_IND_0,trip,LAF,MBS,226.6,0.91,3498.38,Central Michigan Chippewas,ARB,2025-12-04 00:00:00+00:00,Purdue Boilermakers,EWR,2025-12-03 01:00:00+00:00
+erj_145_IND_0,trip,MBS,SBN,147.4,0.59,2276.63,Notre Dame Fighting Irish,AFW,2025-12-06 01:00:00+00:00,Central Michigan Chippewas,ARB,2025-12-04 00:00:00+00:00
+erj_145_IND_0,trip,SBN,BWI,466.1,1.86,7196.06,Maryland Terrapins,CID,2025-12-06 21:00:00+00:00,Notre Dame Fighting Irish,AFW,2025-12-06 01:00:00+00:00
+erj_145_IND_0,trip,BWI,BWI,0.0,0.0,0.0,Maryland Terrapins,MSP,2025-12-07 21:00:00+00:00,Maryland Terrapins,CID,2025-12-06 21:00:00+00:00
+erj_145_IND_0,trip,CMI,LAF,65.2,0.26,1007.43,Purdue Boilermakers,ARB,2025-12-07 17:00:00+00:00,Illinois Fighting Illini,BNA,2025-12-07 01:00:00+00:00
+erj_145_IND_0,trip,BWI,SCE,114.2,0.46,1763.57,Penn State Nittany Lions,BMG,2025-12-10 01:30:00+00:00,Maryland Terrapins,MSP,2025-12-07 21:00:00+00:00
+erj_145_IND_0,trip,BDL,SCE,241.4,0.97,3727.45,Penn State Lady Lions,CUB,2025-12-14 20:30:00+00:00,UConn Huskies,LAX,2025-12-13 22:30:00+00:00
+erj_145_IND_0,trip,BWI,PIT,182.3,0.73,2815.3,Pittsburgh Panthers,MDT,2025-12-21 17:00:00+00:00,Maryland Terrapins,CHO,2025-12-20 23:00:00+00:00
+erj_145_IND_0,trip,PIT,LAN,238.7,0.95,3685.21,Michigan State Spartans,AVL,2025-12-23 00:30:00+00:00,Pittsburgh Panthers,MDT,2025-12-21 17:00:00+00:00
+erj_145_IND_0,trip,EWR,ARB,440.3,1.76,6798.7,Michigan Wolverines,EUG,2025-12-30 02:00:00+00:00,Rutgers Scarlet Knights,LAN,2025-12-28 19:00:00+00:00
+erj_145_IND_0,trip,ARB,LAN,49.9,0.2,770.72,Michigan State Spartans,BMG,2026-01-01 17:00:00+00:00,Michigan Wolverines,EUG,2025-12-30 02:00:00+00:00
+erj_145_IND_0,trip,CMH,MGW,138.8,0.56,2142.98,West Virginia Mountaineers,LWC,2026-01-01 18:00:00+00:00,Ohio State Buckeyes,LAF,2025-12-31 17:30:00+00:00
+erj_145_IND_0,trip,LUK,BWI,360.9,1.44,5571.57,Maryland Terrapins,CMI,2026-01-01 21:00:00+00:00,Cincinnati Bearcats,MHK,2025-12-31 19:00:00+00:00
+erj_145_IND_0,trip,LAN,LAN,0.0,0.0,0.0,Michigan State Spartans,LNK,2026-01-03 02:00:00+00:00,Michigan State Spartans,BMG,2026-01-01 17:00:00+00:00
+erj_145_IND_0,trip,MGW,MGW,0.0,0.0,0.0,West Virginia Mountaineers,DSM,2026-01-03 02:00:00+00:00,West Virginia Mountaineers,LWC,2026-01-01 18:00:00+00:00
+erj_145_IND_0,trip,BWI,LUK,360.9,1.44,5571.57,Cincinnati Bearcats,WBU,2026-01-03 20:00:00+00:00,Maryland Terrapins,CMI,2026-01-01 21:00:00+00:00
+erj_145_IND_0,trip,LAN,EWR,482.8,1.93,7455.09,Rutgers Scarlet Knights,CMH,2026-01-04 19:00:00+00:00,Michigan State Spartans,LNK,2026-01-03 02:00:00+00:00
+erj_145_IND_0,trip,MGW,MGW,0.0,0.0,0.0,West Virginia Mountaineers,MHK,2026-01-04 19:00:00+00:00,West Virginia Mountaineers,DSM,2026-01-03 02:00:00+00:00
+erj_145_IND_0,trip,LUK,BMG,102.4,0.41,1581.03,Indiana Hoosiers,BWI,2026-01-04 23:00:00+00:00,Cincinnati Bearcats,WBU,2026-01-03 20:00:00+00:00
+erj_145_IND_0,trip,CMI,CMI,0.0,0.0,0.0,Illinois Fighting Illini,LAN,2026-01-04 17:00:00+00:00,Illinois Fighting Illini,PHL,2026-01-04 00:00:00+00:00
+erj_145_IND_0,trip,MGW,LUK,211.4,0.85,3264.15,Cincinnati Bearcats,MGW,2026-01-07 00:00:00+00:00,West Virginia Mountaineers,MHK,2026-01-04 19:00:00+00:00
+erj_145_IND_0,trip,LUK,BWI,360.9,1.44,5571.57,Maryland Terrapins,EWR,2026-01-09 00:00:00+00:00,Cincinnati Bearcats,MGW,2026-01-07 00:00:00+00:00
+erj_145_IND_0,trip,BMG,BMG,0.0,0.0,0.0,Indiana Hoosiers,LNK,2026-01-09 01:00:00+00:00,Indiana Hoosiers,BWI,2026-01-07 23:30:00+00:00
+erj_145_IND_0,trip,CMH,CMH,0.0,0.0,0.0,Ohio State Buckeyes,EUG,2026-01-09 03:30:00+00:00,Ohio State Buckeyes,CMI,2026-01-08 00:00:00+00:00
+erj_145_IND_0,trip,BWI,BWI,0.0,0.0,0.0,Maryland Terrapins,LAX,2026-01-11 01:00:00+00:00,Maryland Terrapins,EWR,2026-01-09 00:00:00+00:00
+erj_145_IND_0,trip,EWR,SCE,167.5,0.67,2586.28,Penn State Nittany Lions,LAF,2026-01-10 19:00:00+00:00,Rutgers Scarlet Knights,CMI,2026-01-09 01:30:00+00:00
+erj_145_IND_0,trip,CMH,MGW,138.8,0.56,2142.98,West Virginia Mountaineers,DSM,2026-01-11 20:00:00+00:00,Ohio State Buckeyes,EUG,2026-01-09 03:30:00+00:00
+erj_145_IND_0,trip,SCE,EWR,167.5,0.67,2586.28,Rutgers Scarlet Knights,ORD,2026-01-11 20:00:00+00:00,Penn State Nittany Lions,LAF,2026-01-10 19:00:00+00:00
+erj_145_IND_0,trip,BWI,CMH,292.1,1.17,4510.21,Ohio State Buckeyes,SEA,2026-01-11 23:00:00+00:00,Maryland Terrapins,LAX,2026-01-11 01:00:00+00:00
+erj_145_IND_0,trip,EWR,BWI,146.6,0.59,2263.08,Maryland Terrapins,LAX,2026-01-14 03:30:00+00:00,Rutgers Scarlet Knights,ORD,2026-01-11 20:00:00+00:00
+erj_145_IND_0,trip,MGW,MGW,0.0,0.0,0.0,West Virginia Mountaineers,HOU,2026-01-14 01:30:00+00:00,West Virginia Mountaineers,DSM,2026-01-11 20:00:00+00:00
+erj_145_IND_0,trip,MGW,SCE,119.3,0.48,1842.03,Penn State Lady Lions,CMH,2026-01-14 23:30:00+00:00,West Virginia Mountaineers,HOU,2026-01-14 01:30:00+00:00
+erj_145_IND_0,trip,BWI,ARB,370.3,1.48,5717.59,Michigan Wolverines,SEA,2026-01-15 03:30:00+00:00,Maryland Terrapins,LAX,2026-01-14 03:30:00+00:00
+erj_145_IND_0,trip,SCE,BWI,114.2,0.46,1763.57,Maryland Terrapins,LAX,2026-01-16 02:00:00+00:00,Penn State Lady Lions,CMH,2026-01-14 23:30:00+00:00
+erj_145_IND_0,trip,ARB,EWR,440.3,1.76,6798.7,Rutgers Scarlet Knights,MSN,2026-01-17 19:00:00+00:00,Michigan Wolverines,SEA,2026-01-15 03:30:00+00:00
+erj_145_IND_0,trip,BWI,SCE,114.2,0.46,1763.57,Penn State Nittany Lions,BWI,2026-01-18 17:00:00+00:00,Maryland Terrapins,LAX,2026-01-16 02:00:00+00:00
+erj_145_IND_0,trip,EWR,EWR,0.0,0.0,0.0,Rutgers Scarlet Knights,SCE,2026-01-18 18:00:00+00:00,Rutgers Scarlet Knights,MSN,2026-01-17 19:00:00+00:00
+erj_145_IND_0,trip,SCE,ARB,277.5,1.11,4284.53,Michigan Wolverines,EWR,2026-01-19 19:30:00+00:00,Penn State Nittany Lions,BWI,2026-01-18 17:00:00+00:00
+erj_145_IND_0,trip,EWR,EWR,0.0,0.0,0.0,Rutgers Scarlet Knights,CID,2026-01-21 01:30:00+00:00,Rutgers Scarlet Knights,SCE,2026-01-18 18:00:00+00:00
+erj_145_IND_0,trip,ARB,SCE,277.5,1.11,4284.53,Penn State Lady Lions,SEA,2026-01-22 02:00:00+00:00,Michigan Wolverines,EWR,2026-01-19 19:30:00+00:00
+erj_145_IND_0,trip,EWR,BWI,146.6,0.59,2263.08,Maryland Terrapins,CMI,2026-01-22 00:00:00+00:00,Rutgers Scarlet Knights,CID,2026-01-21 01:30:00+00:00
+erj_145_IND_0,trip,BWI,CMH,292.1,1.17,4510.21,Ohio State Buckeyes,ARB,2026-01-24 01:00:00+00:00,Maryland Terrapins,CMI,2026-01-22 00:00:00+00:00
+erj_145_IND_0,trip,SCE,MGW,119.3,0.48,1842.03,West Virginia Mountaineers,DMA,2026-01-24 19:00:00+00:00,Penn State Lady Lions,SEA,2026-01-22 02:00:00+00:00
+erj_145_IND_0,trip,MGW,BWI,153.3,0.61,2367.24,Maryland Terrapins,LAN,2026-01-24 17:00:00+00:00,West Virginia Mountaineers,PHX,2026-01-22 02:00:00+00:00
+erj_145_IND_0,trip,CMH,MGW,138.8,0.56,2142.98,West Virginia Mountaineers,PVU,2026-01-25 02:30:00+00:00,Ohio State Buckeyes,ARB,2026-01-24 01:00:00+00:00
+erj_145_IND_0,trip,MGW,CMH,138.8,0.56,2142.98,Ohio State Buckeyes,CID,2026-01-25 19:00:00+00:00,West Virginia Mountaineers,DMA,2026-01-24 19:00:00+00:00
+erj_145_IND_0,trip,CMH,LAN,183.5,0.73,2833.1,Michigan State Spartans,EWR,2026-01-27 23:30:00+00:00,Ohio State Buckeyes,CID,2026-01-25 19:00:00+00:00
+erj_145_IND_0,trip,LAN,LAN,0.0,0.0,0.0,Michigan State Spartans,LAF,2026-01-29 23:00:00+00:00,Michigan State Spartans,EWR,2026-01-27 23:30:00+00:00
+erj_145_IND_0,trip,LAN,LUK,220.8,0.88,3409.02,Cincinnati Bearcats,HOU,2026-01-31 17:00:00+00:00,Michigan State Spartans,LAF,2026-01-29 23:00:00+00:00
+erj_145_IND_0,trip,LUK,LUK,0.0,0.0,0.0,Cincinnati Bearcats,HOU,2026-02-01 20:00:00+00:00,Cincinnati Bearcats,HOU,2026-01-31 17:00:00+00:00
+erj_145_IND_0,trip,CMI,MSN,192.1,0.77,2966.48,Wisconsin Badgers,BMG,2026-02-07 17:00:00+00:00,Illinois Fighting Illini,EUG,2026-02-05 02:00:00+00:00
+erj_145_IND_0,trip,MSN,ORD,94.2,0.38,1454.6,Northwestern Wildcats,CID,2026-02-08 20:00:00+00:00,Wisconsin Badgers,BMG,2026-02-07 17:00:00+00:00
+erj_145_IND_0,trip,ORD,LWC,378.2,1.51,5839.76,Kansas Jayhawks,LBB,2026-02-11 00:00:00+00:00,Northwestern Wildcats,CID,2026-02-08 20:00:00+00:00
+erj_145_IND_0,trip,LWC,WBU,467.4,1.87,7216.51,Colorado Buffaloes,LBB,2026-02-12 01:00:00+00:00,Kansas Jayhawks,LBB,2026-02-11 00:00:00+00:00
+erj_145_IND_0,trip,WBU,LNK,389.6,1.56,6015.84,Nebraska Cornhuskers,MSP,2026-02-13 01:00:00+00:00,Colorado Buffaloes,LBB,2026-02-12 01:00:00+00:00
+erj_145_IND_0,trip,SCE,SCE,0.0,0.0,0.0,Penn State Nittany Lions,EUG,2026-02-14 20:00:00+00:00,Penn State Nittany Lions,SEA,2026-02-12 03:30:00+00:00
+erj_145_IND_0,trip,LNK,MHK,102.4,0.41,1580.86,Kansas State Wildcats,HOU,2026-02-14 21:00:00+00:00,Nebraska Cornhuskers,MSP,2026-02-13 01:00:00+00:00
+erj_145_IND_0,trip,SCE,BWI,114.2,0.46,1763.57,Maryland Terrapins,CMH,2026-02-15 19:00:00+00:00,Penn State Nittany Lions,EUG,2026-02-14 20:00:00+00:00
+erj_145_IND_0,trip,MHK,MHK,0.0,0.0,0.0,Kansas State Wildcats,DSM,2026-02-15 19:00:00+00:00,Kansas State Wildcats,HOU,2026-02-14 21:00:00+00:00
+erj_145_IND_0,trip,LUK,BMG,102.4,0.41,1581.03,Indiana Hoosiers,LAX,2026-02-15 20:00:00+00:00,Cincinnati Bearcats,SLC,2026-02-15 00:00:00+00:00
+erj_145_IND_0,trip,BWI,EWR,146.6,0.59,2263.08,Rutgers Scarlet Knights,CMI,2026-02-18 00:00:00+00:00,Maryland Terrapins,CMH,2026-02-15 19:00:00+00:00
+erj_145_IND_0,trip,MHK,LNK,102.4,0.41,1580.86,Nebraska Cornhuskers,CID,2026-02-18 02:00:00+00:00,Kansas State Wildcats,DSM,2026-02-15 19:00:00+00:00
+erj_145_IND_0,trip,EWR,EWR,0.0,0.0,0.0,Rutgers Scarlet Knights,SCE,2026-02-18 23:00:00+00:00,Rutgers Scarlet Knights,CMI,2026-02-18 00:00:00+00:00
+erj_145_IND_0,trip,LNK,MHK,102.4,0.41,1580.86,Kansas State Wildcats,ORL,2026-02-19 00:00:00+00:00,Nebraska Cornhuskers,CID,2026-02-18 02:00:00+00:00
+erj_145_IND_0,trip,MHK,LNK,102.4,0.41,1580.86,Nebraska Cornhuskers,EUG,2026-02-20 02:00:00+00:00,Kansas State Wildcats,ORL,2026-02-19 00:00:00+00:00
+erj_145_IND_0,trip,LNK,MHK,102.4,0.41,1580.86,Kansas State Wildcats,LBB,2026-02-21 19:30:00+00:00,Nebraska Cornhuskers,EUG,2026-02-20 02:00:00+00:00
+erj_145_IND_0,trip,EWR,LAN,482.8,1.93,7455.09,Michigan State Spartans,MSP,2026-02-22 23:15:00+00:00,Rutgers Scarlet Knights,MSP,2026-02-21 17:00:00+00:00
+erj_145_IND_0,trip,SCE,LAF,414.9,1.66,6405.63,Purdue Boilermakers,BWI,2026-02-22 18:00:00+00:00,Penn State Nittany Lions,LNK,2026-02-21 19:00:00+00:00
+erj_145_IND_0,trip,MHK,LNK,102.4,0.41,1580.86,Nebraska Cornhuskers,SEA,2026-02-22 20:00:00+00:00,Kansas State Wildcats,LBB,2026-02-21 19:30:00+00:00
+erj_145_IND_0,trip,SCE,CMH,236.1,0.94,3645.08,Ohio State Buckeyes,LAN,2026-02-22 18:00:00+00:00,Penn State Lady Lions,EWR,2026-02-21 21:00:00+00:00
+erj_145_IND_0,trip,CMH,LUK,88.8,0.36,1371.39,Cincinnati Bearcats,LBB,2026-02-25 00:00:00+00:00,Ohio State Buckeyes,LAN,2026-02-22 18:00:00+00:00
+erj_145_IND_0,trip,LNK,MHK,102.4,0.41,1580.86,Kansas State Wildcats,ACT,2026-02-24 00:00:00+00:00,Nebraska Cornhuskers,SEA,2026-02-22 20:00:00+00:00
+erj_145_IND_0,trip,LAN,ORD,154.8,0.62,2390.36,Northwestern Wildcats,BMG,2026-02-25 00:00:00+00:00,Michigan State Spartans,MSP,2026-02-22 23:15:00+00:00
+erj_145_IND_0,trip,MHK,MHK,0.0,0.0,0.0,Kansas State Wildcats,WBU,2026-02-26 02:00:00+00:00,Kansas State Wildcats,ACT,2026-02-24 00:00:00+00:00
+erj_145_IND_0,trip,ORD,ARB,185.8,0.74,2869.46,Michigan Wolverines,CMH,2026-02-26 01:00:00+00:00,Northwestern Wildcats,BMG,2026-02-25 00:00:00+00:00
+erj_145_IND_0,trip,LUK,MGW,211.4,0.85,3264.15,West Virginia Mountaineers,ORL,2026-02-26 00:00:00+00:00,Cincinnati Bearcats,LBB,2026-02-25 00:00:00+00:00
+erj_145_IND_0,trip,ARB,LAN,49.9,0.2,770.72,Michigan State Spartans,LAF,2026-02-27 01:00:00+00:00,Michigan Wolverines,CMH,2026-02-26 01:00:00+00:00
+erj_145_IND_0,trip,MHK,CMI,392.0,1.57,6052.19,Illinois Fighting Illini,CID,2026-02-27 02:00:00+00:00,Kansas State Wildcats,WBU,2026-02-26 02:00:00+00:00
+erj_145_IND_0,trip,LAN,EWR,482.8,1.93,7455.09,Rutgers Scarlet Knights,LNK,2026-02-28 19:00:00+00:00,Michigan State Spartans,LAF,2026-02-27 01:00:00+00:00
+erj_145_IND_0,trip,CMI,LWC,327.2,1.31,5052.09,Kansas Jayhawks,SWO,2026-02-28 23:00:00+00:00,Illinois Fighting Illini,CID,2026-02-27 02:00:00+00:00
+erj_145_IND_0,trip,EWR,EWR,0.0,0.0,0.0,Rutgers Scarlet Knights,BWI,2026-03-01 17:00:00+00:00,Rutgers Scarlet Knights,LNK,2026-02-28 19:00:00+00:00
+erj_145_IND_0,trip,LWC,DSM,167.5,0.67,2585.78,Iowa State Cyclones,MHK,2026-03-01 19:00:00+00:00,Kansas Jayhawks,SWO,2026-02-28 23:00:00+00:00
+erj_145_IND_0,trip,EWR,MGW,271.0,1.08,4184.3,West Virginia Mountaineers,MHK,2026-03-04 01:00:00+00:00,Rutgers Scarlet Knights,BWI,2026-03-01 17:00:00+00:00
+erj_145_IND_0,trip,DSM,LWC,167.5,0.67,2585.78,Kansas Jayhawks,PHX,2026-03-04 02:00:00+00:00,Iowa State Cyclones,MHK,2026-03-01 19:00:00+00:00
+erj_145_IND_0,trip,MGW,BWI,153.3,0.61,2367.24,Maryland Terrapins,MSN,2026-03-05 01:00:00+00:00,West Virginia Mountaineers,MHK,2026-03-04 01:00:00+00:00
+erj_145_IND_0,trip,LWC,LAF,391.3,1.57,6041.57,Purdue Boilermakers,ORD,2026-03-05 01:30:00+00:00,Kansas Jayhawks,PHX,2026-03-04 02:00:00+00:00
+erj_145_IND_0,trip,CMH,ARB,139.1,0.56,2147.05,Michigan Wolverines,CID,2026-03-06 01:00:00+00:00,Ohio State Buckeyes,SCE,2026-03-05 00:30:00+00:00
+erj_145_IND_0,trip,BWI,EWR,146.6,0.59,2263.08,Rutgers Scarlet Knights,LAN,2026-03-06 01:00:00+00:00,Maryland Terrapins,MSN,2026-03-05 01:00:00+00:00
+erj_145_IND_0,trip,ARB,BMG,226.3,0.91,3493.79,Indiana Hoosiers,CMH,2026-03-07 22:30:00+00:00,Michigan Wolverines,CID,2026-03-06 01:00:00+00:00
+erj_145_IND_0,trip,EWR,LUK,481.3,1.93,7431.27,Cincinnati Bearcats,AFW,2026-03-07 19:00:00+00:00,Rutgers Scarlet Knights,LAN,2026-03-06 01:00:00+00:00
+erj_145_IND_0,trip,LUK,SCE,319.9,1.28,4939.04,Penn State Nittany Lions,EWR,2026-03-08 16:00:00+00:00,Cincinnati Bearcats,AFW,2026-03-07 19:00:00+00:00
+erj_145_IND_0,trip,BMG,CMI,93.7,0.37,1446.33,Illinois Fighting Illini,BWI,2026-03-08 19:00:00+00:00,Indiana Hoosiers,CMH,2026-03-07 22:30:00+00:00
+erj_145_IND_1,depot_out,IND,LUK,94.5,0.38,1459.2,Xavier Musketeers,CID,2025-11-15 01:00:00+00:00,,,
+erj_145_IND_1,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,TLH,2025-11-16 22:02:00+00:00
+erj_145_IND_1,depot_out,IND,EWR,558.6,2.23,8624.17,Seton Hall Pirates,OGG,2025-11-25 22:24:00+00:00,,,
+erj_145_IND_1,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,APF,2025-11-29 20:30:00+00:00
+erj_145_IND_1,depot_out,IND,BMG,37.4,0.15,577.7,Indiana Hoosiers,CMI,2025-12-06 17:00:00+00:00,,,
+erj_145_IND_1,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,CMI,2025-12-06 17:00:00+00:00
+erj_145_IND_1,depot_out,IND,CMH,157.7,0.63,2435.08,Ohio State Buckeyes,ORD,2025-12-06 19:00:00+00:00,,,
+erj_145_IND_1,depot_out,IND,EWR,558.6,2.23,8624.17,Seton Hall Pirates,MHK,2025-12-06 21:00:00+00:00,,,
+erj_145_IND_1,depot_in,CMH,IND,157.7,0.63,2435.08,,,,Ohio State Buckeyes,ORD,2025-12-07 19:00:00+00:00
+erj_145_IND_1,depot_in,LAN,IND,199.3,0.8,3076.61,,,,Michigan State Spartans,MSN,2025-12-07 23:00:00+00:00
+erj_145_IND_1,depot_out,IND,MGW,294.6,1.18,4549.13,West Virginia Mountaineers,BKL,2025-12-14 01:00:00+00:00,,,
+erj_145_IND_1,depot_in,MGW,IND,294.6,1.18,4549.13,,,,West Virginia Mountaineers,CLL,2025-12-14 20:00:00+00:00
+erj_145_IND_1,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,GMU,2025-12-21 20:10:00+00:00,,,
+erj_145_IND_1,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,GMU,2025-12-21 20:10:00+00:00
+erj_145_IND_1,depot_out,IND,CMI,93.3,0.37,1441.21,Illinois Fighting Illini,LAF,2025-12-28 17:00:00+00:00,,,
+erj_145_IND_1,depot_out,IND,LAF,51.2,0.2,790.67,Purdue Boilermakers,MSN,2026-01-04 01:00:00+00:00,,,
+erj_145_IND_1,depot_in,LAF,IND,51.2,0.2,790.67,,,,Purdue Boilermakers,LNK,2026-01-04 20:00:00+00:00
+erj_145_IND_1,depot_in,CMI,IND,93.3,0.37,1441.21,,,,Illinois Fighting Illini,CID,2026-01-11 17:00:00+00:00
+erj_145_IND_1,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,ORL,2026-01-15 00:00:00+00:00,,,
+erj_145_IND_1,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,ORL,2026-01-15 00:00:00+00:00
+erj_145_IND_1,depot_out,IND,ARB,189.7,0.76,2928.57,Michigan Wolverines,EUG,2026-01-17 21:00:00+00:00,,,
+erj_145_IND_1,depot_out,IND,LAF,51.2,0.2,790.67,Purdue Boilermakers,LAX,2026-01-17 23:00:00+00:00,,,
+erj_145_IND_1,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,DMA,2026-01-22 02:00:00+00:00,,,
+erj_145_IND_1,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,DMA,2026-01-22 02:00:00+00:00
+erj_145_IND_1,depot_in,CMI,IND,93.3,0.37,1441.21,,,,Illinois Fighting Illini,LNK,2026-01-24 19:00:00+00:00
+erj_145_IND_1,depot_out,IND,CMI,93.3,0.37,1441.21,Illinois Fighting Illini,LAF,2026-01-24 20:00:00+00:00,,,
+erj_145_IND_1,depot_in,CMI,IND,93.3,0.37,1441.21,,,,Illinois Fighting Illini,LAF,2026-01-24 20:00:00+00:00
+erj_145_IND_1,depot_out,IND,BMG,37.4,0.15,577.7,Indiana Hoosiers,LAX,2026-01-31 22:00:00+00:00,,,
+erj_145_IND_1,depot_in,LAF,IND,51.2,0.2,790.67,,,,Purdue Boilermakers,MSP,2026-02-01 20:00:00+00:00
+erj_145_IND_1,depot_out,IND,CMI,93.3,0.37,1441.21,Illinois Fighting Illini,SEA,2026-02-01 23:00:00+00:00,,,
+erj_145_IND_1,depot_in,CMI,IND,93.3,0.37,1441.21,,,,Illinois Fighting Illini,SEA,2026-02-01 23:00:00+00:00
+erj_145_IND_1,depot_out,IND,BWI,447.3,1.79,6905.95,Maryland Terrapins,LAN,2026-02-04 23:30:00+00:00,,,
+erj_145_IND_1,depot_out,IND,SCE,392.6,1.57,6061.78,Penn State Lady Lions,LAF,2026-02-05 00:00:00+00:00,,,
+erj_145_IND_1,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,MSN,2026-02-05 00:30:00+00:00
+erj_145_IND_1,depot_out,IND,MGW,294.6,1.18,4549.13,West Virginia Mountaineers,WBU,2026-02-05 02:00:00+00:00,,,
+erj_145_IND_1,depot_in,BWI,IND,447.3,1.79,6905.95,,,,Maryland Terrapins,MSP,2026-02-08 19:00:00+00:00
+erj_145_IND_1,depot_in,CMH,IND,157.7,0.63,2435.08,,,,Ohio State Buckeyes,EUG,2026-02-08 20:00:00+00:00
+erj_145_IND_1,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,MHK,2026-02-12 02:00:00+00:00,,,
+erj_145_IND_1,depot_out,IND,BMG,37.4,0.15,577.7,Indiana Hoosiers,LAX,2026-02-13 03:00:00+00:00,,,
+erj_145_IND_1,depot_out,IND,LAF,51.2,0.2,790.67,Purdue Boilermakers,CID,2026-02-14 22:00:00+00:00,,,
+erj_145_IND_1,depot_in,LAF,IND,51.2,0.2,790.67,,,,Purdue Boilermakers,CID,2026-02-14 22:00:00+00:00
+erj_145_IND_1,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,CMI,2026-02-15 18:00:00+00:00
+erj_145_IND_1,depot_in,BWI,IND,447.3,1.79,6905.95,,,,Maryland Terrapins,ORD,2026-02-19 01:00:00+00:00
+erj_145_IND_1,depot_in,CMH,IND,157.7,0.63,2435.08,,,,Ohio State Buckeyes,MSP,2026-02-19 01:00:00+00:00
+erj_145_IND_1,depot_out,IND,CMI,93.3,0.37,1441.21,Illinois Fighting Illini,LAX,2026-02-19 03:00:00+00:00,,,
+erj_145_IND_1,depot_out,IND,LUK,94.5,0.38,1459.2,Cincinnati Bearcats,LWC,2026-02-21 18:00:00+00:00,,,
+erj_145_IND_1,depot_in,LUK,IND,94.5,0.38,1459.2,,,,Cincinnati Bearcats,LWC,2026-02-21 18:00:00+00:00
+erj_145_IND_1,depot_out,IND,MGW,294.6,1.18,4549.13,West Virginia Mountaineers,AFW,2026-02-21 22:00:00+00:00,,,
+erj_145_IND_1,depot_in,MGW,IND,294.6,1.18,4549.13,,,,West Virginia Mountaineers,AFW,2026-02-21 22:00:00+00:00
+erj_145_IND_1,depot_in,CMI,IND,93.3,0.37,1441.21,,,,Illinois Fighting Illini,ORD,2026-02-22 20:00:00+00:00
+erj_145_IND_1,depot_out,IND,BMG,37.4,0.15,577.7,Indiana Hoosiers,EWR,2026-02-26 00:00:00+00:00,,,
+erj_145_IND_1,depot_in,BMG,IND,37.4,0.15,577.7,,,,Indiana Hoosiers,EWR,2026-02-26 00:00:00+00:00
+erj_145_IND_1,depot_out,IND,CMH,157.7,0.63,2435.08,Ohio State Buckeyes,CID,2026-02-26 02:00:00+00:00,,,
+erj_145_IND_1,depot_in,CMH,IND,157.7,0.63,2435.08,,,,Ohio State Buckeyes,CID,2026-02-26 02:00:00+00:00
+erj_145_IND_1,depot_out,IND,BWI,447.3,1.79,6905.95,Maryland Terrapins,ARB,2026-02-28 19:30:00+00:00,,,
+erj_145_IND_1,depot_in,CMH,IND,157.7,0.63,2435.08,,,,Ohio State Buckeyes,LAN,2026-03-01 17:00:00+00:00
+erj_145_IND_1,depot_out,IND,LAF,51.2,0.2,790.67,Purdue Boilermakers,CMH,2026-03-01 18:30:00+00:00,,,
+erj_145_IND_1,depot_in,LAF,IND,51.2,0.2,790.67,,,,Purdue Boilermakers,CMH,2026-03-01 18:30:00+00:00
+erj_145_IND_1,trip,LUK,BMG,102.4,0.41,1581.03,Indiana Hoosiers,TLH,2025-11-16 22:02:00+00:00,Xavier Musketeers,CID,2025-11-15 01:00:00+00:00
+erj_145_IND_1,trip,EWR,BWI,146.6,0.59,2263.08,Maryland Terrapins,LAS,2025-11-27 04:59:00+00:00,Seton Hall Pirates,OGG,2025-11-25 22:24:00+00:00
+erj_145_IND_1,trip,BWI,LUK,360.9,1.44,5571.57,Cincinnati Bearcats,APF,2025-11-29 20:30:00+00:00,Maryland Terrapins,LAS,2025-11-27 04:59:00+00:00
+erj_145_IND_1,trip,CMH,CMH,0.0,0.0,0.0,Ohio State Buckeyes,ORD,2025-12-07 19:00:00+00:00,Ohio State Buckeyes,ORD,2025-12-06 19:00:00+00:00
+erj_145_IND_1,trip,EWR,LAN,482.8,1.93,7455.09,Michigan State Spartans,MSN,2025-12-07 23:00:00+00:00,Seton Hall Pirates,MHK,2025-12-06 21:00:00+00:00
+erj_145_IND_1,trip,MGW,MGW,0.0,0.0,0.0,West Virginia Mountaineers,CLL,2025-12-14 20:00:00+00:00,West Virginia Mountaineers,BKL,2025-12-14 01:00:00+00:00
+erj_145_IND_1,trip,CMI,MSP,363.8,1.46,5616.6,Minnesota Golden Gophers,BMG,2025-12-29 23:00:00+00:00,Illinois Fighting Illini,LAF,2025-12-28 17:00:00+00:00
+erj_145_IND_1,trip,MSP,DSM,201.8,0.81,3115.75,Iowa State Cyclones,HOU,2025-12-31 19:00:00+00:00,Minnesota Golden Gophers,BMG,2025-12-29 23:00:00+00:00
+erj_145_IND_1,trip,DSM,LNK,146.3,0.59,2258.24,Nebraska Cornhuskers,CID,2026-01-01 19:00:00+00:00,Iowa State Cyclones,HOU,2025-12-31 19:00:00+00:00
+erj_145_IND_1,trip,LNK,LWC,131.1,0.52,2023.81,Kansas Jayhawks,ORL,2026-01-03 19:00:00+00:00,Nebraska Cornhuskers,CID,2026-01-01 19:00:00+00:00
+erj_145_IND_1,trip,LWC,LWC,0.0,0.0,0.0,Kansas Jayhawks,ORL,2026-01-04 19:00:00+00:00,Kansas Jayhawks,ORL,2026-01-03 19:00:00+00:00
+erj_145_IND_1,trip,LAF,LAF,0.0,0.0,0.0,Purdue Boilermakers,LNK,2026-01-04 20:00:00+00:00,Purdue Boilermakers,MSN,2026-01-04 01:00:00+00:00
+erj_145_IND_1,trip,LWC,CID,235.4,0.94,3634.24,Iowa Hawkeyes,ORD,2026-01-06 01:30:00+00:00,Kansas Jayhawks,ORL,2026-01-04 19:00:00+00:00
+erj_145_IND_1,trip,CID,CID,0.0,0.0,0.0,Iowa Hawkeyes,MSP,2026-01-07 01:00:00+00:00,Iowa Hawkeyes,ORD,2026-01-06 01:30:00+00:00
+erj_145_IND_1,trip,CID,DSM,89.7,0.36,1385.32,Iowa State Cyclones,ACT,2026-01-08 01:00:00+00:00,Iowa Hawkeyes,MSP,2026-01-07 01:00:00+00:00
+erj_145_IND_1,trip,DSM,LAN,410.4,1.64,6336.2,Michigan State Spartans,SEA,2026-01-09 02:00:00+00:00,Iowa State Cyclones,ACT,2026-01-08 01:00:00+00:00
+erj_145_IND_1,trip,LAN,CMI,233.7,0.93,3608.35,Illinois Fighting Illini,CID,2026-01-11 17:00:00+00:00,Michigan State Spartans,SEA,2026-01-09 02:00:00+00:00
+erj_145_IND_1,trip,ARB,BWI,370.3,1.48,5717.59,Maryland Terrapins,LAX,2026-01-18 21:00:00+00:00,Michigan Wolverines,EUG,2026-01-17 21:00:00+00:00
+erj_145_IND_1,trip,LAF,LAF,0.0,0.0,0.0,Purdue Boilermakers,LAX,2026-01-18 22:00:00+00:00,Purdue Boilermakers,LAX,2026-01-17 23:00:00+00:00
+erj_145_IND_1,trip,BWI,BMG,462.9,1.85,7147.32,Indiana Hoosiers,ARB,2026-01-21 00:00:00+00:00,Maryland Terrapins,LAX,2026-01-18 21:00:00+00:00
+erj_145_IND_1,trip,LAF,LAF,0.0,0.0,0.0,Purdue Boilermakers,LAX,2026-01-21 03:00:00+00:00,Purdue Boilermakers,LAX,2026-01-18 22:00:00+00:00
+erj_145_IND_1,trip,BMG,BMG,0.0,0.0,0.0,Indiana Hoosiers,CMH,2026-01-23 01:00:00+00:00,Indiana Hoosiers,ARB,2026-01-21 00:00:00+00:00
+erj_145_IND_1,trip,LAF,LAF,0.0,0.0,0.0,Purdue Boilermakers,LAX,2026-01-22 03:00:00+00:00,Purdue Boilermakers,LAX,2026-01-21 03:00:00+00:00
+erj_145_IND_1,trip,LAF,CMI,65.2,0.26,1007.43,Illinois Fighting Illini,LNK,2026-01-24 19:00:00+00:00,Purdue Boilermakers,LAX,2026-01-22 03:00:00+00:00
+erj_145_IND_1,trip,BMG,BMG,0.0,0.0,0.0,Indiana Hoosiers,EWR,2026-01-23 23:00:00+00:00,Indiana Hoosiers,CMH,2026-01-23 01:00:00+00:00
+erj_145_IND_1,trip,BMG,BMG,0.0,0.0,0.0,Indiana Hoosiers,LAF,2026-01-25 17:00:00+00:00,Indiana Hoosiers,EWR,2026-01-23 23:00:00+00:00
+erj_145_IND_1,trip,BMG,LAF,77.5,0.31,1196.71,Purdue Boilermakers,BMG,2026-01-28 02:00:00+00:00,Indiana Hoosiers,LAF,2026-01-25 17:00:00+00:00
+erj_145_IND_1,trip,LAF,ARB,180.4,0.72,2785.41,Michigan Wolverines,BMG,2026-01-30 00:00:00+00:00,Purdue Boilermakers,BMG,2026-01-28 02:00:00+00:00
+erj_145_IND_1,trip,ARB,CMH,139.1,0.56,2147.05,Ohio State Buckeyes,MSN,2026-01-31 19:00:00+00:00,Michigan Wolverines,BMG,2026-01-30 00:00:00+00:00
+erj_145_IND_1,trip,CMH,LAF,187.2,0.75,2891.04,Purdue Boilermakers,MSP,2026-02-01 20:00:00+00:00,Ohio State Buckeyes,MSN,2026-01-31 19:00:00+00:00
+erj_145_IND_1,trip,BMG,CMI,93.7,0.37,1446.33,Illinois Fighting Illini,LNK,2026-02-01 21:00:00+00:00,Indiana Hoosiers,LAX,2026-01-31 22:00:00+00:00
+erj_145_IND_1,trip,CMI,BMG,93.7,0.37,1446.33,Indiana Hoosiers,LAX,2026-02-04 03:00:00+00:00,Illinois Fighting Illini,LNK,2026-02-01 21:00:00+00:00
+erj_145_IND_1,trip,BMG,BMG,0.0,0.0,0.0,Indiana Hoosiers,MSN,2026-02-05 00:30:00+00:00,Indiana Hoosiers,LAX,2026-02-04 03:00:00+00:00
+erj_145_IND_1,trip,BWI,CMH,292.1,1.17,4510.21,Ohio State Buckeyes,BWI,2026-02-06 01:30:00+00:00,Maryland Terrapins,LAN,2026-02-04 23:30:00+00:00
+erj_145_IND_1,trip,SCE,SCE,0.0,0.0,0.0,Penn State Nittany Lions,ARB,2026-02-05 23:30:00+00:00,Penn State Lady Lions,LAF,2026-02-05 00:00:00+00:00
+erj_145_IND_1,trip,MGW,MGW,0.0,0.0,0.0,West Virginia Mountaineers,LUK,2026-02-06 00:00:00+00:00,West Virginia Mountaineers,WBU,2026-02-05 02:00:00+00:00
+erj_145_IND_1,trip,SCE,BWI,114.2,0.46,1763.57,Maryland Terrapins,LNK,2026-02-07 19:00:00+00:00,Penn State Nittany Lions,ARB,2026-02-05 23:30:00+00:00
+erj_145_IND_1,trip,MGW,LUK,211.4,0.85,3264.15,Cincinnati Bearcats,LWC,2026-02-07 22:30:00+00:00,West Virginia Mountaineers,LUK,2026-02-06 00:00:00+00:00
+erj_145_IND_1,trip,CMH,CMI,247.6,0.99,3822.21,Illinois Fighting Illini,LAN,2026-02-08 01:00:00+00:00,Ohio State Buckeyes,BWI,2026-02-06 01:30:00+00:00
+erj_145_IND_1,trip,BWI,BWI,0.0,0.0,0.0,Maryland Terrapins,MSP,2026-02-08 19:00:00+00:00,Maryland Terrapins,LNK,2026-02-07 19:00:00+00:00
+erj_145_IND_1,trip,LUK,CMH,88.8,0.36,1371.39,Ohio State Buckeyes,EUG,2026-02-08 20:00:00+00:00,Cincinnati Bearcats,LWC,2026-02-07 22:30:00+00:00
+erj_145_IND_1,trip,CMI,LAF,65.2,0.26,1007.43,Purdue Boilermakers,BMG,2026-02-08 19:00:00+00:00,Illinois Fighting Illini,LAN,2026-02-08 01:00:00+00:00
+erj_145_IND_1,trip,LAF,LAF,0.0,0.0,0.0,Purdue Boilermakers,LNK,2026-02-11 00:00:00+00:00,Purdue Boilermakers,BMG,2026-02-08 19:00:00+00:00
+erj_145_IND_1,trip,LAF,ARB,180.4,0.72,2785.41,Michigan Wolverines,ORD,2026-02-12 01:30:00+00:00,Purdue Boilermakers,LNK,2026-02-11 00:00:00+00:00
+erj_145_IND_1,trip,ARB,ARB,0.0,0.0,0.0,Michigan Wolverines,ORD,2026-02-13 02:00:00+00:00,Michigan Wolverines,ORD,2026-02-12 01:30:00+00:00
+erj_145_IND_1,trip,LUK,SCE,319.9,1.28,4939.04,Penn State Lady Lions,BWI,2026-02-13 00:00:00+00:00,Cincinnati Bearcats,MHK,2026-02-12 02:00:00+00:00
+erj_145_IND_1,trip,SCE,EWR,167.5,0.67,2586.28,Rutgers Scarlet Knights,LAF,2026-02-14 17:00:00+00:00,Penn State Lady Lions,BWI,2026-02-13 00:00:00+00:00
+erj_145_IND_1,trip,ARB,LAN,49.9,0.2,770.72,Michigan State Spartans,MSN,2026-02-14 01:00:00+00:00,Michigan Wolverines,ORD,2026-02-13 02:00:00+00:00
+erj_145_IND_1,trip,BMG,LOU,70.9,0.28,1095.32,Louisville Cardinals,AFW,2026-02-14 21:00:00+00:00,Indiana Hoosiers,LAX,2026-02-13 03:00:00+00:00
+erj_145_IND_1,trip,LAN,MGW,282.5,1.13,4362.27,West Virginia Mountaineers,ORL,2026-02-14 23:00:00+00:00,Michigan State Spartans,MSN,2026-02-14 01:00:00+00:00
+erj_145_IND_1,trip,EWR,BWI,146.6,0.59,2263.08,Maryland Terrapins,EWR,2026-02-15 17:00:00+00:00,Rutgers Scarlet Knights,LAF,2026-02-14 17:00:00+00:00
+erj_145_IND_1,trip,LOU,BMG,70.9,0.28,1095.32,Indiana Hoosiers,CMI,2026-02-15 18:00:00+00:00,Louisville Cardinals,AFW,2026-02-14 21:00:00+00:00
+erj_145_IND_1,trip,MGW,MGW,0.0,0.0,0.0,West Virginia Mountaineers,AFW,2026-02-16 01:00:00+00:00,West Virginia Mountaineers,ORL,2026-02-14 23:00:00+00:00
+erj_145_IND_1,trip,BWI,ARB,370.3,1.48,5717.59,Michigan Wolverines,LAF,2026-02-17 23:30:00+00:00,Maryland Terrapins,EWR,2026-02-15 17:00:00+00:00
+erj_145_IND_1,trip,MGW,LUK,211.4,0.85,3264.15,Cincinnati Bearcats,PVU,2026-02-18 02:00:00+00:00,West Virginia Mountaineers,AFW,2026-02-16 01:00:00+00:00
+erj_145_IND_1,trip,ARB,BWI,370.3,1.48,5717.59,Maryland Terrapins,ORD,2026-02-19 01:00:00+00:00,Michigan Wolverines,LAF,2026-02-17 23:30:00+00:00
+erj_145_IND_1,trip,LUK,CMH,88.8,0.36,1371.39,Ohio State Buckeyes,MSP,2026-02-19 01:00:00+00:00,Cincinnati Bearcats,PVU,2026-02-18 02:00:00+00:00
+erj_145_IND_1,trip,CMI,BMG,93.7,0.37,1446.33,Indiana Hoosiers,LAF,2026-02-21 01:00:00+00:00,Illinois Fighting Illini,LAX,2026-02-19 03:00:00+00:00
+erj_145_IND_1,trip,BMG,CMI,93.7,0.37,1446.33,Illinois Fighting Illini,LAX,2026-02-22 01:00:00+00:00,Indiana Hoosiers,LAF,2026-02-21 01:00:00+00:00
+erj_145_IND_1,trip,CMI,CMI,0.0,0.0,0.0,Illinois Fighting Illini,ORD,2026-02-22 20:00:00+00:00,Illinois Fighting Illini,LAX,2026-02-22 01:00:00+00:00
+erj_145_IND_1,trip,BWI,CMH,292.1,1.17,4510.21,Ohio State Buckeyes,LAN,2026-03-01 17:00:00+00:00,Maryland Terrapins,ARB,2026-02-28 19:30:00+00:00
+erj_145_ORD_0,depot_out,ORD,MKE,58.2,0.23,897.93,Marquette Golden Eagles,MSP,2025-11-12 01:00:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,ARB,185.8,0.74,2869.46,Michigan Wolverines,AFW,2025-11-15 02:00:00+00:00,,,
+erj_145_ORD_0,depot_in,GRB,ORD,150.7,0.6,2327.08,,,,Green Bay Phoenix,MSN,2025-11-16 20:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,MSP,289.9,1.16,4475.84,Minnesota Golden Gophers,LWC,2025-11-20 00:30:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,MSP,289.9,1.16,4475.84,Minnesota Golden Gophers,LWC,2025-11-20 00:30:00+00:00,,,
+erj_145_ORD_0,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,SLC,2025-11-21 21:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,LWB,2025-11-21 22:00:00+00:00,,,
+erj_145_ORD_0,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,LWB,2025-11-21 22:00:00+00:00
+erj_145_ORD_0,depot_in,ARB,ORD,185.8,0.74,2869.46,,,,Michigan Wolverines,GON,2025-11-22 01:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,OMA,360.6,1.44,5568.11,Creighton Bluejays,LAS,2025-11-24 19:00:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,DAB,2025-11-28 21:00:00+00:00,,,
+erj_145_ORD_0,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,DAB,2025-11-28 21:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,SAN,2025-11-28 22:30:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,SAN,2025-11-28 22:30:00+00:00,,,
+erj_145_ORD_0,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,SAN,2025-11-28 22:30:00+00:00
+erj_145_ORD_0,depot_in,MSP,ORD,289.9,1.16,4475.84,,,,Minnesota Golden Gophers,PSP,2025-11-29 02:30:00+00:00
+erj_145_ORD_0,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,RSW,2025-11-29 18:30:00+00:00
+erj_145_ORD_0,depot_in,LWC,ORD,378.2,1.51,5839.76,,,,Kansas Jayhawks,ORD,2025-12-04 01:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,DSM,259.0,1.04,3998.24,Iowa State Cyclones,LAF,2025-12-06 17:00:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,DSM,259.0,1.04,3998.24,Iowa State Cyclones,LAF,2025-12-06 17:00:00+00:00,,,
+erj_145_ORD_0,depot_in,DSM,ORD,259.0,1.04,3998.24,,,,Iowa State Cyclones,LAF,2025-12-06 17:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,LNK,404.4,1.62,6243.85,Nebraska Cornhuskers,SCE,2025-12-06 18:00:00+00:00,,,
+erj_145_ORD_0,depot_in,LWC,ORD,378.2,1.51,5839.76,,,,Kansas Jayhawks,SGF,2025-12-07 20:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,CID,170.1,0.68,2626.05,Iowa Hawkeyes,DSM,2025-12-11 00:00:00+00:00,,,
+erj_145_ORD_0,depot_in,CMI,ORD,117.6,0.47,1815.98,,,,Illinois Fighting Illini,COU,2025-12-11 00:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,MKE,58.2,0.23,897.93,Marquette Golden Eagles,LAF,2025-12-13 19:00:00+00:00,,,
+erj_145_ORD_0,depot_in,MKE,ORD,58.2,0.23,897.93,,,,Marquette Golden Eagles,LAF,2025-12-13 19:00:00+00:00
+erj_145_ORD_0,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,SLC,2025-12-14 21:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,MKE,2025-12-20 01:00:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,CID,170.1,0.68,2626.05,Iowa Hawkeyes,TEB,2025-12-20 18:30:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,IND,2025-12-20 21:00:00+00:00,,,
+erj_145_ORD_0,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,DCA,2025-12-21 18:00:00+00:00
+erj_145_ORD_0,depot_in,COU,ORD,273.7,1.09,4225.39,,,,Missouri Tigers,CPS,2025-12-23 01:00:00+00:00
+erj_145_ORD_0,depot_in,MBS,ORD,192.6,0.77,2973.39,,,,Central Michigan Chippewas,MSN,2025-12-23 01:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,BWI,2025-12-29 21:00:00+00:00,,,
+erj_145_ORD_0,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,BWI,2025-12-29 21:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,SEA,2025-12-30 01:00:00+00:00,,,
+erj_145_ORD_0,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,SEA,2025-12-30 01:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,LNK,404.4,1.62,6243.85,Nebraska Cornhuskers,BMG,2026-01-10 17:00:00+00:00,,,
+erj_145_ORD_0,depot_in,CID,ORD,170.1,0.68,2626.05,,,,Iowa Hawkeyes,BMG,2026-01-11 22:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,LAN,154.8,0.62,2390.36,Michigan State Spartans,EUG,2026-01-11 22:00:00+00:00,,,
+erj_145_ORD_0,depot_in,LAN,ORD,154.8,0.62,2390.36,,,,Michigan State Spartans,EUG,2026-01-11 22:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,LAN,154.8,0.62,2390.36,Michigan State Spartans,SEA,2026-01-17 23:00:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,LAX,2026-01-22 04:00:00+00:00,,,
+erj_145_ORD_0,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,LAX,2026-01-22 04:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,MSP,289.9,1.16,4475.84,Minnesota Golden Gophers,SCE,2026-02-01 19:00:00+00:00,,,
+erj_145_ORD_0,depot_in,MSP,ORD,289.9,1.16,4475.84,,,,Minnesota Golden Gophers,SCE,2026-02-01 19:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,BMG,2026-02-01 19:00:00+00:00,,,
+erj_145_ORD_0,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,BMG,2026-02-01 19:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,CID,170.1,0.68,2626.05,Iowa Hawkeyes,LAX,2026-02-01 21:00:00+00:00,,,
+erj_145_ORD_0,depot_in,CID,ORD,170.1,0.68,2626.05,,,,Iowa Hawkeyes,LAX,2026-02-01 21:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,LNK,404.4,1.62,6243.85,Nebraska Cornhuskers,CMH,2026-02-01 23:00:00+00:00,,,
+erj_145_ORD_0,depot_in,LNK,ORD,404.4,1.62,6243.85,,,,Nebraska Cornhuskers,CMH,2026-02-01 23:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,CID,170.1,0.68,2626.05,Iowa Hawkeyes,EUG,2026-02-02 01:00:00+00:00,,,
+erj_145_ORD_0,depot_in,CID,ORD,170.1,0.68,2626.05,,,,Iowa Hawkeyes,EUG,2026-02-02 01:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,LAN,154.8,0.62,2390.36,Michigan State Spartans,MSP,2026-02-05 00:00:00+00:00,,,
+erj_145_ORD_0,depot_in,LAN,ORD,154.8,0.62,2390.36,,,,Michigan State Spartans,MSP,2026-02-05 00:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,LNK,404.4,1.62,6243.85,Nebraska Cornhuskers,ARB,2026-02-05 00:00:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,CID,170.1,0.68,2626.05,Iowa Hawkeyes,SEA,2026-02-05 04:10:00+00:00,,,
+erj_145_ORD_0,depot_in,DSM,ORD,259.0,1.04,3998.24,,,,Iowa State Cyclones,SLC,2026-02-08 00:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,DSM,259.0,1.04,3998.24,Iowa State Cyclones,AFW,2026-02-11 02:00:00+00:00,,,
+erj_145_ORD_0,depot_in,DSM,ORD,259.0,1.04,3998.24,,,,Iowa State Cyclones,PVU,2026-02-11 02:00:00+00:00
+erj_145_ORD_0,depot_in,CID,ORD,170.1,0.68,2626.05,,,,Iowa Hawkeyes,BWI,2026-02-11 23:00:00+00:00
+erj_145_ORD_0,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,CMI,2026-02-12 00:00:00+00:00
+erj_145_ORD_0,depot_out,ORD,MSP,289.9,1.16,4475.84,Minnesota Golden Gophers,SEA,2026-02-15 02:00:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,ARB,185.8,0.74,2869.46,Michigan Wolverines,DCA,2026-02-21 23:30:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,LWC,378.2,1.51,5839.76,Kansas Jayhawks,DMA,2026-02-28 21:00:00+00:00,,,
+erj_145_ORD_0,depot_in,CID,ORD,170.1,0.68,2626.05,,,,Iowa Hawkeyes,MSN,2026-03-01 20:00:00+00:00
+erj_145_ORD_0,depot_in,LAN,ORD,154.8,0.62,2390.36,,,,Michigan State Spartans,BMG,2026-03-01 20:45:00+00:00
+erj_145_ORD_0,depot_in,MSP,ORD,289.9,1.16,4475.84,,,,Minnesota Golden Gophers,BMG,2026-03-04 23:30:00+00:00
+erj_145_ORD_0,depot_out,ORD,MHK,434.4,1.74,6706.62,Kansas State Wildcats,LWC,2026-03-07 19:00:00+00:00,,,
+erj_145_ORD_0,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,LAF,2026-03-07 21:00:00+00:00,,,
+erj_145_ORD_0,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,LAF,2026-03-07 21:00:00+00:00
+erj_145_ORD_0,depot_in,CID,ORD,170.1,0.68,2626.05,,,,Iowa Hawkeyes,LNK,2026-03-08 21:00:00+00:00
+erj_145_ORD_0,trip,MKE,MSP,257.8,1.03,3981.0,Minnesota Golden Gophers,COU,2025-11-13 01:00:00+00:00,Marquette Golden Eagles,MSP,2025-11-12 01:00:00+00:00
+erj_145_ORD_0,trip,MSP,DSM,201.8,0.81,3115.75,Drake Bulldogs,CID,2025-11-14 01:30:00+00:00,Minnesota Golden Gophers,COU,2025-11-13 01:00:00+00:00
+erj_145_ORD_0,trip,DSM,GRB,300.3,1.2,4635.91,Green Bay Phoenix,MSP,2025-11-16 02:00:00+00:00,Drake Bulldogs,CID,2025-11-14 01:30:00+00:00
+erj_145_ORD_0,trip,ARB,SBN,118.9,0.48,1835.39,Notre Dame Fighting Irish,CMH,2025-11-16 17:30:00+00:00,Michigan Wolverines,AFW,2025-11-15 02:00:00+00:00
+erj_145_ORD_0,trip,GRB,GRB,0.0,0.0,0.0,Green Bay Phoenix,MSN,2025-11-16 20:00:00+00:00,Green Bay Phoenix,MSP,2025-11-16 02:00:00+00:00
+erj_145_ORD_0,trip,SBN,LAF,82.7,0.33,1277.27,Purdue Boilermakers,LEX,2025-11-19 00:00:00+00:00,Notre Dame Fighting Irish,CMH,2025-11-16 17:30:00+00:00
+erj_145_ORD_0,trip,LAF,LUK,140.4,0.56,2168.32,Cincinnati Bearcats,MIE,2025-11-20 23:30:00+00:00,Purdue Boilermakers,LEX,2025-11-19 00:00:00+00:00
+erj_145_ORD_0,trip,MSP,CID,191.5,0.77,2957.36,Iowa Hawkeyes,MCO,2025-11-21 02:00:00+00:00,Minnesota Golden Gophers,LWC,2025-11-20 00:30:00+00:00
+erj_145_ORD_0,trip,MSP,CID,191.5,0.77,2957.36,Iowa Hawkeyes,MCO,2025-11-21 02:00:00+00:00,Minnesota Golden Gophers,LWC,2025-11-20 00:30:00+00:00
+erj_145_ORD_0,trip,LUK,DTW,193.0,0.77,2979.96,Detroit Mercy Titans,LAN,2025-11-21 23:30:00+00:00,Cincinnati Bearcats,MIE,2025-11-20 23:30:00+00:00
+erj_145_ORD_0,trip,CID,MSN,129.3,0.52,1995.89,Wisconsin Badgers,SLC,2025-11-21 21:00:00+00:00,Iowa Hawkeyes,MCO,2025-11-21 02:00:00+00:00
+erj_145_ORD_0,trip,CID,ARB,355.5,1.42,5489.65,Michigan Wolverines,GON,2025-11-22 01:00:00+00:00,Iowa Hawkeyes,MCO,2025-11-21 02:00:00+00:00
+erj_145_ORD_0,trip,DTW,DTW,0.0,0.0,0.0,Detroit Mercy Titans,MSN,2025-11-23 20:00:00+00:00,Detroit Mercy Titans,LAN,2025-11-21 23:30:00+00:00
+erj_145_ORD_0,trip,DTW,LAN,64.2,0.26,991.06,Michigan State Spartans,RSW,2025-11-25 18:00:00+00:00,Detroit Mercy Titans,MSN,2025-11-23 20:00:00+00:00
+erj_145_ORD_0,trip,OMA,OMA,0.0,0.0,0.0,Creighton Bluejays,LAS,2025-11-25 19:00:00+00:00,Creighton Bluejays,LAS,2025-11-24 19:00:00+00:00
+erj_145_ORD_0,trip,LAN,LAN,0.0,0.0,0.0,Michigan State Spartans,RSW,2025-11-27 21:30:00+00:00,Michigan State Spartans,RSW,2025-11-25 18:00:00+00:00
+erj_145_ORD_0,trip,OMA,CID,191.0,0.76,2949.6,Iowa Hawkeyes,PSP,2025-11-27 02:30:00+00:00,Creighton Bluejays,LAS,2025-11-25 19:00:00+00:00
+erj_145_ORD_0,trip,CID,MSP,191.5,0.77,2957.36,Minnesota Golden Gophers,PSP,2025-11-29 02:30:00+00:00,Iowa Hawkeyes,PSP,2025-11-27 02:30:00+00:00
+erj_145_ORD_0,trip,LAN,LAN,0.0,0.0,0.0,Michigan State Spartans,NAS,2025-11-28 23:30:00+00:00,Michigan State Spartans,RSW,2025-11-27 21:30:00+00:00
+erj_145_ORD_0,trip,MSN,ORD,94.2,0.38,1454.6,Northwestern Wildcats,RSW,2025-11-29 18:30:00+00:00,Wisconsin Badgers,SAN,2025-11-28 22:30:00+00:00
+erj_145_ORD_0,trip,LAN,LAN,0.0,0.0,0.0,Michigan State Spartans,NAS,2025-11-30 23:30:00+00:00,Michigan State Spartans,NAS,2025-11-28 23:30:00+00:00
+erj_145_ORD_0,trip,LAN,CID,320.7,1.28,4951.02,Iowa Hawkeyes,LAN,2025-12-03 00:00:00+00:00,Michigan State Spartans,NAS,2025-11-30 23:30:00+00:00
+erj_145_ORD_0,trip,CID,LWC,235.4,0.94,3634.24,Kansas Jayhawks,ORD,2025-12-04 01:00:00+00:00,Iowa Hawkeyes,LAN,2025-12-03 00:00:00+00:00
+erj_145_ORD_0,trip,DSM,COU,175.9,0.7,2715.6,Missouri Tigers,MCI,2025-12-07 18:00:00+00:00,Iowa State Cyclones,LAF,2025-12-06 17:00:00+00:00
+erj_145_ORD_0,trip,LNK,LWC,131.1,0.52,2023.81,Kansas Jayhawks,SGF,2025-12-07 20:00:00+00:00,Nebraska Cornhuskers,SCE,2025-12-06 18:00:00+00:00
+erj_145_ORD_0,trip,COU,CMI,197.0,0.79,3041.93,Illinois Fighting Illini,CMH,2025-12-10 00:30:00+00:00,Missouri Tigers,MCI,2025-12-07 18:00:00+00:00
+erj_145_ORD_0,trip,CMI,CMI,0.0,0.0,0.0,Illinois Fighting Illini,COU,2025-12-11 00:00:00+00:00,Illinois Fighting Illini,CMH,2025-12-10 00:30:00+00:00
+erj_145_ORD_0,trip,CID,CID,0.0,0.0,0.0,Iowa Hawkeyes,DSM,2025-12-12 01:00:00+00:00,Iowa Hawkeyes,DSM,2025-12-11 00:00:00+00:00
+erj_145_ORD_0,trip,CID,LWC,235.4,0.94,3634.24,Kansas Jayhawks,RDU,2025-12-13 22:30:00+00:00,Iowa Hawkeyes,DSM,2025-12-12 01:00:00+00:00
+erj_145_ORD_0,trip,LWC,ORD,378.2,1.51,5839.76,Northwestern Wildcats,SLC,2025-12-14 21:00:00+00:00,Kansas Jayhawks,RDU,2025-12-13 22:30:00+00:00
+erj_145_ORD_0,trip,MSN,MSP,197.6,0.79,3050.57,Minnesota Golden Gophers,DSM,2025-12-21 20:00:00+00:00,Wisconsin Badgers,MKE,2025-12-20 01:00:00+00:00
+erj_145_ORD_0,trip,CID,LWC,235.4,0.94,3634.24,Kansas Jayhawks,DSM,2025-12-21 18:00:00+00:00,Iowa Hawkeyes,TEB,2025-12-20 18:30:00+00:00
+erj_145_ORD_0,trip,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,DCA,2025-12-21 18:00:00+00:00,Northwestern Wildcats,IND,2025-12-20 21:00:00+00:00
+erj_145_ORD_0,trip,LWC,COU,140.5,0.56,2169.04,Missouri Tigers,CPS,2025-12-23 01:00:00+00:00,Kansas Jayhawks,DSM,2025-12-21 18:00:00+00:00
+erj_145_ORD_0,trip,MSP,MBS,401.3,1.61,6196.24,Central Michigan Chippewas,MSN,2025-12-23 01:00:00+00:00,Minnesota Golden Gophers,DSM,2025-12-21 20:00:00+00:00
+erj_145_ORD_0,trip,LNK,CID,236.0,0.94,3643.38,Iowa Hawkeyes,BMG,2026-01-11 22:00:00+00:00,Nebraska Cornhuskers,BMG,2026-01-10 17:00:00+00:00
+erj_145_ORD_0,trip,LAN,LAN,0.0,0.0,0.0,Michigan State Spartans,CID,2026-01-19 01:00:00+00:00,Michigan State Spartans,SEA,2026-01-17 23:00:00+00:00
+erj_145_ORD_0,trip,LAN,LAN,0.0,0.0,0.0,Michigan State Spartans,EUG,2026-01-21 02:00:00+00:00,Michigan State Spartans,CID,2026-01-19 01:00:00+00:00
+erj_145_ORD_0,trip,LAN,ARB,49.9,0.2,770.72,Michigan Wolverines,EWR,2026-01-22 23:00:00+00:00,Michigan State Spartans,EUG,2026-01-21 02:00:00+00:00
+erj_145_ORD_0,trip,ARB,SCE,277.5,1.11,4284.53,Penn State Lady Lions,EUG,2026-01-24 22:00:00+00:00,Michigan Wolverines,EWR,2026-01-22 23:00:00+00:00
+erj_145_ORD_0,trip,SCE,SCE,0.0,0.0,0.0,Penn State Nittany Lions,CMH,2026-01-27 00:00:00+00:00,Penn State Lady Lions,EUG,2026-01-24 22:00:00+00:00
+erj_145_ORD_0,trip,SCE,MGW,119.3,0.48,1842.03,West Virginia Mountaineers,SLC,2026-01-28 02:00:00+00:00,Penn State Nittany Lions,CMH,2026-01-27 00:00:00+00:00
+erj_145_ORD_0,trip,MGW,SCE,119.3,0.48,1842.03,Penn State Nittany Lions,ORD,2026-01-30 01:00:00+00:00,West Virginia Mountaineers,SLC,2026-01-28 02:00:00+00:00
+erj_145_ORD_0,trip,SCE,EWR,167.5,0.67,2586.28,Rutgers Scarlet Knights,LAX,2026-02-01 00:00:00+00:00,Penn State Nittany Lions,ORD,2026-01-30 01:00:00+00:00
+erj_145_ORD_0,trip,EWR,EWR,0.0,0.0,0.0,Rutgers Scarlet Knights,LAX,2026-02-01 22:00:00+00:00,Rutgers Scarlet Knights,LAX,2026-02-01 00:00:00+00:00
+erj_145_ORD_0,trip,EWR,EWR,0.0,0.0,0.0,Rutgers Scarlet Knights,LAX,2026-02-04 02:30:00+00:00,Rutgers Scarlet Knights,LAX,2026-02-01 22:00:00+00:00
+erj_145_ORD_0,trip,EWR,EWR,0.0,0.0,0.0,Rutgers Scarlet Knights,LAX,2026-02-05 03:00:00+00:00,Rutgers Scarlet Knights,LAX,2026-02-04 02:30:00+00:00
+erj_145_ORD_0,trip,LNK,MSP,288.0,1.15,4446.33,Minnesota Golden Gophers,CID,2026-02-06 00:00:00+00:00,Nebraska Cornhuskers,ARB,2026-02-05 00:00:00+00:00
+erj_145_ORD_0,trip,EWR,CMH,401.1,1.6,6192.76,Ohio State Buckeyes,SEA,2026-02-06 02:00:00+00:00,Rutgers Scarlet Knights,LAX,2026-02-05 03:00:00+00:00
+erj_145_ORD_0,trip,CID,LNK,236.0,0.94,3643.38,Nebraska Cornhuskers,EWR,2026-02-07 17:00:00+00:00,Iowa Hawkeyes,SEA,2026-02-05 04:10:00+00:00
+erj_145_ORD_0,trip,MSP,DSM,201.8,0.81,3115.75,Iowa State Cyclones,SLC,2026-02-08 00:00:00+00:00,Minnesota Golden Gophers,CID,2026-02-06 00:00:00+00:00
+erj_145_ORD_0,trip,CMH,LAN,183.5,0.73,2833.1,Michigan State Spartans,SCE,2026-02-07 18:00:00+00:00,Ohio State Buckeyes,SEA,2026-02-06 02:00:00+00:00
+erj_145_ORD_0,trip,LNK,MSP,288.0,1.15,4446.33,Minnesota Golden Gophers,EWR,2026-02-08 17:00:00+00:00,Nebraska Cornhuskers,EWR,2026-02-07 17:00:00+00:00
+erj_145_ORD_0,trip,LAN,ARB,49.9,0.2,770.72,Michigan Wolverines,CMH,2026-02-08 18:00:00+00:00,Michigan State Spartans,SCE,2026-02-07 18:00:00+00:00
+erj_145_ORD_0,trip,MSP,DSM,201.8,0.81,3115.75,Iowa State Cyclones,PVU,2026-02-11 02:00:00+00:00,Minnesota Golden Gophers,EWR,2026-02-08 17:00:00+00:00
+erj_145_ORD_0,trip,ARB,MSN,252.8,1.01,3903.64,Wisconsin Badgers,CMI,2026-02-11 01:00:00+00:00,Michigan Wolverines,CMH,2026-02-08 18:00:00+00:00
+erj_145_ORD_0,trip,MSN,MSN,0.0,0.0,0.0,Wisconsin Badgers,CMI,2026-02-12 00:00:00+00:00,Wisconsin Badgers,CMI,2026-02-11 01:00:00+00:00
+erj_145_ORD_0,trip,DSM,CID,89.7,0.36,1385.32,Iowa Hawkeyes,BWI,2026-02-11 23:00:00+00:00,Iowa State Cyclones,AFW,2026-02-11 02:00:00+00:00
+erj_145_ORD_0,trip,MSP,MSP,0.0,0.0,0.0,Minnesota Golden Gophers,MSN,2026-02-15 23:00:00+00:00,Minnesota Golden Gophers,SEA,2026-02-15 02:00:00+00:00
+erj_145_ORD_0,trip,MSP,MSP,0.0,0.0,0.0,Minnesota Golden Gophers,EUG,2026-02-18 03:45:00+00:00,Minnesota Golden Gophers,MSN,2026-02-15 23:00:00+00:00
+erj_145_ORD_0,trip,MSP,LWC,363.4,1.45,5611.26,Kansas Jayhawks,SWO,2026-02-19 02:00:00+00:00,Minnesota Golden Gophers,EUG,2026-02-18 03:45:00+00:00
+erj_145_ORD_0,trip,LWC,CID,235.4,0.94,3634.24,Iowa Hawkeyes,LAF,2026-02-20 00:00:00+00:00,Kansas Jayhawks,SWO,2026-02-19 02:00:00+00:00
+erj_145_ORD_0,trip,CID,LWC,235.4,0.94,3634.24,Kansas Jayhawks,MHK,2026-02-21 22:00:00+00:00,Iowa Hawkeyes,LAF,2026-02-20 00:00:00+00:00
+erj_145_ORD_0,trip,LWC,CID,235.4,0.94,3634.24,Iowa Hawkeyes,MSN,2026-02-22 21:00:00+00:00,Kansas Jayhawks,MHK,2026-02-21 22:00:00+00:00
+erj_145_ORD_0,trip,ARB,ARB,0.0,0.0,0.0,Michigan Wolverines,CID,2026-02-22 17:00:00+00:00,Michigan Wolverines,DCA,2026-02-21 23:30:00+00:00
+erj_145_ORD_0,trip,ARB,MGW,232.6,0.93,3591.82,West Virginia Mountaineers,SWO,2026-02-25 00:00:00+00:00,Michigan Wolverines,CID,2026-02-22 17:00:00+00:00
+erj_145_ORD_0,trip,CID,MSP,191.5,0.77,2957.36,Minnesota Golden Gophers,ARB,2026-02-25 01:30:00+00:00,Iowa Hawkeyes,MSN,2026-02-22 21:00:00+00:00
+erj_145_ORD_0,trip,MGW,BWI,153.3,0.61,2367.24,Maryland Terrapins,LNK,2026-02-26 00:00:00+00:00,West Virginia Mountaineers,SWO,2026-02-25 00:00:00+00:00
+erj_145_ORD_0,trip,MSP,MSN,197.6,0.79,3050.57,Wisconsin Badgers,EUG,2026-02-26 04:00:00+00:00,Minnesota Golden Gophers,ARB,2026-02-25 01:30:00+00:00
+erj_145_ORD_0,trip,BWI,ARB,370.3,1.48,5717.59,Michigan Wolverines,CMI,2026-02-28 01:00:00+00:00,Maryland Terrapins,LNK,2026-02-26 00:00:00+00:00
+erj_145_ORD_0,trip,MSN,CID,129.3,0.52,1995.89,Iowa Hawkeyes,SCE,2026-02-28 17:00:00+00:00,Wisconsin Badgers,EUG,2026-02-26 04:00:00+00:00
+erj_145_ORD_0,trip,ARB,SCE,277.5,1.11,4284.53,Penn State Lady Lions,BMG,2026-02-28 19:00:00+00:00,Michigan Wolverines,CMI,2026-02-28 01:00:00+00:00
+erj_145_ORD_0,trip,CID,CID,0.0,0.0,0.0,Iowa Hawkeyes,MSN,2026-03-01 20:00:00+00:00,Iowa Hawkeyes,SCE,2026-02-28 17:00:00+00:00
+erj_145_ORD_0,trip,SCE,LAN,322.8,1.29,4984.52,Michigan State Spartans,BMG,2026-03-01 20:45:00+00:00,Penn State Lady Lions,BMG,2026-02-28 19:00:00+00:00
+erj_145_ORD_0,trip,LWC,DSM,167.5,0.67,2585.78,Iowa State Cyclones,DMA,2026-03-03 02:00:00+00:00,Kansas Jayhawks,DMA,2026-02-28 21:00:00+00:00
+erj_145_ORD_0,trip,DSM,LNK,146.3,0.59,2258.24,Nebraska Cornhuskers,LAX,2026-03-04 04:00:00+00:00,Iowa State Cyclones,DMA,2026-03-03 02:00:00+00:00
+erj_145_ORD_0,trip,LNK,MSP,288.0,1.15,4446.33,Minnesota Golden Gophers,BMG,2026-03-04 23:30:00+00:00,Nebraska Cornhuskers,LAX,2026-03-04 04:00:00+00:00
+erj_145_ORD_0,trip,MHK,CID,279.9,1.12,4321.87,Iowa Hawkeyes,LNK,2026-03-08 21:00:00+00:00,Kansas State Wildcats,LWC,2026-03-07 19:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,GRB,150.7,0.6,2327.08,Green Bay Phoenix,LWC,2025-11-04 01:00:00+00:00,,,
+erj_145_ORD_1,depot_in,GRB,ORD,150.7,0.6,2327.08,,,,Green Bay Phoenix,LWC,2025-11-04 01:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,MDW,13.4,0.05,207.22,UIC Flames,BMG,2025-11-08 00:00:00+00:00,,,
+erj_145_ORD_1,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,MKE,2025-11-08 20:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,MDW,2025-11-20 01:00:00+00:00,,,
+erj_145_ORD_1,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,SLC,2025-11-21 21:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,SBN,72.9,0.29,1124.84,Notre Dame Fighting Irish,LAS,2025-11-24 20:30:00+00:00,,,
+erj_145_ORD_1,depot_in,MKE,ORD,58.2,0.23,897.93,,,,Marquette Golden Eagles,RSW,2025-11-28 16:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,MSN,2025-12-04 02:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,MSN,2025-12-04 02:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,MKE,58.2,0.23,897.93,Marquette Golden Eagles,MSN,2025-12-06 19:00:00+00:00,,,
+erj_145_ORD_1,depot_in,MKE,ORD,58.2,0.23,897.93,,,,Marquette Golden Eagles,MSN,2025-12-06 19:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,CID,170.1,0.68,2626.05,Iowa Hawkeyes,EWR,2025-12-06 23:00:00+00:00,,,
+erj_145_ORD_1,depot_in,CID,ORD,170.1,0.68,2626.05,,,,Iowa Hawkeyes,EWR,2025-12-06 23:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,MSP,289.9,1.16,4475.84,Minnesota Golden Gophers,LAF,2025-12-11 00:00:00+00:00,,,
+erj_145_ORD_1,depot_in,MSP,ORD,289.9,1.16,4475.84,,,,Minnesota Golden Gophers,LAF,2025-12-11 00:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,CID,170.1,0.68,2626.05,Iowa Hawkeyes,DSM,2025-12-11 00:00:00+00:00,,,
+erj_145_ORD_1,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,LNK,2025-12-11 02:00:00+00:00,,,
+erj_145_ORD_1,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,LNK,2025-12-11 02:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,LAN,154.8,0.62,2390.36,Michigan State Spartans,SCE,2025-12-13 17:00:00+00:00,,,
+erj_145_ORD_1,depot_out,ORD,GRB,150.7,0.6,2327.08,Green Bay Phoenix,SEA,2025-12-13 20:00:00+00:00,,,
+erj_145_ORD_1,depot_in,GRB,ORD,150.7,0.6,2327.08,,,,Green Bay Phoenix,SEA,2025-12-13 20:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,ARB,185.8,0.74,2869.46,Michigan Wolverines,BWI,2025-12-14 01:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,SLC,2025-12-14 21:00:00+00:00
+erj_145_ORD_1,depot_in,LAN,ORD,154.8,0.62,2390.36,,,,Michigan State Spartans,MDW,2025-12-14 22:30:00+00:00
+erj_145_ORD_1,depot_in,ALO,ORD,202.7,0.81,3129.82,,,,Northern Iowa Panthers,DSM,2025-12-14 23:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,EWR,2026-01-01 19:00:00+00:00,,,
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,EUG,2026-01-01 22:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,EUG,2026-01-01 22:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,ARB,185.8,0.74,2869.46,Michigan Wolverines,SEA,2026-01-01 23:00:00+00:00,,,
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,LAN,2026-01-08 23:30:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,LAN,2026-01-08 23:30:00+00:00
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,MSP,2026-01-09 01:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,MSP,2026-01-09 01:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,EWR,2026-01-11 22:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,EWR,2026-01-11 22:00:00+00:00
+erj_145_ORD_1,depot_in,CID,ORD,170.1,0.68,2626.05,,,,Iowa Hawkeyes,LAF,2026-01-14 23:30:00+00:00
+erj_145_ORD_1,depot_out,ORD,CID,170.1,0.68,2626.05,Iowa Hawkeyes,BMG,2026-01-17 19:00:00+00:00,,,
+erj_145_ORD_1,depot_out,ORD,DSM,259.0,1.04,3998.24,Iowa State Cyclones,LUK,2026-01-17 19:00:00+00:00,,,
+erj_145_ORD_1,depot_in,LWC,ORD,378.2,1.51,5839.76,,,,Kansas Jayhawks,PHX,2026-01-17 21:00:00+00:00
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,CMI,2026-01-18 20:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,LAX,2026-01-24 23:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,LAX,2026-01-24 23:00:00+00:00
+erj_145_ORD_1,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,MSP,2026-01-25 20:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,MSP,289.9,1.16,4475.84,Minnesota Golden Gophers,SCE,2026-01-28 23:00:00+00:00,,,
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,LNK,2026-01-29 01:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,LNK,2026-01-29 01:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,MSP,289.9,1.16,4475.84,Minnesota Golden Gophers,MSN,2026-01-29 02:00:00+00:00,,,
+erj_145_ORD_1,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,CMH,2026-01-30 01:00:00+00:00
+erj_145_ORD_1,depot_in,CID,ORD,170.1,0.68,2626.05,,,,Iowa Hawkeyes,LAX,2026-01-30 02:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,DSM,259.0,1.04,3998.24,Iowa State Cyclones,MHK,2026-02-01 19:00:00+00:00,,,
+erj_145_ORD_1,depot_in,DSM,ORD,259.0,1.04,3998.24,,,,Iowa State Cyclones,MHK,2026-02-01 19:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,CMI,2026-02-05 02:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,CMI,2026-02-05 02:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,LNK,2026-02-14 18:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,SCE,2026-02-15 21:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,LAN,2026-02-18 23:30:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,LAN,2026-02-18 23:30:00+00:00
+erj_145_ORD_1,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,LAX,2026-02-22 22:30:00+00:00,,,
+erj_145_ORD_1,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,LAX,2026-02-22 22:30:00+00:00
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,BWI,2026-02-25 23:30:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,BWI,2026-02-25 23:30:00+00:00
+erj_145_ORD_1,depot_out,ORD,LNK,404.4,1.62,6243.85,Nebraska Cornhuskers,LAX,2026-02-28 21:00:00+00:00,,,
+erj_145_ORD_1,depot_out,ORD,MSN,94.2,0.38,1454.6,Wisconsin Badgers,SEA,2026-02-28 21:00:00+00:00,,,
+erj_145_ORD_1,depot_in,MSN,ORD,94.2,0.38,1454.6,,,,Wisconsin Badgers,SEA,2026-02-28 21:00:00+00:00
+erj_145_ORD_1,depot_in,MSP,ORD,289.9,1.16,4475.84,,,,Minnesota Golden Gophers,CMI,2026-03-01 19:00:00+00:00
+erj_145_ORD_1,depot_out,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,MSP,2026-03-08 02:00:00+00:00,,,
+erj_145_ORD_1,depot_in,ORD,ORD,0.0,0.0,0.0,,,,Northwestern Wildcats,MSP,2026-03-08 02:00:00+00:00
+erj_145_ORD_1,trip,MDW,MSN,107.4,0.43,1658.35,Wisconsin Badgers,MKE,2025-11-08 20:00:00+00:00,UIC Flames,BMG,2025-11-08 00:00:00+00:00
+erj_145_ORD_1,trip,MSN,MSN,0.0,0.0,0.0,Wisconsin Badgers,SLC,2025-11-21 21:00:00+00:00,Wisconsin Badgers,MDW,2025-11-20 01:00:00+00:00
+erj_145_ORD_1,trip,SBN,SBN,0.0,0.0,0.0,Notre Dame Fighting Irish,LAS,2025-11-26 20:30:00+00:00,Notre Dame Fighting Irish,LAS,2025-11-24 20:30:00+00:00
+erj_145_ORD_1,trip,SBN,MKE,102.2,0.41,1578.27,Marquette Golden Eagles,RSW,2025-11-28 16:00:00+00:00,Notre Dame Fighting Irish,LAS,2025-11-26 20:30:00+00:00
+erj_145_ORD_1,trip,CID,CID,0.0,0.0,0.0,Iowa Hawkeyes,DSM,2025-12-12 01:00:00+00:00,Iowa Hawkeyes,DSM,2025-12-11 00:00:00+00:00
+erj_145_ORD_1,trip,CID,LNK,236.0,0.94,3643.38,Nebraska Cornhuskers,CMI,2025-12-13 21:00:00+00:00,Iowa Hawkeyes,DSM,2025-12-12 01:00:00+00:00
+erj_145_ORD_1,trip,LAN,LAN,0.0,0.0,0.0,Michigan State Spartans,MDW,2025-12-14 22:30:00+00:00,Michigan State Spartans,SCE,2025-12-13 17:00:00+00:00
+erj_145_ORD_1,trip,LNK,ALO,220.9,0.88,3410.0,Northern Iowa Panthers,DSM,2025-12-14 23:00:00+00:00,Nebraska Cornhuskers,CMI,2025-12-13 21:00:00+00:00
+erj_145_ORD_1,trip,ARB,ORD,185.8,0.74,2869.46,Northwestern Wildcats,SLC,2025-12-14 21:00:00+00:00,Michigan Wolverines,BWI,2025-12-14 01:00:00+00:00
+erj_145_ORD_1,trip,MSN,MSP,197.6,0.79,3050.57,Minnesota Golden Gophers,ORD,2026-01-03 22:00:00+00:00,Wisconsin Badgers,EWR,2026-01-01 19:00:00+00:00
+erj_145_ORD_1,trip,ARB,CMH,139.1,0.56,2147.05,Ohio State Buckeyes,EWR,2026-01-03 01:00:00+00:00,Michigan Wolverines,SEA,2026-01-01 23:00:00+00:00
+erj_145_ORD_1,trip,CMH,SCE,236.1,0.94,3645.08,Penn State Lady Lions,MSN,2026-01-04 21:00:00+00:00,Ohio State Buckeyes,EWR,2026-01-03 01:00:00+00:00
+erj_145_ORD_1,trip,MSP,MSP,0.0,0.0,0.0,Minnesota Golden Gophers,ARB,2026-01-05 23:30:00+00:00,Minnesota Golden Gophers,ORD,2026-01-03 22:00:00+00:00
+erj_145_ORD_1,trip,SCE,ARB,277.5,1.11,4284.53,Michigan Wolverines,SCE,2026-01-07 00:00:00+00:00,Penn State Lady Lions,MSN,2026-01-04 21:00:00+00:00
+erj_145_ORD_1,trip,MSP,DSM,201.8,0.81,3115.75,Iowa State Cyclones,LUK,2026-01-07 23:30:00+00:00,Minnesota Golden Gophers,ARB,2026-01-05 23:30:00+00:00
+erj_145_ORD_1,trip,ARB,ARB,0.0,0.0,0.0,Michigan Wolverines,SCE,2026-01-08 23:00:00+00:00,Michigan Wolverines,SCE,2026-01-07 00:00:00+00:00
+erj_145_ORD_1,trip,DSM,LAF,311.8,1.25,4813.72,Purdue Boilermakers,MSN,2026-01-09 00:30:00+00:00,Iowa State Cyclones,LUK,2026-01-07 23:30:00+00:00
+erj_145_ORD_1,trip,ARB,MSN,252.8,1.01,3903.64,Wisconsin Badgers,ARB,2026-01-10 18:00:00+00:00,Michigan Wolverines,SCE,2026-01-08 23:00:00+00:00
+erj_145_ORD_1,trip,LAF,LWC,391.3,1.57,6041.57,Kansas Jayhawks,MGW,2026-01-10 17:00:00+00:00,Purdue Boilermakers,MSN,2026-01-09 00:30:00+00:00
+erj_145_ORD_1,trip,LWC,CMI,327.2,1.31,5052.09,Illinois Fighting Illini,SCE,2026-01-11 20:00:00+00:00,Kansas Jayhawks,MGW,2026-01-10 17:00:00+00:00
+erj_145_ORD_1,trip,MSN,MSN,0.0,0.0,0.0,Wisconsin Badgers,ARB,2026-01-11 19:00:00+00:00,Wisconsin Badgers,ARB,2026-01-10 18:00:00+00:00
+erj_145_ORD_1,trip,MSN,MSN,0.0,0.0,0.0,Wisconsin Badgers,MSP,2026-01-14 00:00:00+00:00,Wisconsin Badgers,ARB,2026-01-11 19:00:00+00:00
+erj_145_ORD_1,trip,CMI,BMG,93.7,0.37,1446.33,Indiana Hoosiers,LAN,2026-01-14 00:00:00+00:00,Illinois Fighting Illini,SCE,2026-01-11 20:00:00+00:00
+erj_145_ORD_1,trip,BMG,CMI,93.7,0.37,1446.33,Illinois Fighting Illini,ORD,2026-01-15 01:30:00+00:00,Indiana Hoosiers,LAN,2026-01-14 00:00:00+00:00
+erj_145_ORD_1,trip,MSN,CID,129.3,0.52,1995.89,Iowa Hawkeyes,LAF,2026-01-14 23:30:00+00:00,Wisconsin Badgers,MSP,2026-01-14 00:00:00+00:00
+erj_145_ORD_1,trip,CMI,CMI,0.0,0.0,0.0,Illinois Fighting Illini,ARB,2026-01-16 00:00:00+00:00,Illinois Fighting Illini,ORD,2026-01-15 01:30:00+00:00
+erj_145_ORD_1,trip,CMI,LWC,327.2,1.31,5052.09,Kansas Jayhawks,PHX,2026-01-17 21:00:00+00:00,Illinois Fighting Illini,ARB,2026-01-16 00:00:00+00:00
+erj_145_ORD_1,trip,CID,ORD,170.1,0.68,2626.05,Northwestern Wildcats,CMI,2026-01-18 20:00:00+00:00,Iowa Hawkeyes,BMG,2026-01-17 19:00:00+00:00
+erj_145_ORD_1,trip,DSM,DSM,0.0,0.0,0.0,Iowa State Cyclones,SWO,2026-01-18 18:00:00+00:00,Iowa State Cyclones,LUK,2026-01-17 19:00:00+00:00
+erj_145_ORD_1,trip,DSM,LWC,167.5,0.67,2585.78,Kansas Jayhawks,WBU,2026-01-21 04:10:00+00:00,Iowa State Cyclones,SWO,2026-01-18 18:00:00+00:00
+erj_145_ORD_1,trip,LWC,LNK,131.1,0.52,2023.81,Nebraska Cornhuskers,MSN,2026-01-22 00:30:00+00:00,Kansas Jayhawks,WBU,2026-01-21 04:10:00+00:00
+erj_145_ORD_1,trip,LNK,MSN,358.6,1.43,5537.53,Wisconsin Badgers,SCE,2026-01-23 00:00:00+00:00,Nebraska Cornhuskers,MSN,2026-01-22 00:30:00+00:00
+erj_145_ORD_1,trip,MSN,DSM,214.5,0.86,3312.47,Iowa State Cyclones,SWO,2026-01-24 20:00:00+00:00,Wisconsin Badgers,SCE,2026-01-23 00:00:00+00:00
+erj_145_ORD_1,trip,DSM,MSN,214.5,0.86,3312.47,Wisconsin Badgers,MSP,2026-01-25 20:00:00+00:00,Iowa State Cyclones,SWO,2026-01-24 20:00:00+00:00
+erj_145_ORD_1,trip,MSP,MSN,197.6,0.79,3050.57,Wisconsin Badgers,CMH,2026-01-30 01:00:00+00:00,Minnesota Golden Gophers,SCE,2026-01-28 23:00:00+00:00
+erj_145_ORD_1,trip,MSP,CID,191.5,0.77,2957.36,Iowa Hawkeyes,LAX,2026-01-30 02:00:00+00:00,Minnesota Golden Gophers,MSN,2026-01-29 02:00:00+00:00
+erj_145_ORD_1,trip,ORD,ORD,0.0,0.0,0.0,Northwestern Wildcats,SCE,2026-02-15 21:00:00+00:00,Northwestern Wildcats,LNK,2026-02-14 18:00:00+00:00
+erj_145_ORD_1,trip,LNK,MSP,288.0,1.15,4446.33,Minnesota Golden Gophers,CMI,2026-03-01 19:00:00+00:00,Nebraska Cornhuskers,LAX,2026-02-28 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,MFE,408.3,1.63,6304.78,UT Rio Grande Valley Vaqueros,ACT,2025-11-04 01:00:00+00:00,,,
+erj_145_DFW_0,depot_in,MFE,DFW,408.3,1.63,6304.78,,,,UT Rio Grande Valley Vaqueros,ACT,2025-11-04 01:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,HNL,3283.6,13.13,50698.26,Hawai'i Rainbow Warriors,EUG,2025-11-05 03:30:00+00:00,,,
+erj_145_DFW_0,depot_in,HNL,DFW,3283.6,13.13,50698.26,,,,Hawai'i Rainbow Warriors,EUG,2025-11-05 03:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,ABQ,493.4,1.97,7618.29,New Mexico Lobos,WBU,2025-11-07 01:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LWC,377.6,1.51,5830.27,Kansas Jayhawks,RDU,2025-11-08 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,MHK,DFW,375.3,1.5,5795.05,,,,Kansas State Wildcats,DAL,2025-11-08 22:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,CLL,142.8,0.57,2204.77,Texas A&M Aggies,SWO,2025-11-09 19:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,USC Trojans,CLT,2025-11-09 20:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,CLT,2025-11-09 20:00:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,ACT,2025-11-10 01:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,SEA,1440.7,5.76,22244.46,Washington Huskies,ACT,2025-11-10 01:30:00+00:00,,,
+erj_145_DFW_0,depot_in,MSO,DFW,1146.2,4.58,17698.09,,,,Montana Lady Griz,SEA,2025-11-11 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Red Raiders,CMI,2025-11-12 01:30:00+00:00,,,
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,LOU,2025-11-13 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,OAK,1263.2,5.05,19504.51,California Golden Bears,MHK,2025-11-14 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,OAK,DFW,1263.2,5.05,19504.51,,,,California Golden Bears,MHK,2025-11-14 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,SAN,2025-11-14 02:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,HHR,2025-11-15 03:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,HHR,2025-11-15 03:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SEA,1440.7,5.76,22244.46,Washington Huskies,PUW,2025-11-15 04:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SFF,1277.5,5.11,19725.3,Gonzaga Bulldogs,PHX,2025-11-15 04:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,SLC,2025-11-15 21:00:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,SLC,2025-11-15 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,BNH,2025-11-16 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,BNH,2025-11-16 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,RDU,2025-11-16 18:00:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,RDU,2025-11-16 18:00:00+00:00
+erj_145_DFW_0,depot_in,CLL,DFW,142.8,0.57,2204.77,,,,Texas A&M Aggies,MHK,2025-11-16 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,BHM,2025-11-16 20:00:00+00:00,,,
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,SJC,2025-11-16 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,PDX,1402.3,5.61,21651.44,Portland Pilots,LAX,2025-11-19 03:00:00+00:00,,,
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,PUW,2025-11-20 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,HFD,2025-11-20 00:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,MSO,2025-11-20 02:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,MFE,2025-11-21 00:30:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,HNL,2025-11-21 04:59:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Red Raiders,NAS,2025-11-22 02:30:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,OGG,2025-11-25 04:43:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,DAL,2025-11-25 19:30:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,WBU,582.7,2.33,8997.23,Colorado Buffaloes,HHI,2025-11-26 00:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,UCLA Bruins,LAS,2025-11-26 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,OGG,2025-11-26 19:30:00+00:00
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,OGG,2025-11-26 19:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,SAN,2025-11-27 20:00:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,SAN,2025-11-27 20:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Lady Raiders,DAL,2025-11-27 20:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SJC,DFW,1247.4,4.99,19260.23,,,,Stanford Cardinal,PSP,2025-11-28 02:30:00+00:00
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowboys,MDW,2025-11-28 03:51:00+00:00
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,GCM,2025-11-28 16:00:00+00:00
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,NAS,2025-11-28 18:30:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,PSP,2025-11-28 21:30:00+00:00
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,GCM,2025-11-29 16:00:00+00:00
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,SPB,2025-11-29 17:00:00+00:00
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,MSO,2025-11-29 21:00:00+00:00
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,MGM,2025-11-30 20:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,USC Trojans,EUG,2025-12-03 03:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,OAK,2025-12-03 03:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowgirls,AFW,2025-12-04 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,AFW,2025-12-04 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LWC,377.6,1.51,5830.27,Kansas Jayhawks,ORD,2025-12-04 01:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LWC,DFW,377.6,1.51,5830.27,,,,Kansas Jayhawks,ORD,2025-12-04 01:00:00+00:00
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,UCLA Bruins,SEA,2025-12-04 04:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,ACT,77.8,0.31,1201.21,Baylor Bears,MEM,2025-12-06 21:30:00+00:00,,,
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,MEM,2025-12-06 21:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,SEA,1440.7,5.76,22244.46,Washington Huskies,LAX,2025-12-06 23:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,LAX,2025-12-06 23:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowboys,PHX,2025-12-07 00:30:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowboys,PHX,2025-12-07 00:30:00+00:00
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,LAX,2025-12-07 20:00:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,LAX,2025-12-08 01:00:00+00:00
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,SCE,2025-12-10 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,SCE,2025-12-10 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,SCE,2025-12-10 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,USC Trojans,SAN,2025-12-10 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SAN,DFW,1015.4,4.06,15677.03,,,,San Diego Toreros,MSN,2025-12-10 17:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Lady Raiders,PUW,2025-12-13 02:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Red Raiders,DAL,2025-12-13 17:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LAS,915.1,3.66,14129.65,UNLV Lady Rebels,LUK,2025-12-13 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LAS,DFW,915.1,3.66,14129.65,,,,UNLV Lady Rebels,LUK,2025-12-13 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,MHK,375.3,1.5,5795.05,Kansas State Wildcats,OMA,2025-12-13 20:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,BLD,2025-12-14 00:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,ABQ,2025-12-14 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,BHM,2025-12-14 02:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,UCLA Bruins,SEA,2025-12-14 04:45:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,UCLA Bruins,SEA,2025-12-14 04:45:00+00:00
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,AFW,2025-12-14 18:00:00+00:00
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,North Texas Mean Green,CMI,2025-12-14 20:00:00+00:00
+erj_145_DFW_0,depot_in,MHK,DFW,375.3,1.5,5795.05,,,,Kansas State Wildcats,OMA,2025-12-14 20:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,PUW,1237.5,4.95,19106.74,Washington State Cougars,LAX,2025-12-15 00:30:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SCK,1218.0,4.87,18806.32,Pacific Tigers,PVU,2025-12-17 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,LAX,2025-12-18 03:45:00+00:00
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,LAX,2025-12-18 03:45:00+00:00,,,
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,LAX,2025-12-18 03:45:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,ORL,2025-12-20 19:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,MHK,375.3,1.5,5795.05,Kansas State Wildcats,AFW,2025-12-20 22:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,EWR,2025-12-20 22:30:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Red Raiders,TEB,2025-12-21 01:10:00+00:00,,,
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,MGW,2025-12-21 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowgirls,LUK,2025-12-21 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,LUK,2025-12-21 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon State Beavers,PHX,2025-12-21 20:00:00+00:00,,,
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon State Beavers,PHX,2025-12-21 20:00:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,SCK,2025-12-21 21:00:00+00:00
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Lady Raiders,ACT,2025-12-21 21:00:00+00:00
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,SFO,2025-12-21 23:00:00+00:00
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,PHX,2025-12-22 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,USC Trojans,SFO,2025-12-22 01:30:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,DMA,2025-12-22 19:00:00+00:00
+erj_145_DFW_0,depot_in,SAN,DFW,1015.4,4.06,15677.03,,,,San Diego Toreros,SEA,2025-12-23 03:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,UCLA Bruins,CMH,2025-12-28 19:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,SEA,2025-12-30 04:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,SEA,2025-12-30 04:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,SEA,2025-12-30 04:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,ACT,77.8,0.31,1201.21,Baylor Bears,SWO,2025-12-31 20:00:00+00:00,,,
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,SWO,2025-12-31 20:00:00+00:00
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,SLC,2025-12-31 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,PVU,2026-01-01 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,PVU,2026-01-01 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,WBU,2026-01-01 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,WBU,2026-01-01 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,BWI,2026-01-03 00:30:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowboys,LBB,2026-01-03 18:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowboys,LBB,2026-01-03 18:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,MHK,2026-01-03 18:30:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,MHK,2026-01-03 18:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,LUK,2026-01-03 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,LUK,2026-01-03 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,ACT,77.8,0.31,1201.21,Baylor Bears,AFW,2026-01-03 19:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,SLC,2026-01-03 21:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,SLC,2026-01-03 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,SWO,2026-01-03 21:00:00+00:00,,,
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,SWO,2026-01-03 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,PVU,2026-01-03 21:00:00+00:00,,,
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,PVU,2026-01-03 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,WBU,582.7,2.33,8997.23,Colorado Buffaloes,PHX,2026-01-03 22:10:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,LBB,2026-01-04 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,LBB,2026-01-04 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,SLC,2026-01-04 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,SLC,2026-01-04 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,DMA,2026-01-07 01:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,LWC,2026-01-07 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Lady Raiders,MGW,2026-01-08 00:00:00+00:00
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,AFW,2026-01-08 00:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,MHK,375.3,1.5,5795.05,Kansas State Wildcats,HOU,2026-01-08 00:30:00+00:00,,,
+erj_145_DFW_0,depot_in,MHK,DFW,375.3,1.5,5795.05,,,,Kansas State Wildcats,HOU,2026-01-08 00:30:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,LAF,2026-01-08 01:30:00+00:00
+erj_145_DFW_0,depot_in,MHK,DFW,375.3,1.5,5795.05,,,,Kansas State Wildcats,DMA,2026-01-08 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,WBU,2026-01-08 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,WBU,2026-01-08 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,ACT,2026-01-10 18:00:00+00:00,,,
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,ACT,2026-01-10 18:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Lady Raiders,LUK,2026-01-10 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Lady Raiders,LUK,2026-01-10 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,MHK,375.3,1.5,5795.05,Kansas State Wildcats,PHX,2026-01-10 20:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,AFW,2026-01-10 21:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowboys,DSM,2026-01-10 21:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowboys,DSM,2026-01-10 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,MHK,2026-01-10 22:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Red Raiders,WBU,2026-01-11 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Red Raiders,WBU,2026-01-11 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SEA,1440.7,5.76,22244.46,Washington Huskies,LAF,2026-01-11 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,SWO,2026-01-11 19:00:00+00:00
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,MSP,2026-01-11 20:00:00+00:00
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,AFW,2026-01-11 22:00:00+00:00
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,UCLA Bruins,LNK,2026-01-12 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,LBB,2026-01-14 00:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,ACT,77.8,0.31,1201.21,Baylor Bears,SWO,2026-01-14 02:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,WBU,582.7,2.33,8997.23,Colorado Buffaloes,LUK,2026-01-15 00:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,MGW,2026-01-15 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,MGW,2026-01-15 00:00:00+00:00
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,LWC,2026-01-15 00:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,UCLA Bruins,MSP,2026-01-15 01:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,UCLA Bruins,MSP,2026-01-15 01:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,UCLA Bruins,SCE,2026-01-15 01:30:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,LBB,2026-01-15 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,LBB,2026-01-15 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,DMA,2026-01-15 03:30:00+00:00,,,
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,DMA,2026-01-15 03:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,PVU,2026-01-15 04:10:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,PVU,2026-01-15 04:10:00+00:00
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,CID,2026-01-16 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,SLC,2026-01-17 19:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,MHK,375.3,1.5,5795.05,Kansas State Wildcats,LBB,2026-01-17 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,MHK,DFW,375.3,1.5,5795.05,,,,Kansas State Wildcats,LBB,2026-01-17 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,HOU,2026-01-17 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,HOU,2026-01-17 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,ORL,2026-01-17 21:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,ORL,2026-01-17 21:00:00+00:00
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,PVU,2026-01-17 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,AFW,2026-01-17 22:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,AFW,2026-01-17 22:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,WBU,582.7,2.33,8997.23,Colorado Buffaloes,MGW,2026-01-17 23:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,LBB,2026-01-18 01:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,LBB,2026-01-18 01:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,MHK,375.3,1.5,5795.05,Kansas State Wildcats,SWO,2026-01-18 03:00:00+00:00,,,
+erj_145_DFW_0,depot_in,MHK,DFW,375.3,1.5,5795.05,,,,Kansas State Wildcats,SWO,2026-01-18 03:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,MSN,2026-01-18 21:00:00+00:00,,,
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,MSN,2026-01-18 21:00:00+00:00
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,MHK,2026-01-22 00:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,SEA,1440.7,5.76,22244.46,Washington Huskies,LNK,2026-01-22 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,LNK,2026-01-22 02:00:00+00:00
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Lady Raiders,PVU,2026-01-22 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,LBB,2026-01-24 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,LBB,2026-01-24 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,ORL,2026-01-24 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,ORL,2026-01-24 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,DSM,2026-01-24 21:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,ACT,2026-01-24 23:00:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,ACT,2026-01-24 23:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Lady Raiders,SLC,2026-01-25 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Lady Raiders,SLC,2026-01-25 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,USC Trojans,ARB,2026-01-25 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,ARB,2026-01-25 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,SEA,2026-01-25 20:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,ACT,2026-01-28 01:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,ACT,77.8,0.31,1201.21,Baylor Bears,LUK,2026-01-28 23:30:00+00:00,,,
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,LUK,2026-01-28 23:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,USC Trojans,CID,2026-01-29 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,CID,2026-01-29 00:00:00+00:00
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,UCLA Bruins,CMI,2026-01-29 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,EWR,2026-01-29 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,EWR,2026-01-29 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,SWO,2026-01-29 00:30:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,PHX,2026-01-29 01:30:00+00:00
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,AFW,2026-01-29 02:10:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,UCLA Bruins,EUG,2026-01-29 04:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,UCLA Bruins,EUG,2026-01-29 04:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,PHX,2026-01-31 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,PHX,2026-01-31 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,ACT,77.8,0.31,1201.21,Baylor Bears,MGW,2026-01-31 21:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,BWI,2026-01-31 22:00:00+00:00,,,
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,BWI,2026-01-31 22:00:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,ORD,2026-02-01 01:00:00+00:00
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,MGW,2026-02-01 18:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,WBU,2026-02-01 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,WBU,2026-02-01 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,LBB,2026-02-01 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,LBB,2026-02-01 19:00:00+00:00
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,LWC,2026-02-01 20:00:00+00:00
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,DMA,2026-02-01 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,ACT,77.8,0.31,1201.21,Baylor Bears,LUK,2026-02-04 23:30:00+00:00,,,
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,LUK,2026-02-04 23:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,ORL,2026-02-05 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,ORL,2026-02-05 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,AFW,2026-02-05 00:30:00+00:00,,,
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,AFW,2026-02-05 00:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,LWC,2026-02-05 00:30:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,LWC,2026-02-05 00:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,WBU,582.7,2.33,8997.23,Colorado Buffaloes,ACT,2026-02-05 01:00:00+00:00,,,
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,ACT,2026-02-05 01:00:00+00:00
+erj_145_DFW_0,depot_in,MHK,DFW,375.3,1.5,5795.05,,,,Kansas State Wildcats,DMA,2026-02-05 01:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowgirls,PHX,2026-02-05 01:30:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,PHX,2026-02-05 01:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,SWO,2026-02-05 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,SWO,2026-02-05 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,SLC,2026-02-05 02:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,LAF,2026-02-07 18:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,ACT,77.8,0.31,1201.21,Baylor Bears,DSM,2026-02-07 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,DSM,2026-02-07 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,MHK,375.3,1.5,5795.05,Kansas State Wildcats,AFW,2026-02-07 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,MHK,DFW,375.3,1.5,5795.05,,,,Kansas State Wildcats,AFW,2026-02-07 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,MGW,2026-02-07 19:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,LWC,2026-02-07 19:30:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,LWC,2026-02-07 19:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowboys,DMA,2026-02-07 21:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,MHK,2026-02-07 22:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,MHK,2026-02-07 22:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Lady Raiders,HOU,2026-02-07 23:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,WBU,2026-02-08 02:30:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SEA,1440.7,5.76,22244.46,Washington Huskies,LAX,2026-02-08 03:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,PVU,2026-02-08 03:30:00+00:00,,,
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,PVU,2026-02-08 03:30:00+00:00
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,CMI,2026-02-08 18:00:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,MSN,2026-02-08 20:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,ACT,2026-02-11 00:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,SLC,2026-02-11 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,SLC,2026-02-11 02:00:00+00:00
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,CMH,2026-02-11 23:30:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,CID,2026-02-12 00:30:00+00:00
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,HOU,2026-02-12 00:30:00+00:00
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,UCLA Bruins,LAN,2026-02-12 01:00:00+00:00
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,PHX,2026-02-12 01:30:00+00:00
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,SWO,2026-02-14 17:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,UCLA Bruins,ARB,2026-02-14 17:45:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,UCLA Bruins,ARB,2026-02-14 17:45:00+00:00
+erj_145_DFW_0,depot_out,DFW,LWC,377.6,1.51,5830.27,Kansas Jayhawks,DSM,2026-02-14 18:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,DMA,2026-02-14 19:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,WBU,2026-02-14 20:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Lady Raiders,SWO,2026-02-14 20:30:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,WBU,582.7,2.33,8997.23,Colorado Buffaloes,PVU,2026-02-14 21:00:00+00:00,,,
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,PVU,2026-02-14 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,LWC,2026-02-14 22:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Red Raiders,DMA,2026-02-14 23:30:00+00:00,,,
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Red Raiders,DMA,2026-02-14 23:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,SEA,2026-02-16 01:00:00+00:00,,,
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,SEA,2026-02-16 01:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,ORL,2026-02-18 00:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,UCLA Bruins,LAN,2026-02-18 01:30:00+00:00,,,
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Red Raiders,PHX,2026-02-18 04:10:00+00:00
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,LBB,2026-02-19 00:00:00+00:00
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,HOU,2026-02-19 00:30:00+00:00
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,DSM,2026-02-19 00:30:00+00:00
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,MGW,2026-02-19 01:30:00+00:00
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,DMA,2026-02-19 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SEA,1440.7,5.76,22244.46,Washington Huskies,LAX,2026-02-20 03:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowgirls,MGW,2026-02-21 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,MGW,2026-02-21 19:00:00+00:00
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,BWI,2026-02-21 20:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,HOU,2026-02-21 20:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,HOU,2026-02-21 20:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowboys,WBU,2026-02-21 20:30:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowboys,WBU,2026-02-21 20:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,LAX,2026-02-21 21:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,ACT,2026-02-21 21:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,PHX,2026-02-21 21:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,ACT,2026-02-22 01:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,ACT,2026-02-22 01:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Lady Raiders,WBU,2026-02-22 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Lady Raiders,WBU,2026-02-22 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,ACT,2026-02-25 02:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,WBU,2026-02-25 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,SCE,2026-02-25 23:00:00+00:00
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,LUK,2026-02-25 23:30:00+00:00
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,LAF,2026-02-26 00:00:00+00:00
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Lady Raiders,LWC,2026-02-26 00:30:00+00:00
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowgirls,DSM,2026-02-26 00:30:00+00:00
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,PHX,2026-02-26 01:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,WBU,582.7,2.33,8997.23,Colorado Buffaloes,HOU,2026-02-28 17:00:00+00:00,,,
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,HOU,2026-02-28 17:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,EUG,1393.6,5.57,21517.58,Oregon Ducks,ORD,2026-02-28 19:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,UCLA Bruins,MSP,2026-02-28 19:00:00+00:00,,,
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowboys,LUK,2026-02-28 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowboys,LUK,2026-02-28 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,PHX,2026-02-28 20:30:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,PHX,2026-02-28 20:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Red Raiders,DSM,2026-02-28 21:00:00+00:00,,,
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Red Raiders,DSM,2026-02-28 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,WBU,582.7,2.33,8997.23,Colorado Buffaloes,PVU,2026-02-28 21:00:00+00:00,,,
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,PVU,2026-02-28 21:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,BYU Cougars,MGW,2026-02-28 22:30:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,MGW,2026-02-28 22:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,AFW,15.3,0.06,235.55,TCU Horned Frogs,MHK,2026-02-28 23:30:00+00:00,,,
+erj_145_DFW_0,depot_in,AFW,DFW,15.3,0.06,235.55,,,,TCU Horned Frogs,MHK,2026-02-28 23:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,SLC,2026-03-01 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,SLC,2026-03-01 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,ACT,77.8,0.31,1201.21,Baylor Bears,ORL,2026-03-01 01:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,BYU Cougars,LUK,2026-03-04 00:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SWO,196.1,0.78,3027.26,Oklahoma State Cowboys,ORL,2026-03-04 00:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SWO,DFW,196.1,0.78,3027.26,,,,Oklahoma State Cowboys,ORL,2026-03-04 00:00:00+00:00
+erj_145_DFW_0,depot_in,EUG,DFW,1393.6,5.57,21517.58,,,,Oregon Ducks,CMI,2026-03-04 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,WBU,582.7,2.33,8997.23,Colorado Buffaloes,SLC,2026-03-04 02:00:00+00:00,,,
+erj_145_DFW_0,depot_in,WBU,DFW,582.7,2.33,8997.23,,,,Colorado Buffaloes,SLC,2026-03-04 02:00:00+00:00
+erj_145_DFW_0,depot_in,ACT,DFW,77.8,0.31,1201.21,,,,Baylor Bears,HOU,2026-03-05 02:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LAX,1070.8,4.28,16533.59,USC Trojans,SEA,2026-03-05 03:30:00+00:00,,,
+erj_145_DFW_0,depot_in,LAX,DFW,1070.8,4.28,16533.59,,,,USC Trojans,SEA,2026-03-05 03:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,HOU,215.1,0.86,3321.38,Houston Cougars,SWO,2026-03-07 17:00:00+00:00,,,
+erj_145_DFW_0,depot_in,HOU,DFW,215.1,0.86,3321.38,,,,Houston Cougars,SWO,2026-03-07 17:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,PHX,752.3,3.01,11615.82,Arizona State Sun Devils,DSM,2026-03-07 19:00:00+00:00,,,
+erj_145_DFW_0,depot_in,PHX,DFW,752.3,3.01,11615.82,,,,Arizona State Sun Devils,DSM,2026-03-07 19:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,SLC,858.3,3.43,13252.61,Utah Utes,ACT,2026-03-07 22:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SLC,DFW,858.3,3.43,13252.61,,,,Utah Utes,ACT,2026-03-07 22:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,LBB,244.5,0.98,3775.46,Texas Tech Red Raiders,PVU,2026-03-08 03:30:00+00:00,,,
+erj_145_DFW_0,depot_in,LBB,DFW,244.5,0.98,3775.46,,,,Texas Tech Red Raiders,PVU,2026-03-08 03:30:00+00:00
+erj_145_DFW_0,depot_out,DFW,SEA,1440.7,5.76,22244.46,Washington Huskies,EUG,2026-03-08 04:00:00+00:00,,,
+erj_145_DFW_0,depot_in,SEA,DFW,1440.7,5.76,22244.46,,,,Washington Huskies,EUG,2026-03-08 04:00:00+00:00
+erj_145_DFW_0,depot_out,DFW,DMA,701.7,2.81,10834.2,Arizona Wildcats,WBU,2026-03-08 04:00:00+00:00,,,
+erj_145_DFW_0,depot_in,DMA,DFW,701.7,2.81,10834.2,,,,Arizona Wildcats,WBU,2026-03-08 04:00:00+00:00
+erj_145_DFW_0,trip,ABQ,SLC,428.6,1.71,6617.48,Utah Utes,LGU,2025-11-08 01:00:00+00:00,New Mexico Lobos,WBU,2025-11-07 01:00:00+00:00
+erj_145_DFW_0,trip,LWC,MHK,68.2,0.27,1053.41,Kansas State Wildcats,DAL,2025-11-08 22:00:00+00:00,Kansas Jayhawks,RDU,2025-11-08 00:00:00+00:00
+erj_145_DFW_0,trip,SLC,MSO,379.0,1.52,5851.95,Montana Lady Griz,EUG,2025-11-08 22:00:00+00:00,Utah Utes,LGU,2025-11-08 01:00:00+00:00
+erj_145_DFW_0,trip,MSO,SEA,336.8,1.35,5199.66,Washington Huskies,ACT,2025-11-10 01:30:00+00:00,Montana Lady Griz,EUG,2025-11-08 22:00:00+00:00
+erj_145_DFW_0,trip,CLL,LBB,333.3,1.33,5146.0,Texas Tech Red Raiders,CMI,2025-11-12 01:30:00+00:00,Texas A&M Aggies,SWO,2025-11-09 19:00:00+00:00
+erj_145_DFW_0,trip,SEA,MSO,336.8,1.35,5199.66,Montana Lady Griz,SEA,2025-11-11 02:00:00+00:00,Washington Huskies,ACT,2025-11-10 01:30:00+00:00
+erj_145_DFW_0,trip,LBB,WBU,416.1,1.66,6425.35,Colorado Buffaloes,LOU,2025-11-13 00:00:00+00:00,Texas Tech Red Raiders,CMI,2025-11-12 01:30:00+00:00
+erj_145_DFW_0,trip,LBB,DAL,254.6,1.02,3930.54,SMU Mustangs,LBB,2025-11-14 00:00:00+00:00,Texas Tech Red Raiders,CMI,2025-11-12 01:30:00+00:00
+erj_145_DFW_0,trip,DAL,ACT,76.6,0.31,1182.22,Baylor Bears,LAS,2025-11-15 02:00:00+00:00,SMU Mustangs,LBB,2025-11-14 00:00:00+00:00
+erj_145_DFW_0,trip,PHX,DMA,94.9,0.38,1465.94,Arizona Wildcats,HHR,2025-11-15 03:00:00+00:00,Arizona State Sun Devils,SAN,2025-11-14 02:00:00+00:00
+erj_145_DFW_0,trip,ACT,CLL,75.9,0.3,1171.37,Texas A&M Aggies,MHK,2025-11-16 19:00:00+00:00,Baylor Bears,LAS,2025-11-15 02:00:00+00:00
+erj_145_DFW_0,trip,DMA,PHX,94.9,0.38,1465.94,Arizona State Sun Devils,SJC,2025-11-16 21:00:00+00:00,Arizona Wildcats,HHR,2025-11-15 03:00:00+00:00
+erj_145_DFW_0,trip,SEA,SEA,0.0,0.0,0.0,Washington Huskies,SLC,2025-11-15 21:00:00+00:00,Washington Huskies,PUW,2025-11-15 04:00:00+00:00
+erj_145_DFW_0,trip,SFF,SEA,202.5,0.81,3127.3,Washington Huskies,SLC,2025-11-15 21:00:00+00:00,Gonzaga Bulldogs,PHX,2025-11-15 04:00:00+00:00
+erj_145_DFW_0,trip,HOU,HOU,0.0,0.0,0.0,Houston Cougars,OCH,2025-11-18 00:00:00+00:00,Houston Cougars,BHM,2025-11-16 20:00:00+00:00
+erj_145_DFW_0,trip,HOU,SWO,401.7,1.61,6202.7,Oklahoma State Cowgirls,LGA,2025-11-20 00:00:00+00:00,Houston Cougars,OCH,2025-11-18 00:00:00+00:00
+erj_145_DFW_0,trip,PDX,EUG,91.7,0.37,1415.95,Oregon Ducks,PUW,2025-11-20 00:00:00+00:00,Portland Pilots,LAX,2025-11-19 03:00:00+00:00
+erj_145_DFW_0,trip,DMA,LAX,393.3,1.57,6072.49,USC Trojans,SBN,2025-11-21 23:00:00+00:00,Arizona Wildcats,HFD,2025-11-20 00:00:00+00:00
+erj_145_DFW_0,trip,SWO,MHK,179.9,0.72,2778.2,Kansas State Wildcats,MCI,2025-11-22 02:30:00+00:00,Oklahoma State Cowgirls,LGA,2025-11-20 00:00:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,Utah Utes,GON,2025-11-21 22:00:00+00:00,BYU Cougars,MSO,2025-11-20 02:00:00+00:00
+erj_145_DFW_0,trip,HOU,LBB,412.3,1.65,6366.2,Texas Tech Red Raiders,NAS,2025-11-22 02:30:00+00:00,Houston Cougars,MFE,2025-11-21 00:30:00+00:00
+erj_145_DFW_0,trip,PHX,SLC,441.5,1.77,6816.96,Utah Utes,GON,2025-11-23 19:30:00+00:00,Arizona State Sun Devils,HNL,2025-11-21 04:59:00+00:00
+erj_145_DFW_0,trip,SLC,LGU,60.5,0.24,933.45,Utah State Aggies,EUG,2025-11-23 22:00:00+00:00,Utah Utes,GON,2025-11-21 22:00:00+00:00
+erj_145_DFW_0,trip,LAX,LAS,205.3,0.82,3169.95,UNLV Lady Rebels,PHX,2025-11-22 21:00:00+00:00,USC Trojans,SBN,2025-11-21 23:00:00+00:00
+erj_145_DFW_0,trip,LBB,MFE,486.6,1.95,7513.41,UT Rio Grande Valley Vaqueros,AFW,2025-11-23 22:00:00+00:00,Texas Tech Red Raiders,NAS,2025-11-22 02:30:00+00:00
+erj_145_DFW_0,trip,LBB,LBB,0.0,0.0,0.0,Texas Tech Lady Raiders,ABQ,2025-11-23 20:00:00+00:00,Texas Tech Red Raiders,NAS,2025-11-22 02:30:00+00:00
+erj_145_DFW_0,trip,MHK,CMI,392.0,1.57,6052.19,Illinois Fighting Illini,TLH,2025-11-23 19:00:00+00:00,Kansas State Wildcats,MCI,2025-11-22 02:30:00+00:00
+erj_145_DFW_0,trip,LAS,LAX,205.3,0.82,3169.95,USC Trojans,OGG,2025-11-24 22:00:00+00:00,UNLV Lady Rebels,PHX,2025-11-22 21:00:00+00:00
+erj_145_DFW_0,trip,CMI,DSM,260.5,1.04,4021.64,Iowa State Cyclones,LAS,2025-11-24 21:30:00+00:00,Illinois Fighting Illini,TLH,2025-11-23 19:00:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,Utah Utes,PSP,2025-11-26 04:59:00+00:00,Utah Utes,GON,2025-11-23 19:30:00+00:00
+erj_145_DFW_0,trip,LBB,MHK,412.3,1.65,6366.15,Kansas State Wildcats,BMG,2025-11-26 01:00:00+00:00,Texas Tech Lady Raiders,ABQ,2025-11-23 20:00:00+00:00
+erj_145_DFW_0,trip,LGU,PUW,373.3,1.49,5763.5,Washington State Cougars,OGG,2025-11-26 01:22:00+00:00,Utah State Aggies,EUG,2025-11-23 22:00:00+00:00
+erj_145_DFW_0,trip,MFE,MFE,0.0,0.0,0.0,UT Rio Grande Valley Vaqueros,CMI,2025-11-25 01:00:00+00:00,UT Rio Grande Valley Vaqueros,AFW,2025-11-23 22:00:00+00:00
+erj_145_DFW_0,trip,DSM,MHK,199.1,0.8,3074.87,Kansas State Wildcats,BMG,2025-11-26 01:00:00+00:00,Iowa State Cyclones,LAS,2025-11-24 21:30:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,UCLA Bruins,SFO,2025-11-26 03:00:00+00:00,USC Trojans,OGG,2025-11-24 22:00:00+00:00
+erj_145_DFW_0,trip,MFE,ACT,330.6,1.32,5104.35,Baylor Bears,LAS,2025-11-27 03:30:00+00:00,UT Rio Grande Valley Vaqueros,CMI,2025-11-25 01:00:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,USC Trojans,OGG,2025-11-26 19:30:00+00:00,Arizona State Sun Devils,OGG,2025-11-25 04:43:00+00:00
+erj_145_DFW_0,trip,EUG,EUG,0.0,0.0,0.0,Oregon Ducks,DAL,2025-11-27 17:00:00+00:00,Oregon Ducks,DAL,2025-11-25 19:30:00+00:00
+erj_145_DFW_0,trip,WBU,SLC,311.9,1.25,4816.13,BYU Cougars,ISM,2025-11-27 22:00:00+00:00,Colorado Buffaloes,HHI,2025-11-26 00:00:00+00:00
+erj_145_DFW_0,trip,MHK,SWO,179.9,0.72,2778.2,Oklahoma State Cowboys,MDW,2025-11-28 03:51:00+00:00,Kansas State Wildcats,BMG,2025-11-26 01:00:00+00:00
+erj_145_DFW_0,trip,MHK,SWO,179.9,0.72,2778.2,Oklahoma State Cowboys,MDW,2025-11-28 03:51:00+00:00,Kansas State Wildcats,BMG,2025-11-26 01:00:00+00:00
+erj_145_DFW_0,trip,PUW,SFF,57.2,0.23,882.6,Gonzaga Bulldogs,LAS,2025-11-27 02:30:00+00:00,Washington State Cougars,OGG,2025-11-26 01:22:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,USC Trojans,OGG,2025-11-26 19:30:00+00:00,UCLA Bruins,SFO,2025-11-26 03:00:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,Utah Utes,PSP,2025-11-27 04:59:00+00:00,Utah Utes,PSP,2025-11-26 04:59:00+00:00
+erj_145_DFW_0,trip,LAX,SJC,267.7,1.07,4132.86,Stanford Cardinal,PSP,2025-11-28 02:30:00+00:00,UCLA Bruins,LAS,2025-11-26 19:00:00+00:00
+erj_145_DFW_0,trip,SFF,EUG,325.7,1.3,5029.1,Oregon Ducks,LAS,2025-11-27 19:00:00+00:00,Gonzaga Bulldogs,LAS,2025-11-27 02:30:00+00:00
+erj_145_DFW_0,trip,ACT,HOU,155.3,0.62,2397.85,Houston Cougars,NAS,2025-11-28 18:30:00+00:00,Baylor Bears,LAS,2025-11-27 03:30:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,BYU Cougars,SPB,2025-11-27 22:30:00+00:00,Utah Utes,PSP,2025-11-27 04:59:00+00:00
+erj_145_DFW_0,trip,EUG,SEA,203.1,0.81,3135.42,Washington Huskies,PSP,2025-11-28 21:30:00+00:00,Oregon Ducks,DAL,2025-11-27 17:00:00+00:00
+erj_145_DFW_0,trip,EUG,SEA,203.1,0.81,3135.42,Washington Huskies,PSP,2025-11-28 21:30:00+00:00,Oregon Ducks,LAS,2025-11-27 19:00:00+00:00
+erj_145_DFW_0,trip,LBB,SWO,277.3,1.11,4280.96,Oklahoma State Cowgirls,GCM,2025-11-28 16:00:00+00:00,Texas Tech Lady Raiders,DAL,2025-11-27 20:00:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,BYU Cougars,SPB,2025-11-29 17:00:00+00:00,BYU Cougars,ISM,2025-11-27 22:00:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,BYU Cougars,ISM,2025-11-29 02:30:00+00:00,BYU Cougars,SPB,2025-11-27 22:30:00+00:00
+erj_145_DFW_0,trip,SWO,SWO,0.0,0.0,0.0,Oklahoma State Cowgirls,GCM,2025-11-29 16:00:00+00:00,Oklahoma State Cowboys,MDW,2025-11-28 03:51:00+00:00
+erj_145_DFW_0,trip,SEA,EUG,203.1,0.81,3135.42,Oregon Ducks,MGM,2025-11-30 20:00:00+00:00,Washington Huskies,PSP,2025-11-28 21:30:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,Utah Utes,MSO,2025-11-29 21:00:00+00:00,BYU Cougars,ISM,2025-11-29 02:30:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,UCLA Bruins,SEA,2025-12-04 04:00:00+00:00,USC Trojans,EUG,2025-12-03 03:00:00+00:00
+erj_145_DFW_0,trip,SLC,PUW,420.8,1.68,6497.06,Washington State Cougars,PVU,2025-12-03 21:00:00+00:00,Utah Utes,OAK,2025-12-03 03:00:00+00:00
+erj_145_DFW_0,trip,PUW,SLC,420.8,1.68,6497.06,Utah Utes,FNL,2025-12-05 01:30:00+00:00,Washington State Cougars,PVU,2025-12-03 21:00:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,BYU Cougars,PDX,2025-12-07 01:00:00+00:00,Utah Utes,FNL,2025-12-05 01:30:00+00:00
+erj_145_DFW_0,trip,SEA,SEA,0.0,0.0,0.0,Washington Huskies,LAX,2025-12-08 01:00:00+00:00,Washington Huskies,LAX,2025-12-06 23:00:00+00:00
+erj_145_DFW_0,trip,EUG,EUG,0.0,0.0,0.0,Oregon Ducks,LAX,2025-12-07 20:00:00+00:00,Oregon Ducks,LAX,2025-12-06 23:00:00+00:00
+erj_145_DFW_0,trip,SLC,ABQ,428.6,1.71,6617.48,New Mexico Lobos,DMA,2025-12-07 21:00:00+00:00,BYU Cougars,PDX,2025-12-07 01:00:00+00:00
+erj_145_DFW_0,trip,ABQ,PHX,284.6,1.14,4394.76,Arizona State Sun Devils,SCE,2025-12-10 00:00:00+00:00,New Mexico Lobos,DMA,2025-12-07 21:00:00+00:00
+erj_145_DFW_0,trip,LAX,SAN,94.9,0.38,1464.81,San Diego Toreros,MSN,2025-12-10 17:00:00+00:00,USC Trojans,SAN,2025-12-10 02:00:00+00:00
+erj_145_DFW_0,trip,LBB,DMA,465.2,1.86,7183.36,Arizona Wildcats,BHM,2025-12-14 02:30:00+00:00,Texas Tech Lady Raiders,PUW,2025-12-13 02:00:00+00:00
+erj_145_DFW_0,trip,LBB,AFW,229.5,0.92,3543.38,North Texas Mean Green,CMI,2025-12-14 20:00:00+00:00,Texas Tech Red Raiders,DAL,2025-12-13 17:00:00+00:00
+erj_145_DFW_0,trip,MHK,MHK,0.0,0.0,0.0,Kansas State Wildcats,OMA,2025-12-14 20:30:00+00:00,Kansas State Wildcats,OMA,2025-12-13 20:00:00+00:00
+erj_145_DFW_0,trip,PHX,PHX,0.0,0.0,0.0,Arizona State Sun Devils,EUG,2025-12-14 21:00:00+00:00,Arizona State Sun Devils,BLD,2025-12-14 00:00:00+00:00
+erj_145_DFW_0,trip,HOU,ACT,155.3,0.62,2397.85,Baylor Bears,AFW,2025-12-14 18:00:00+00:00,Houston Cougars,ABQ,2025-12-14 02:00:00+00:00
+erj_145_DFW_0,trip,PHX,PHX,0.0,0.0,0.0,Arizona State Sun Devils,SFF,2025-12-17 02:00:00+00:00,Arizona State Sun Devils,EUG,2025-12-14 21:00:00+00:00
+erj_145_DFW_0,trip,PUW,MSO,124.5,0.5,1922.45,Montana Lady Griz,HOU,2025-12-16 17:00:00+00:00,Washington State Cougars,LAX,2025-12-15 00:30:00+00:00
+erj_145_DFW_0,trip,MSO,PDX,361.9,1.45,5587.11,Portland Pilots,EUG,2025-12-18 19:00:00+00:00,Montana Lady Griz,HOU,2025-12-16 17:00:00+00:00
+erj_145_DFW_0,trip,SCK,PDX,466.0,1.86,7195.28,Portland Pilots,EUG,2025-12-18 04:00:00+00:00,Pacific Tigers,PVU,2025-12-17 02:00:00+00:00
+erj_145_DFW_0,trip,PHX,PHX,0.0,0.0,0.0,Arizona State Sun Devils,LAX,2025-12-18 03:45:00+00:00,Arizona State Sun Devils,SFF,2025-12-17 02:00:00+00:00
+erj_145_DFW_0,trip,PDX,SEA,112.3,0.45,1733.31,Washington Huskies,SJC,2025-12-20 03:00:00+00:00,Portland Pilots,EUG,2025-12-18 04:00:00+00:00
+erj_145_DFW_0,trip,PDX,SJC,494.8,1.98,7639.99,Stanford Cardinal,PHX,2025-12-21 01:00:00+00:00,Portland Pilots,EUG,2025-12-18 19:00:00+00:00
+erj_145_DFW_0,trip,SEA,SEA,0.0,0.0,0.0,Washington Huskies,SCK,2025-12-21 21:00:00+00:00,Washington Huskies,SJC,2025-12-20 03:00:00+00:00
+erj_145_DFW_0,trip,SLC,SFF,473.2,1.89,7305.52,Gonzaga Bulldogs,PDX,2025-12-21 23:00:00+00:00,BYU Cougars,ORL,2025-12-20 19:00:00+00:00
+erj_145_DFW_0,trip,MHK,WBU,399.3,1.6,6165.72,Colorado Buffaloes,PHX,2025-12-22 00:00:00+00:00,Kansas State Wildcats,AFW,2025-12-20 22:00:00+00:00
+erj_145_DFW_0,trip,HOU,HOU,0.0,0.0,0.0,Houston Cougars,MGW,2025-12-21 19:00:00+00:00,Houston Cougars,EWR,2025-12-20 22:30:00+00:00
+erj_145_DFW_0,trip,SJC,EUG,410.2,1.64,6332.85,Oregon Ducks,SFO,2025-12-21 23:00:00+00:00,Stanford Cardinal,PHX,2025-12-21 01:00:00+00:00
+erj_145_DFW_0,trip,LBB,LBB,0.0,0.0,0.0,Texas Tech Lady Raiders,ACT,2025-12-21 21:00:00+00:00,Texas Tech Red Raiders,TEB,2025-12-21 01:10:00+00:00
+erj_145_DFW_0,trip,SFF,SLC,473.2,1.89,7305.52,Utah Utes,DMA,2025-12-22 19:00:00+00:00,Gonzaga Bulldogs,PDX,2025-12-21 23:00:00+00:00
+erj_145_DFW_0,trip,LAX,SAN,94.9,0.38,1464.81,San Diego Toreros,SEA,2025-12-23 03:00:00+00:00,USC Trojans,SFO,2025-12-22 01:30:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,USC Trojans,LNK,2025-12-29 20:00:00+00:00,UCLA Bruins,CMH,2025-12-28 19:00:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,UCLA Bruins,SCE,2025-12-31 19:00:00+00:00,USC Trojans,LNK,2025-12-29 20:00:00+00:00
+erj_145_DFW_0,trip,SLC,PHX,441.5,1.77,6816.96,Arizona State Sun Devils,SLC,2025-12-31 21:00:00+00:00,Utah Utes,SEA,2025-12-30 04:00:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,USC Trojans,ARB,2026-01-03 00:00:00+00:00,UCLA Bruins,SCE,2025-12-31 19:00:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,UCLA Bruins,CID,2026-01-03 23:00:00+00:00,USC Trojans,ARB,2026-01-03 00:00:00+00:00
+erj_145_DFW_0,trip,EUG,SEA,203.1,0.81,3135.42,Washington Huskies,BMG,2026-01-05 01:00:00+00:00,Oregon Ducks,BWI,2026-01-03 00:30:00+00:00
+erj_145_DFW_0,trip,ACT,ACT,0.0,0.0,0.0,Baylor Bears,DSM,2026-01-04 20:00:00+00:00,Baylor Bears,AFW,2026-01-03 19:00:00+00:00
+erj_145_DFW_0,trip,WBU,LNK,389.6,1.56,6015.84,Nebraska Cornhuskers,CMH,2026-01-05 23:30:00+00:00,Colorado Buffaloes,PHX,2026-01-03 22:10:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,USC Trojans,LAN,2026-01-06 01:30:00+00:00,UCLA Bruins,CID,2026-01-03 23:00:00+00:00
+erj_145_DFW_0,trip,ACT,LBB,262.8,1.05,4058.04,Texas Tech Red Raiders,HOU,2026-01-07 02:00:00+00:00,Baylor Bears,DSM,2026-01-04 20:00:00+00:00
+erj_145_DFW_0,trip,SEA,EUG,203.1,0.81,3135.42,Oregon Ducks,EWR,2026-01-06 00:00:00+00:00,Washington Huskies,BMG,2026-01-05 01:00:00+00:00
+erj_145_DFW_0,trip,LNK,MHK,102.4,0.41,1580.86,Kansas State Wildcats,DMA,2026-01-08 02:00:00+00:00,Nebraska Cornhuskers,CMH,2026-01-05 23:30:00+00:00
+erj_145_DFW_0,trip,EUG,EUG,0.0,0.0,0.0,Oregon Ducks,LAX,2026-01-07 03:00:00+00:00,Oregon Ducks,EWR,2026-01-06 00:00:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,UCLA Bruins,MSN,2026-01-07 02:00:00+00:00,USC Trojans,LAN,2026-01-06 01:30:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,Utah Utes,LWC,2026-01-08 00:30:00+00:00,BYU Cougars,DMA,2026-01-07 01:00:00+00:00
+erj_145_DFW_0,trip,LAX,PHX,321.2,1.28,4959.71,Arizona State Sun Devils,PVU,2026-01-08 02:00:00+00:00,UCLA Bruins,MSN,2026-01-07 02:00:00+00:00
+erj_145_DFW_0,trip,LBB,LBB,0.0,0.0,0.0,Texas Tech Lady Raiders,MGW,2026-01-08 00:00:00+00:00,Texas Tech Red Raiders,HOU,2026-01-07 02:00:00+00:00
+erj_145_DFW_0,trip,AFW,SWO,190.8,0.76,2945.65,Oklahoma State Cowgirls,AFW,2026-01-08 00:30:00+00:00,TCU Horned Frogs,LWC,2026-01-07 02:00:00+00:00
+erj_145_DFW_0,trip,EUG,SEA,203.1,0.81,3135.42,Washington Huskies,LAF,2026-01-08 01:30:00+00:00,Oregon Ducks,LAX,2026-01-07 03:00:00+00:00
+erj_145_DFW_0,trip,SLC,WBU,311.9,1.25,4816.13,Colorado Buffaloes,ACT,2026-01-09 01:00:00+00:00,Utah Utes,LWC,2026-01-08 00:30:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,USC Trojans,MSP,2026-01-10 01:30:00+00:00,Arizona State Sun Devils,PVU,2026-01-08 02:00:00+00:00
+erj_145_DFW_0,trip,WBU,SLC,311.9,1.25,4816.13,BYU Cougars,HOU,2026-01-10 19:00:00+00:00,Colorado Buffaloes,ACT,2026-01-09 01:00:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,USC Trojans,MSP,2026-01-11 20:00:00+00:00,USC Trojans,MSP,2026-01-10 01:30:00+00:00
+erj_145_DFW_0,trip,SLC,WBU,311.9,1.25,4816.13,Colorado Buffaloes,SWO,2026-01-11 19:00:00+00:00,BYU Cougars,HOU,2026-01-10 19:00:00+00:00
+erj_145_DFW_0,trip,MHK,LWC,68.2,0.27,1053.41,Kansas Jayhawks,ACT,2026-01-11 20:00:00+00:00,Kansas State Wildcats,PHX,2026-01-10 20:00:00+00:00
+erj_145_DFW_0,trip,DMA,LAX,393.3,1.57,6072.49,UCLA Bruins,LNK,2026-01-12 00:00:00+00:00,Arizona Wildcats,AFW,2026-01-10 21:00:00+00:00
+erj_145_DFW_0,trip,SLC,PHX,441.5,1.77,6816.96,Arizona State Sun Devils,AFW,2026-01-11 22:00:00+00:00,Utah Utes,MHK,2026-01-10 22:00:00+00:00
+erj_145_DFW_0,trip,SEA,EUG,203.1,0.81,3135.42,Oregon Ducks,LNK,2026-01-14 02:00:00+00:00,Washington Huskies,LAF,2026-01-11 19:00:00+00:00
+erj_145_DFW_0,trip,LWC,DSM,167.5,0.67,2585.78,Iowa State Cyclones,LWC,2026-01-14 02:00:00+00:00,Kansas Jayhawks,ACT,2026-01-11 20:00:00+00:00
+erj_145_DFW_0,trip,HOU,SWO,401.7,1.61,6202.7,Oklahoma State Cowgirls,LWC,2026-01-15 00:30:00+00:00,Houston Cougars,LBB,2026-01-14 00:00:00+00:00
+erj_145_DFW_0,trip,EUG,SEA,203.1,0.81,3135.42,Washington Huskies,BMG,2026-01-15 00:00:00+00:00,Oregon Ducks,LNK,2026-01-14 02:00:00+00:00
+erj_145_DFW_0,trip,DSM,DSM,0.0,0.0,0.0,Iowa State Cyclones,WBU,2026-01-15 02:00:00+00:00,Iowa State Cyclones,LWC,2026-01-14 02:00:00+00:00
+erj_145_DFW_0,trip,ACT,ACT,0.0,0.0,0.0,Baylor Bears,SLC,2026-01-15 02:00:00+00:00,Baylor Bears,SWO,2026-01-14 02:00:00+00:00
+erj_145_DFW_0,trip,SEA,EUG,203.1,0.81,3135.42,Oregon Ducks,CID,2026-01-16 02:00:00+00:00,Washington Huskies,BMG,2026-01-15 00:00:00+00:00
+erj_145_DFW_0,trip,WBU,LNK,389.6,1.56,6015.84,Nebraska Cornhuskers,LAN,2026-01-16 00:00:00+00:00,Colorado Buffaloes,LUK,2026-01-15 00:00:00+00:00
+erj_145_DFW_0,trip,LAX,LAX,0.0,0.0,0.0,UCLA Bruins,CMH,2026-01-17 18:00:00+00:00,UCLA Bruins,SCE,2026-01-15 01:30:00+00:00
+erj_145_DFW_0,trip,ACT,ACT,0.0,0.0,0.0,Baylor Bears,LWC,2026-01-17 01:00:00+00:00,Baylor Bears,SLC,2026-01-15 02:00:00+00:00
+erj_145_DFW_0,trip,DSM,MSN,214.5,0.86,3312.47,Wisconsin Badgers,ORD,2026-01-16 01:00:00+00:00,Iowa State Cyclones,WBU,2026-01-15 02:00:00+00:00
+erj_145_DFW_0,trip,LNK,LNK,0.0,0.0,0.0,Nebraska Cornhuskers,ORD,2026-01-17 21:00:00+00:00,Nebraska Cornhuskers,LAN,2026-01-16 00:00:00+00:00
+erj_145_DFW_0,trip,MSN,MSP,197.6,0.79,3050.57,Minnesota Golden Gophers,CMI,2026-01-17 17:00:00+00:00,Wisconsin Badgers,ORD,2026-01-16 01:00:00+00:00
+erj_145_DFW_0,trip,ACT,ACT,0.0,0.0,0.0,Baylor Bears,PVU,2026-01-17 21:00:00+00:00,Baylor Bears,LWC,2026-01-17 01:00:00+00:00
+erj_145_DFW_0,trip,MSP,MSP,0.0,0.0,0.0,Minnesota Golden Gophers,SEA,2026-01-18 23:00:00+00:00,Minnesota Golden Gophers,CMI,2026-01-17 17:00:00+00:00
+erj_145_DFW_0,trip,LAX,PHX,321.2,1.28,4959.71,Arizona State Sun Devils,HOU,2026-01-18 23:30:00+00:00,UCLA Bruins,CMH,2026-01-17 18:00:00+00:00
+erj_145_DFW_0,trip,AFW,AFW,0.0,0.0,0.0,TCU Horned Frogs,EWR,2026-01-19 17:00:00+00:00,TCU Horned Frogs,SLC,2026-01-17 19:00:00+00:00
+erj_145_DFW_0,trip,LNK,AFW,472.3,1.89,7292.93,TCU Horned Frogs,EWR,2026-01-19 17:00:00+00:00,Nebraska Cornhuskers,ORD,2026-01-17 21:00:00+00:00
+erj_145_DFW_0,trip,WBU,WBU,0.0,0.0,0.0,Colorado Buffaloes,ORL,2026-01-18 19:00:00+00:00,Colorado Buffaloes,MGW,2026-01-17 23:00:00+00:00
+erj_145_DFW_0,trip,WBU,LWC,467.4,1.87,7216.51,Kansas Jayhawks,DMA,2026-01-21 01:00:00+00:00,Colorado Buffaloes,ORL,2026-01-18 19:00:00+00:00
+erj_145_DFW_0,trip,MSP,MSP,0.0,0.0,0.0,Minnesota Golden Gophers,CMH,2026-01-20 23:30:00+00:00,Minnesota Golden Gophers,SEA,2026-01-18 23:00:00+00:00
+erj_145_DFW_0,trip,PHX,SLC,441.5,1.77,6816.96,Utah Utes,MHK,2026-01-21 02:00:00+00:00,Arizona State Sun Devils,HOU,2026-01-18 23:30:00+00:00
+erj_145_DFW_0,trip,AFW,LBB,229.5,0.92,3543.38,Texas Tech Red Raiders,ACT,2026-01-21 02:00:00+00:00,TCU Horned Frogs,EWR,2026-01-19 17:00:00+00:00
+erj_145_DFW_0,trip,AFW,SWO,190.8,0.76,2945.65,Oklahoma State Cowboys,AFW,2026-01-21 01:00:00+00:00,TCU Horned Frogs,EWR,2026-01-19 17:00:00+00:00
+erj_145_DFW_0,trip,MSP,MSP,0.0,0.0,0.0,Minnesota Golden Gophers,EUG,2026-01-22 02:00:00+00:00,Minnesota Golden Gophers,CMH,2026-01-20 23:30:00+00:00
+erj_145_DFW_0,trip,SWO,HOU,401.7,1.61,6202.7,Houston Cougars,MHK,2026-01-22 00:30:00+00:00,Oklahoma State Cowboys,AFW,2026-01-21 01:00:00+00:00
+erj_145_DFW_0,trip,LWC,CID,235.4,0.94,3634.24,Iowa Hawkeyes,BWI,2026-01-22 23:00:00+00:00,Kansas Jayhawks,DMA,2026-01-21 01:00:00+00:00
+erj_145_DFW_0,trip,LBB,LBB,0.0,0.0,0.0,Texas Tech Lady Raiders,PVU,2026-01-22 02:00:00+00:00,Texas Tech Red Raiders,ACT,2026-01-21 02:00:00+00:00
+erj_145_DFW_0,trip,SLC,PHX,441.5,1.77,6816.96,Arizona State Sun Devils,MGW,2026-01-22 00:00:00+00:00,Utah Utes,MHK,2026-01-21 02:00:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,USC Trojans,LAN,2026-01-23 01:00:00+00:00,Arizona State Sun Devils,MGW,2026-01-22 00:00:00+00:00
+erj_145_DFW_0,trip,MSP,LNK,288.0,1.15,4446.33,Nebraska Cornhuskers,MSP,2026-01-24 17:00:00+00:00,Minnesota Golden Gophers,EUG,2026-01-22 02:00:00+00:00
+erj_145_DFW_0,trip,CID,LWC,235.4,0.94,3634.24,Kansas Jayhawks,MHK,2026-01-25 01:00:00+00:00,Iowa Hawkeyes,BWI,2026-01-22 23:00:00+00:00
+erj_145_DFW_0,trip,LAX,PHX,321.2,1.28,4959.71,Arizona State Sun Devils,LUK,2026-01-24 17:00:00+00:00,USC Trojans,LAN,2026-01-23 01:00:00+00:00
+erj_145_DFW_0,trip,LNK,MHK,102.4,0.41,1580.86,Kansas State Wildcats,LWC,2026-01-25 18:00:00+00:00,Nebraska Cornhuskers,MSP,2026-01-24 17:00:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,USC Trojans,MSN,2026-01-25 21:00:00+00:00,Arizona State Sun Devils,LUK,2026-01-24 17:00:00+00:00
+erj_145_DFW_0,trip,DMA,LAX,393.3,1.57,6072.49,UCLA Bruins,ORD,2026-01-25 21:00:00+00:00,Arizona Wildcats,DSM,2026-01-24 21:00:00+00:00
+erj_145_DFW_0,trip,LWC,SWO,192.8,0.77,2976.51,Oklahoma State Cowgirls,WBU,2026-01-25 20:00:00+00:00,Kansas Jayhawks,MHK,2026-01-25 01:00:00+00:00
+erj_145_DFW_0,trip,MHK,MHK,0.0,0.0,0.0,Kansas State Wildcats,MGW,2026-01-28 01:30:00+00:00,Kansas State Wildcats,LWC,2026-01-25 18:00:00+00:00
+erj_145_DFW_0,trip,EUG,SEA,203.1,0.81,3135.42,Washington Huskies,EWR,2026-01-26 20:00:00+00:00,Oregon Ducks,SEA,2026-01-25 20:00:00+00:00
+erj_145_DFW_0,trip,SWO,LNK,281.6,1.13,4347.37,Nebraska Cornhuskers,ARB,2026-01-28 00:00:00+00:00,Oklahoma State Cowgirls,WBU,2026-01-25 20:00:00+00:00
+erj_145_DFW_0,trip,LAX,PHX,321.2,1.28,4959.71,Arizona State Sun Devils,ORL,2026-01-28 00:00:00+00:00,USC Trojans,MSN,2026-01-25 21:00:00+00:00
+erj_145_DFW_0,trip,LAX,DMA,393.3,1.57,6072.49,Arizona Wildcats,PVU,2026-01-27 02:00:00+00:00,UCLA Bruins,ORD,2026-01-25 21:00:00+00:00
+erj_145_DFW_0,trip,SEA,SEA,0.0,0.0,0.0,Washington Huskies,BWI,2026-01-29 00:00:00+00:00,Washington Huskies,EWR,2026-01-26 20:00:00+00:00
+erj_145_DFW_0,trip,DMA,DMA,0.0,0.0,0.0,Arizona Wildcats,PHX,2026-01-29 01:30:00+00:00,Arizona Wildcats,PVU,2026-01-27 02:00:00+00:00
+erj_145_DFW_0,trip,LNK,DSM,146.3,0.59,2258.24,Iowa State Cyclones,LBB,2026-01-29 00:00:00+00:00,Nebraska Cornhuskers,ARB,2026-01-28 00:00:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,UCLA Bruins,CMI,2026-01-29 00:00:00+00:00,Arizona State Sun Devils,ORL,2026-01-28 00:00:00+00:00
+erj_145_DFW_0,trip,HOU,HOU,0.0,0.0,0.0,Houston Cougars,AFW,2026-01-29 02:10:00+00:00,Houston Cougars,ACT,2026-01-28 01:00:00+00:00
+erj_145_DFW_0,trip,MHK,WBU,399.3,1.6,6165.72,Colorado Buffaloes,MHK,2026-01-30 00:30:00+00:00,Kansas State Wildcats,MGW,2026-01-28 01:30:00+00:00
+erj_145_DFW_0,trip,SEA,SEA,0.0,0.0,0.0,Washington Huskies,CMI,2026-01-30 02:00:00+00:00,Washington Huskies,BWI,2026-01-29 00:00:00+00:00
+erj_145_DFW_0,trip,DSM,LWC,167.5,0.67,2585.78,Kansas Jayhawks,AFW,2026-01-29 23:00:00+00:00,Iowa State Cyclones,LBB,2026-01-29 00:00:00+00:00
+erj_145_DFW_0,trip,SLC,WBU,311.9,1.25,4816.13,Colorado Buffaloes,DSM,2026-01-30 00:00:00+00:00,BYU Cougars,SWO,2026-01-29 00:30:00+00:00
+erj_145_DFW_0,trip,LWC,SWO,192.8,0.77,2976.51,Oklahoma State Cowboys,SLC,2026-01-31 23:05:00+00:00,Kansas Jayhawks,AFW,2026-01-29 23:00:00+00:00
+erj_145_DFW_0,trip,WBU,SLC,311.9,1.25,4816.13,BYU Cougars,LWC,2026-01-31 21:30:00+00:00,Colorado Buffaloes,DSM,2026-01-30 00:00:00+00:00
+erj_145_DFW_0,trip,WBU,LBB,416.1,1.66,6425.35,Texas Tech Red Raiders,ORL,2026-01-31 17:00:00+00:00,Colorado Buffaloes,MHK,2026-01-30 00:30:00+00:00
+erj_145_DFW_0,trip,SEA,SEA,0.0,0.0,0.0,Washington Huskies,ORD,2026-02-01 01:00:00+00:00,Washington Huskies,CMI,2026-01-30 02:00:00+00:00
+erj_145_DFW_0,trip,LBB,MHK,412.3,1.65,6366.15,Kansas State Wildcats,PHX,2026-02-01 21:00:00+00:00,Texas Tech Red Raiders,ORL,2026-01-31 17:00:00+00:00
+erj_145_DFW_0,trip,ACT,ACT,0.0,0.0,0.0,Baylor Bears,MGW,2026-02-01 18:00:00+00:00,Baylor Bears,MGW,2026-01-31 21:00:00+00:00
+erj_145_DFW_0,trip,SLC,WBU,311.9,1.25,4816.13,Colorado Buffaloes,LWC,2026-02-01 20:00:00+00:00,BYU Cougars,LWC,2026-01-31 21:30:00+00:00
+erj_145_DFW_0,trip,SWO,SWO,0.0,0.0,0.0,Oklahoma State Cowgirls,DMA,2026-02-01 21:00:00+00:00,Oklahoma State Cowboys,SLC,2026-01-31 23:05:00+00:00
+erj_145_DFW_0,trip,MHK,LWC,68.2,0.27,1053.41,Kansas Jayhawks,LBB,2026-02-03 02:00:00+00:00,Kansas State Wildcats,PHX,2026-02-01 21:00:00+00:00
+erj_145_DFW_0,trip,LWC,MHK,68.2,0.27,1053.41,Kansas State Wildcats,DMA,2026-02-05 01:00:00+00:00,Kansas Jayhawks,LBB,2026-02-03 02:00:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,USC Trojans,ORD,2026-02-06 02:00:00+00:00,Arizona State Sun Devils,SLC,2026-02-05 02:00:00+00:00
+erj_145_DFW_0,trip,LAX,PHX,321.2,1.28,4959.71,Arizona State Sun Devils,ACT,2026-02-07 23:00:00+00:00,USC Trojans,ORD,2026-02-06 02:00:00+00:00
+erj_145_DFW_0,trip,EUG,EUG,0.0,0.0,0.0,Oregon Ducks,BMG,2026-02-10 01:45:00+00:00,Oregon Ducks,LAF,2026-02-07 18:00:00+00:00
+erj_145_DFW_0,trip,DMA,LAX,393.3,1.57,6072.49,USC Trojans,SCE,2026-02-08 17:00:00+00:00,Arizona Wildcats,MGW,2026-02-07 19:00:00+00:00
+erj_145_DFW_0,trip,SWO,AFW,190.8,0.76,2945.65,TCU Horned Frogs,WBU,2026-02-08 20:00:00+00:00,Oklahoma State Cowboys,DMA,2026-02-07 21:00:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,UCLA Bruins,ARB,2026-02-08 20:00:00+00:00,Arizona State Sun Devils,ACT,2026-02-07 23:00:00+00:00
+erj_145_DFW_0,trip,LBB,LBB,0.0,0.0,0.0,Texas Tech Red Raiders,MGW,2026-02-08 18:00:00+00:00,Texas Tech Lady Raiders,HOU,2026-02-07 23:00:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,USC Trojans,CMI,2026-02-08 18:00:00+00:00,Arizona State Sun Devils,WBU,2026-02-08 02:30:00+00:00
+erj_145_DFW_0,trip,SEA,SEA,0.0,0.0,0.0,Washington Huskies,MSN,2026-02-08 20:00:00+00:00,Washington Huskies,LAX,2026-02-08 03:00:00+00:00
+erj_145_DFW_0,trip,LAX,DMA,393.3,1.57,6072.49,Arizona Wildcats,LWC,2026-02-10 02:00:00+00:00,USC Trojans,SCE,2026-02-08 17:00:00+00:00
+erj_145_DFW_0,trip,LBB,SWO,277.3,1.11,4280.96,Oklahoma State Cowboys,PHX,2026-02-11 02:00:00+00:00,Texas Tech Red Raiders,MGW,2026-02-08 18:00:00+00:00
+erj_145_DFW_0,trip,LAX,DMA,393.3,1.57,6072.49,Arizona Wildcats,LUK,2026-02-10 23:30:00+00:00,UCLA Bruins,ARB,2026-02-08 20:00:00+00:00
+erj_145_DFW_0,trip,AFW,SWO,190.8,0.76,2945.65,Oklahoma State Cowgirls,MHK,2026-02-11 00:30:00+00:00,TCU Horned Frogs,WBU,2026-02-08 20:00:00+00:00
+erj_145_DFW_0,trip,EUG,SEA,203.1,0.81,3135.42,Washington Huskies,CID,2026-02-12 00:30:00+00:00,Oregon Ducks,BMG,2026-02-10 01:45:00+00:00
+erj_145_DFW_0,trip,DMA,LAX,393.3,1.57,6072.49,UCLA Bruins,LAN,2026-02-12 01:00:00+00:00,Arizona Wildcats,LWC,2026-02-10 02:00:00+00:00
+erj_145_DFW_0,trip,DMA,LAX,393.3,1.57,6072.49,USC Trojans,CMH,2026-02-11 23:30:00+00:00,Arizona Wildcats,LUK,2026-02-10 23:30:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,Utah Utes,PHX,2026-02-12 01:30:00+00:00,BYU Cougars,ACT,2026-02-11 00:00:00+00:00
+erj_145_DFW_0,trip,SWO,AFW,190.8,0.76,2945.65,TCU Horned Frogs,ACT,2026-02-13 00:00:00+00:00,Oklahoma State Cowgirls,MHK,2026-02-11 00:30:00+00:00
+erj_145_DFW_0,trip,SWO,WBU,449.3,1.8,6936.98,Colorado Buffaloes,HOU,2026-02-12 00:30:00+00:00,Oklahoma State Cowboys,PHX,2026-02-11 02:00:00+00:00
+erj_145_DFW_0,trip,AFW,AFW,0.0,0.0,0.0,TCU Horned Frogs,SWO,2026-02-14 17:00:00+00:00,TCU Horned Frogs,ACT,2026-02-13 00:00:00+00:00
+erj_145_DFW_0,trip,LWC,CID,235.4,0.94,3634.24,Iowa Hawkeyes,LNK,2026-02-16 17:00:00+00:00,Kansas Jayhawks,DSM,2026-02-14 18:00:00+00:00
+erj_145_DFW_0,trip,PHX,SLC,441.5,1.77,6816.96,Utah Utes,SWO,2026-02-16 19:00:00+00:00,Arizona State Sun Devils,DMA,2026-02-14 19:00:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,Utah Utes,LUK,2026-02-15 17:00:00+00:00,BYU Cougars,WBU,2026-02-14 20:00:00+00:00
+erj_145_DFW_0,trip,LBB,ACT,262.8,1.05,4058.04,Baylor Bears,ORL,2026-02-15 19:00:00+00:00,Texas Tech Lady Raiders,SWO,2026-02-14 20:30:00+00:00
+erj_145_DFW_0,trip,HOU,HOU,0.0,0.0,0.0,Houston Cougars,DSM,2026-02-17 02:00:00+00:00,Houston Cougars,LWC,2026-02-14 22:00:00+00:00
+erj_145_DFW_0,trip,SLC,WBU,311.9,1.25,4816.13,Colorado Buffaloes,DMA,2026-02-18 01:00:00+00:00,Utah Utes,LUK,2026-02-15 17:00:00+00:00
+erj_145_DFW_0,trip,ACT,ACT,0.0,0.0,0.0,Baylor Bears,MHK,2026-02-18 02:00:00+00:00,Baylor Bears,ORL,2026-02-15 19:00:00+00:00
+erj_145_DFW_0,trip,CID,MSN,129.3,0.52,1995.89,Wisconsin Badgers,CMH,2026-02-18 01:30:00+00:00,Iowa Hawkeyes,LNK,2026-02-16 17:00:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,BYU Cougars,DMA,2026-02-19 02:00:00+00:00,Utah Utes,SWO,2026-02-16 19:00:00+00:00
+erj_145_DFW_0,trip,HOU,LBB,412.3,1.65,6366.2,Texas Tech Red Raiders,PHX,2026-02-18 04:10:00+00:00,Houston Cougars,DSM,2026-02-17 02:00:00+00:00
+erj_145_DFW_0,trip,AFW,AFW,0.0,0.0,0.0,TCU Horned Frogs,HOU,2026-02-19 00:30:00+00:00,TCU Horned Frogs,ORL,2026-02-18 00:00:00+00:00
+erj_145_DFW_0,trip,WBU,SLC,311.9,1.25,4816.13,Utah Utes,MGW,2026-02-19 01:30:00+00:00,Colorado Buffaloes,DMA,2026-02-18 01:00:00+00:00
+erj_145_DFW_0,trip,LAX,PHX,321.2,1.28,4959.71,Arizona State Sun Devils,DSM,2026-02-19 00:30:00+00:00,UCLA Bruins,LAN,2026-02-18 01:30:00+00:00
+erj_145_DFW_0,trip,MSN,MSN,0.0,0.0,0.0,Wisconsin Badgers,LAX,2026-02-20 02:00:00+00:00,Wisconsin Badgers,CMH,2026-02-18 01:30:00+00:00
+erj_145_DFW_0,trip,ACT,ACT,0.0,0.0,0.0,Baylor Bears,LBB,2026-02-19 00:00:00+00:00,Baylor Bears,MHK,2026-02-18 02:00:00+00:00
+erj_145_DFW_0,trip,MSN,DSM,214.5,0.86,3312.47,Iowa State Cyclones,PVU,2026-02-22 03:38:00+00:00,Wisconsin Badgers,LAX,2026-02-20 02:00:00+00:00
+erj_145_DFW_0,trip,SEA,SEA,0.0,0.0,0.0,Washington Huskies,BWI,2026-02-21 20:00:00+00:00,Washington Huskies,LAX,2026-02-20 03:00:00+00:00
+erj_145_DFW_0,trip,EUG,EUG,0.0,0.0,0.0,Oregon Ducks,BMG,2026-02-22 18:00:00+00:00,Oregon Ducks,LAX,2026-02-21 21:00:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,USC Trojans,CMH,2026-02-22 19:00:00+00:00,Arizona State Sun Devils,ACT,2026-02-21 21:00:00+00:00
+erj_145_DFW_0,trip,HOU,HOU,0.0,0.0,0.0,Houston Cougars,LWC,2026-02-24 02:00:00+00:00,Houston Cougars,PHX,2026-02-21 21:00:00+00:00
+erj_145_DFW_0,trip,DSM,DSM,0.0,0.0,0.0,Iowa State Cyclones,AFW,2026-02-22 21:00:00+00:00,Iowa State Cyclones,PVU,2026-02-22 03:38:00+00:00
+erj_145_DFW_0,trip,EUG,SEA,203.1,0.81,3135.42,Washington Huskies,EWR,2026-02-24 23:30:00+00:00,Oregon Ducks,BMG,2026-02-22 18:00:00+00:00
+erj_145_DFW_0,trip,LAX,PHX,321.2,1.28,4959.71,Arizona State Sun Devils,AFW,2026-02-25 02:00:00+00:00,USC Trojans,CMH,2026-02-22 19:00:00+00:00
+erj_145_DFW_0,trip,DSM,DSM,0.0,0.0,0.0,Iowa State Cyclones,SLC,2026-02-25 02:00:00+00:00,Iowa State Cyclones,AFW,2026-02-22 21:00:00+00:00
+erj_145_DFW_0,trip,HOU,HOU,0.0,0.0,0.0,Houston Cougars,DMA,2026-02-25 01:00:00+00:00,Houston Cougars,LWC,2026-02-24 02:00:00+00:00
+erj_145_DFW_0,trip,SEA,EUG,203.1,0.81,3135.42,Oregon Ducks,LAF,2026-02-26 00:00:00+00:00,Washington Huskies,EWR,2026-02-24 23:30:00+00:00
+erj_145_DFW_0,trip,HOU,AFW,226.5,0.91,3497.35,TCU Horned Frogs,LUK,2026-02-25 23:30:00+00:00,Houston Cougars,DMA,2026-02-25 01:00:00+00:00
+erj_145_DFW_0,trip,DMA,LBB,465.2,1.86,7183.36,Texas Tech Lady Raiders,LWC,2026-02-26 00:30:00+00:00,Arizona Wildcats,ACT,2026-02-25 02:00:00+00:00
+erj_145_DFW_0,trip,DSM,SWO,360.1,1.44,5560.01,Oklahoma State Cowgirls,DSM,2026-02-26 00:30:00+00:00,Iowa State Cyclones,SLC,2026-02-25 02:00:00+00:00
+erj_145_DFW_0,trip,PHX,LAX,321.2,1.28,4959.71,USC Trojans,SCE,2026-02-25 23:00:00+00:00,Arizona State Sun Devils,AFW,2026-02-25 02:00:00+00:00
+erj_145_DFW_0,trip,SLC,SLC,0.0,0.0,0.0,BYU Cougars,PHX,2026-02-26 01:30:00+00:00,Utah Utes,WBU,2026-02-25 02:00:00+00:00
+erj_145_DFW_0,trip,EUG,SEA,203.1,0.81,3135.42,Washington Huskies,EUG,2026-03-01 22:00:00+00:00,Oregon Ducks,ORD,2026-02-28 19:00:00+00:00
+erj_145_DFW_0,trip,LAX,PHX,321.2,1.28,4959.71,Arizona State Sun Devils,LBB,2026-03-01 20:00:00+00:00,UCLA Bruins,MSP,2026-02-28 19:00:00+00:00
+erj_145_DFW_0,trip,ACT,ACT,0.0,0.0,0.0,Baylor Bears,AFW,2026-03-01 21:00:00+00:00,Baylor Bears,ORL,2026-03-01 01:00:00+00:00
+erj_145_DFW_0,trip,PHX,SLC,441.5,1.77,6816.96,BYU Cougars,LUK,2026-03-04 00:00:00+00:00,Arizona State Sun Devils,LBB,2026-03-01 20:00:00+00:00
+erj_145_DFW_0,trip,ACT,AFW,82.9,0.33,1280.4,TCU Horned Frogs,LBB,2026-03-04 00:00:00+00:00,Baylor Bears,AFW,2026-03-01 21:00:00+00:00
+erj_145_DFW_0,trip,SEA,EUG,203.1,0.81,3135.42,Oregon Ducks,CMI,2026-03-04 02:00:00+00:00,Washington Huskies,EUG,2026-03-01 22:00:00+00:00
+erj_145_DFW_0,trip,AFW,ACT,82.9,0.33,1280.4,Baylor Bears,HOU,2026-03-05 02:00:00+00:00,TCU Horned Frogs,LBB,2026-03-04 00:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,RSW,448.4,1.79,6923.77,Florida Gulf Coast Eagles,CMI,2025-11-08 01:30:00+00:00,,,
+erj_145_ATL_0,depot_in,RSW,ATL,448.4,1.79,6923.77,,,,Florida Gulf Coast Eagles,CMI,2025-11-08 01:30:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,CLL,2025-11-15 01:00:00+00:00,,,
+erj_145_ATL_0,depot_in,CUB,ATL,172.4,0.69,2662.31,,,,South Carolina Gamecocks,LAX,2025-11-16 02:15:00+00:00
+erj_145_ATL_0,depot_out,ATL,TCL,161.4,0.65,2492.74,Alabama Crimson Tide,MDW,2025-11-20 02:15:00+00:00,,,
+erj_145_ATL_0,depot_out,ATL,MGM,127.4,0.51,1967.63,Auburn Tigers,LAS,2025-11-25 01:00:00+00:00,,,
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,SJU,2025-11-26 15:00:00+00:00,,,
+erj_145_ATL_0,depot_in,TCL,ATL,161.4,0.65,2492.74,,,,Alabama Crimson Tide,NAS,2025-11-26 21:00:00+00:00
+erj_145_ATL_0,depot_in,BWI,ATL,500.8,2.0,7732.76,,,,Maryland Terrapins,SJU,2025-11-27 20:00:00+00:00
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,SJU,2025-11-28 20:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,TLH,194.3,0.78,2999.94,Florida State Seminoles,HOU,2025-12-07 01:00:00+00:00,,,
+erj_145_ATL_0,depot_in,TLH,ATL,194.3,0.78,2999.94,,,,Florida State Seminoles,HOU,2025-12-07 01:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,MGM,127.4,0.51,1967.63,Auburn Tigers,DMA,2025-12-07 03:00:00+00:00,,,
+erj_145_ATL_0,depot_in,MGM,ATL,127.4,0.51,1967.63,,,,Auburn Tigers,DMA,2025-12-07 03:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,RDU,309.0,1.24,4771.33,North Carolina Tar Heels,FTY,2025-12-20 20:26:00+00:00,,,
+erj_145_ATL_0,depot_in,RDU,ATL,309.0,1.24,4771.33,,,,North Carolina Tar Heels,FTY,2025-12-20 20:26:00+00:00
+erj_145_ATL_0,depot_out,ATL,RSW,448.4,1.79,6923.77,Florida Gulf Coast Eagles,ORL,2025-12-20 22:00:00+00:00,,,
+erj_145_ATL_0,depot_in,RSW,ATL,448.4,1.79,6923.77,,,,Florida Gulf Coast Eagles,ORL,2025-12-20 22:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,MGM,127.4,0.51,1967.63,Auburn Tigers,IND,2025-12-20 23:30:00+00:00,,,
+erj_145_ATL_0,depot_in,MGM,ATL,127.4,0.51,1967.63,,,,Auburn Tigers,IND,2025-12-20 23:30:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,LBB,2026-01-01 00:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,LBB,2026-01-01 00:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,SWO,2026-01-07 01:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,PHX,2026-01-08 01:30:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,DMA,2026-01-10 21:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,DMA,2026-01-10 21:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,MHK,2026-01-15 01:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,MHK,2026-01-15 01:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,DSM,2026-01-21 00:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,ACT,2026-01-22 01:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,WBU,2026-01-24 20:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,WBU,2026-01-24 20:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,DSM,2026-01-31 20:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,DSM,2026-01-31 20:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,HOU,2026-02-05 00:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,HOU,2026-02-05 00:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,SWO,2026-02-07 19:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,LUK,2026-02-08 19:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,MGW,2026-02-12 00:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,MGW,2026-02-12 00:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,LUK,2026-02-21 19:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,LUK,2026-02-21 19:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,SLC,2026-02-22 02:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,SLC,2026-02-22 02:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,PVU,2026-02-25 04:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,PVU,2026-02-25 04:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,HOU,2026-03-01 20:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,HOU,2026-03-01 20:00:00+00:00
+erj_145_ATL_0,depot_out,ATL,ORL,344.6,1.38,5320.16,UCF Knights,MGW,2026-03-07 01:00:00+00:00,,,
+erj_145_ATL_0,depot_in,ORL,ATL,344.6,1.38,5320.16,,,,UCF Knights,MGW,2026-03-07 01:00:00+00:00
+erj_145_ATL_0,trip,ORL,CUB,326.2,1.3,5036.21,South Carolina Gamecocks,LAX,2025-11-16 02:15:00+00:00,UCF Knights,CLL,2025-11-15 01:00:00+00:00
+erj_145_ATL_0,trip,TCL,MEM,160.6,0.64,2479.75,Memphis Tigers,NAS,2025-11-20 23:00:00+00:00,Alabama Crimson Tide,MDW,2025-11-20 02:15:00+00:00
+erj_145_ATL_0,trip,MEM,LOU,282.3,1.13,4358.47,Louisville Cardinals,LUK,2025-11-21 23:30:00+00:00,Memphis Tigers,NAS,2025-11-20 23:00:00+00:00
+erj_145_ATL_0,trip,LOU,CUB,341.4,1.37,5271.47,South Carolina Gamecocks,LWB,2025-11-23 22:00:00+00:00,Louisville Cardinals,LUK,2025-11-21 23:30:00+00:00
+erj_145_ATL_0,trip,CUB,BWI,375.6,1.5,5799.8,Maryland Terrapins,LAS,2025-11-26 02:30:00+00:00,South Carolina Gamecocks,LWB,2025-11-23 22:00:00+00:00
+erj_145_ATL_0,trip,MGM,MGM,0.0,0.0,0.0,Auburn Tigers,LAS,2025-11-26 01:30:00+00:00,Auburn Tigers,LAS,2025-11-25 01:00:00+00:00
+erj_145_ATL_0,trip,MGM,TCL,82.6,0.33,1275.94,Alabama Crimson Tide,NAS,2025-11-26 21:00:00+00:00,Auburn Tigers,LAS,2025-11-26 01:30:00+00:00
+erj_145_ATL_0,trip,BWI,BWI,0.0,0.0,0.0,Maryland Terrapins,SJU,2025-11-27 20:00:00+00:00,Maryland Terrapins,LAS,2025-11-26 02:30:00+00:00
+erj_145_ATL_0,trip,ORL,ORL,0.0,0.0,0.0,UCF Knights,SJU,2025-11-28 20:00:00+00:00,UCF Knights,SJU,2025-11-26 15:00:00+00:00
+erj_145_ATL_0,trip,ORL,ORL,0.0,0.0,0.0,UCF Knights,PHX,2026-01-08 01:30:00+00:00,UCF Knights,SWO,2026-01-07 01:00:00+00:00
+erj_145_ATL_0,trip,ORL,ORL,0.0,0.0,0.0,UCF Knights,ACT,2026-01-22 01:00:00+00:00,UCF Knights,DSM,2026-01-21 00:00:00+00:00
+erj_145_ATL_0,trip,ORL,ORL,0.0,0.0,0.0,UCF Knights,LUK,2026-02-08 19:00:00+00:00,UCF Knights,SWO,2026-02-07 19:00:00+00:00
