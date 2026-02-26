@@ -15,8 +15,9 @@ from charternetwork.model import trips_from_df, Fleet
 from charternetwork.arcs import generate_arcs
 from charternetwork.optimize import solve
 from charternetwork.baseline import compare
-from charternetwork.viz import exec_summary
+from charternetwork.viz import exec_summary, render_panel, render_chain_detail, COLORS
 from charternetwork.analytics import per_conference, per_team, unit_economics, extract_chains, format_chain_narrative, schedule_df
+from charternetwork.viz_data import route_lines_naive, route_lines_nearest, route_lines_opt
 
 DATA = Path(__file__).parent.parent / 'data'
 DEFAULT_BASES = dict(IND=2, ORD=2, DFW=1, ATL=1)
@@ -107,17 +108,35 @@ def run(args):
     print(f"  Savings vs single hub: ${comp['savings_vs_single']:,.0f} ({comp['pct_vs_single']:.1f}%)")
     print(f"  Savings vs nearest:    ${comp['savings_vs_nearest']:,.0f} ({comp['pct_vs_nearest']:.1f}%)\n")
 
-    # 10. Render executive summary
-    print("Rendering executive summary...")
+    # 10. Render all visualizations
+    viz_dir = DATA / 'results'
+    viz_dir.mkdir(parents=True, exist_ok=True)
+    print("Rendering visualizations...")
+
+    def _save(fig, name):
+        p = str(viz_dir / name)
+        fig.savefig(p, dpi=150, bbox_inches='tight', facecolor=fig.get_facecolor())
+        plt.close(fig)
+        print(f"  -> {name}")
+
+    # Individual panels (for reveal sequence)
+    _save(render_panel(trips, apts, route_lines_naive(trips, args.hub, apts),
+          [args.hub], comp['single_hub'], 'Single Hub', COLORS['ferry_naive']),
+          'single_hub.png')
+    _save(render_panel(trips, apts, route_lines_nearest(trips, bases_list, apts),
+          bases_list, comp['nearest_base'], 'Nearest Base', COLORS['accent']),
+          'nearest_base.png')
+    _save(render_panel(trips, apts, route_lines_opt(sol, trips, apts),
+          bases_list, comp['optimized'], 'ILP Optimized', COLORS['ferry_opt']),
+          'optimized.png')
+
+    # Three-panel exec summary
+    out_path = args.output or str(viz_dir / 'exec_summary.png')
     fig = exec_summary(trips, sol, apts,
                        single_hub=comp['single_hub'],
                        nearest_base=comp['nearest_base'],
                        base=args.hub, bases=bases_list)
-
-    out_path = args.output or str(DATA / 'results' / 'exec_summary.png')
-    fig.savefig(out_path, dpi=150, bbox_inches='tight', facecolor=fig.get_facecolor())
-    plt.close(fig)
-    print(f"  -> Saved to {out_path}")
+    _save(fig, 'exec_summary.png')
 
     # 11. Analytics
     print("Running analytics...")
@@ -144,6 +163,12 @@ def run(args):
     csv_path = str(DATA / 'results' / 'optimized_schedule.csv')
     sched.to_csv(csv_path, index=False)
     print(f"\n  -> Schedule exported to {csv_path}")
+
+    # Top chain detail map
+    if chains:
+        fig = render_chain_detail(chains[0], apts)
+        if fig is not None:
+            _save(fig, 'top_chain.png')
 
     print(f"\n=== Done ===")
 
